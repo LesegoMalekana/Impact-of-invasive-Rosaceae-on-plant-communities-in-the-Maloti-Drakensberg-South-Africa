@@ -1,0 +1,2696 @@
+Elevation,Site,Date,Treatment,Plot_ID,Natives_sp,Natives_nr,Alien_sp,Alien_nr
+1730,Low,October_2022,Control,LK_1,Helichrysumrugulosum,31,Conyza sumatrensis,2
+1730,Low,October_2022,Control,LK_1,Helichrysumnudifolium,29,Hypochaeris radicata,34
+1730,Low,October_2022,Control,LK_1,Helichrysumodoratissimum,20,Oenothera rosea,50
+1730,Low,October_2022,Control,LK_1,Artemisiaafra,1,NA,NA
+1730,Low,October_2022,Control,LK_1,Cynoglossumhispidum,3,NA,NA
+1730,Low,October_2022,Control,LK_1,Helichryssumcooperi,1,NA,NA
+1730,Low,October_2022,Control,LK_1,Helichrysumpilosellum,1,NA,NA
+1730,Low,October_2022,Control,LK_1,Helichrysumsplendidum,1,NA,NA
+1730,Low,October_2022,Control,LK_1,Ranunculusmultifidus,3,NA,NA
+1730,Low,October_2022,Control,LK_1,Rumexacetosella,50,NA,NA
+1730,Low,October_2022,Control,LK_1,Taraxacumofficinale,12,NA,NA
+1730,Low,December_2022,Control,LK_1,Helichrysumrugulosum,50,Oenothera stricta,50
+1730,Low,December_2022,Control,LK_1,Albucarupestris,2,Rumex acetosella,50
+1730,Low,December_2022,Control,LK_1,Artemisiaafra,1,Hypochaeris radicata,50
+1730,Low,December_2022,Control,LK_1,Carexzuluensis,3,Conyza sumatrensis,3
+1730,Low,December_2022,Control,LK_1,Helichrysumcymosum,4,NA,NA
+1730,Low,December_2022,Control,LK_1,Helichrysumnudifolium,8,NA,NA
+1730,Low,December_2022,Control,LK_1,Hermanniageniculata,2,NA,NA
+1730,Low,December_2022,Control,LK_1,Cynoglossumhispidum,1,NA,NA
+1730,Low,December_2022,Control,LK_1,Ranunculusmultifidus,2,NA,NA
+1730,Low,December_2022,Control,LK_1,Ajugaophrydis,5,NA,NA
+1730,Low,December_2022,Control,LK_1,Asclepiashumilis,2,NA,NA
+1730,Low,December_2022,Control,LK_1,Helichrysumodoratissimum,4,NA,NA
+1730,Low,December_2022,Control,LK_1,Commelinaafricana,2,NA,NA
+1730,Low,December_2022,Control,LK_1,Trifoliumburchellianum,50,NA,NA
+1730,Low,March_2023,Control,LK_1,Helichrysumcallicomum,6,Hypochaerisradicata,15
+1730,Low,March_2023,Control,LK_1,Rumexlanceolatus,34,Oenotherarosea,50
+1730,Low,March_2023,Control,LK_1,Helichrysumrugulosum,50,Conyzasumatrensis,2
+1730,Low,March_2023,Control,LK_1,Helichrysumnudifolium,22,NA,NA
+1730,Low,March_2023,Control,LK_1,Wahlenbergiakrebsii,2,NA,NA
+1730,Low,March_2023,Control,LK_1,Rumexacetosella,50,NA,NA
+1730,Low,March_2023,Control,LK_1,Cynoglossumhispidum,3,NA,NA
+1730,Low,March_2023,Control,LK_1,Artemisiaafra,1,NA,NA
+1730,Low,March_2023,Control,LK_1,Hermanniageniculata,1,NA,NA
+1730,Low,March_2023,Control,LK_1,Oxalisdepressa,50,NA,NA
+1730,Low,March_2023,Control,LK_1,Helichrysumcymosum,4,NA,NA
+1730,Low,March_2023,Control,LK_1,Cyperussemitrifidus,50,NA,NA
+1730,Low,March_2023,Control,LK_1,Hibiscusaethiopicus,1,NA,NA
+1730,Low,March_2023,Control,LK_1,Helichrysumpallidum,2,NA,NA
+1730,Low,June_2023,Control,LK_1,Helichrysumcallicomum,6,Oenothera rosea,50
+1730,Low,June_2023,Control,LK_1,Helichrysumcymosum,3,Hypochaeris radicata,15
+1730,Low,June_2023,Control,LK_1,Oxalisdepressa,50,NA,NA
+1730,Low,June_2023,Control,LK_1,Artemisiaafra,1,NA,NA
+1730,Low,June_2023,Control,LK_1,Cynoglossumhispidum,1,NA,NA
+1730,Low,June_2023,Control,LK_1,Helichrysumnudifolium,1,NA,NA
+1730,Low,October_2023,Control,LK_1,Artemisiaafra,1,Oenothera rosea,50
+1730,Low,October_2023,Control,LK_1,Cynoglossumhispidum,1,Hypochaeris radicata,50
+1730,Low,October_2023,Control,LK_1,Helichrysumcymosum,3,Verbena bonariensis,1
+1730,Low,October_2023,Control,LK_1,Helichrysumodoratissimum,2,NA,NA
+1730,Low,October_2023,Control,LK_1,Helichrysumnudifolium,17,NA,NA
+1730,Low,October_2022,Control,LK_2,Helichrysumodoratissimum,50,Conyza sumatrensis,15
+1730,Low,October_2022,Control,LK_2,Salviarepens,22,Equisetum hyemale,50
+1730,Low,October_2022,Control,LK_2,Taraxacumofficinale,1,Hypochaeris radicata,4
+1730,Low,October_2022,Control,LK_2,Artemisiaafra,20,Medicago polymorpha,1
+1730,Low,October_2022,Control,LK_2,Helichrysumrugulosum,7,Nidorella podocephala,5
+1730,Low,October_2022,Control,LK_2,Cinerariadieterlenii,4,Oenothera rosea,50
+1730,Low,October_2022,Control,LK_2,Cyperusesculentus,50,Plantago lanceolata,2
+1730,Low,October_2022,Control,LK_2,Oxaliscorniculata,12,Verbena bonariensis,6
+1730,Low,October_2022,Control,LK_2,Agrimoniaprocera,1,NA,NA
+1730,Low,October_2022,Control,LK_2,Cheilantheseckloniana,1,NA,NA
+1730,Low,October_2022,Control,LK_2,Helichryssumcooperi,1,NA,NA
+1842,Middle,October_2022,Control,MK_4,Diospyrosrubriflora,1,Conyza sumatrensis,14
+1842,Middle,October_2022,Control,MK_1,Plantagolanceolata,1,Conyza sumatrensis,16
+1842,Middle,October_2022,Control,MK_5,Helichrysumnudifolium,10,Cyperus esculentus,50
+1842,Middle,October_2022,Control,MK_3,Berkheyarhapontica,43,Hypochaeris radicata,1
+1842,Middle,October_2022,Control,MK_4,Helichrysumodoratissimum,1,Hypochaeris radicata,2
+1842,Middle,October_2022,Control,MK_4,Helichrysumodoratissimum,35,Nidorella podocephala,18
+1842,Middle,October_2022,Control,MK_1,Stachyshyssopoides,28,Nidorella podocephala,32
+1842,Middle,October_2022,Control,MK_4,Cynoglossumhispidum,23,Oenothera rosea,25
+1842,Middle,October_2022,Control,MK_5,Hibiscusaethiopicus,36,Oenothera rosea,47
+1842,Middle,October_2022,Control,MK_1,Berkheyarhapontica,18,Oxalis corniculata,3
+1842,Middle,October_2022,Control,MK_5,Cynoglossumhispidum,17,Oxalis corniculata,1
+1842,Middle,October_2022,Control,MK_2,Helichrysumaureonitens,22,Oxalis corniculata,1
+1842,Middle,October_2022,Control,MK_4,Helichrysumnudifolium,6,Oxalis corniculata,2
+1842,Middle,October_2022,Control,MK_1,Cyperusesculentus,50,Plantago lanceolata,50
+1842,Middle,October_2022,Control,MK_2,Cyperusesculentus,50,Plantago lanceolata,6
+1842,Middle,October_2022,Control,MK_4,Cyperusesculentus,37,Plantago lanceolata,1
+1842,Middle,October_2022,Control,MK_3,Senecioerubescens,16,Plantago lanceolata,1
+1842,Middle,October_2022,Control,MK_2,Berkheyadiscolor,4,Taraxacum officinale,4
+1842,Middle,October_2022,Control,MK_3,Plantagolanceolata,0,Taraxacum officinale,1
+1842,Middle,October_2022,Control,MK_1,Senecioerubescens,10,Taraxacum officinale,4
+1842,Middle,October_2022,Control,MK_1,Berkheyadiscolor,13,Trifolium repens,2
+1842,Middle,October_2022,Control,MK_2,Stachyshyssopoides,50,Trifolium repens,1
+1842,Middle,October_2022,Control,MK_2,Berkheyarhapontica,5,Verbena bonariensis,50
+1842,Middle,October_2022,Control,MK_6,Helichrysumodoratissimum,3,Verbena bonariensis,2
+1842,Middle,October_2022,Control,MK_5,Helichrysumrugulosum,21,Verbena bonariensis,50
+1842,Middle,October_2022,Control,MK_1,Helichrysumsplendidum,7,Verbena bonariensis,24
+1842,Middle,October_2022,Control,MK_4,Stachyshyssopoides,28,Verbena bonariensis,46
+1842,Middle,October_2022,Control,MK_2,Amaranthushybridus,3,NA,NA
+1842,Middle,October_2022,Control,MK_2,Amaranthushybridus,20,NA,NA
+1842,Middle,October_2022,Control,MK_6,Amaranthushybridus,6,NA,NA
+1842,Middle,October_2022,Control,MK_3,Anthospermum,1,NA,NA
+1842,Middle,October_2022,Control,MK_4,Anthospermum,1,NA,NA
+1842,Middle,October_2022,Control,MK_6,Anthospermumherbaceum,15,NA,NA
+1842,Middle,October_2022,Control,MK_4,Arctotisarctotoides,10,NA,NA
+1842,Middle,October_2022,Control,MK_6,Asclepiasstellifera,6,NA,NA
+1842,Middle,October_2022,Control,MK_3,Berkheyadiscolor,5,NA,NA
+1842,Middle,October_2022,Control,MK_4,Cinerariadieterlenii,1,NA,NA
+1842,Middle,October_2022,Control,MK_1,Cirsiumvulgare,1,NA,NA
+1842,Middle,October_2022,Control,MK_2,Cirsiumvulgare,1,NA,NA
+1842,Middle,October_2022,Control,MK_3,Cirsiumvulgare,17,NA,NA
+1842,Middle,October_2022,Control,MK_4,Cirsiumvulgare,6,NA,NA
+1842,Middle,October_2022,Control,MK_5,Cirsiumvulgare,47,NA,NA
+1842,Middle,October_2022,Control,MK_2,Coniumcffontanum,6,NA,NA
+1842,Middle,October_2022,Control,MK_2,Conyzasumatrensis,7,NA,NA
+1842,Middle,October_2022,Control,MK_2,Conyzasumatrensis,9,NA,NA
+1842,Middle,October_2022,Control,MK_2,Crassuladependens,11,NA,NA
+1842,Middle,October_2022,Control,MK_3,Cynoglossumhispidum,28,NA,NA
+1842,Middle,October_2022,Control,MK_1,Diospyrosrubriflora,2,NA,NA
+1842,Middle,October_2022,Control,MK_6,Diospyrosrubriflora,1,NA,NA
+1842,Middle,October_2022,Control,MK_2,Euphobiastricta,1,NA,NA
+1842,Middle,October_2022,Control,MK_3,Feliciafilifolia,1,NA,NA
+1842,Middle,October_2022,Control,MK_4,Feliciafilifolia,41,NA,NA
+1842,Middle,October_2022,Control,MK_5,Feliciafilifolia,1,NA,NA
+1842,Middle,October_2022,Control,MK_6,Helichrysumaureonitens,4,NA,NA
+1842,Middle,October_2022,Control,MK_3,Helichrysumnudifolium,40,NA,NA
+1842,Middle,October_2022,Control,MK_1,Helichrysumodoratissimum,6,NA,NA
+1842,Middle,October_2022,Control,MK_1,Helichrysumodoratissimum,50,NA,NA
+1842,Middle,October_2022,Control,MK_3,Helichrysumodoratissimum,6,NA,NA
+1842,Middle,October_2022,Control,MK_3,Helichrysumodoratissimum,8,NA,NA
+1842,Middle,October_2022,Control,MK_3,Helichrysumodoratissimum,2,NA,NA
+1842,Middle,October_2022,Control,MK_3,Helichrysumodoratissimum,3,NA,NA
+1842,Middle,October_2022,Control,MK_3,Helichrysumodoratissimum,1,NA,NA
+1842,Middle,October_2022,Control,MK_4,Helichrysumodoratissimum,5,NA,NA
+1842,Middle,October_2022,Control,MK_4,Helichrysumodoratissimum,17,NA,NA
+1842,Middle,October_2022,Control,MK_5,Helichrysumodoratissimum,1,NA,NA
+1842,Middle,October_2022,Control,MK_5,Helichrysumodoratissimum,12,NA,NA
+1842,Middle,October_2022,Control,MK_6,Helichrysumodoratissimum,48,NA,NA
+1842,Middle,October_2022,Control,MK_6,Helichrysumodoratissimum,6,NA,NA
+1842,Middle,October_2022,Control,MK_6,Helichrysumodoratissimum,12,NA,NA
+1842,Middle,October_2022,Control,MK_1,Helichrysumrugulosum,3,NA,NA
+1842,Middle,October_2022,Control,MK_3,Helichrysumrugulosum,50,NA,NA
+1842,Middle,October_2022,Control,MK_5,Helichrysumsplendidum,50,NA,NA
+1842,Middle,October_2022,Control,MK_4,Hermanniadepressa,41,NA,NA
+1842,Middle,October_2022,Control,MK_5,Hermanniadepressa,34,NA,NA
+1842,Middle,October_2022,Control,MK_5,Hermanniadepressa,1,NA,NA
+1842,Middle,October_2022,Control,MK_3,Hibiscusaethiopicus,50,NA,NA
+1842,Middle,October_2022,Control,MK_4,Hibiscusaethiopicus,34,NA,NA
+1842,Middle,October_2022,Control,MK_6,Hibiscusaethiopicus,4,NA,NA
+1842,Middle,October_2022,Control,MK_1,Lobeliaflaccida,15,NA,NA
+1842,Middle,October_2022,Control,MK_3,Lobeliaflaccida,1,NA,NA
+1842,Middle,October_2022,Control,MK_6,Lotononislaxa,2,NA,NA
+1842,Middle,October_2022,Control,MK_2,Nidorellapodocephala,34,NA,NA
+1842,Middle,October_2022,Control,MK_3,Nidorellapodocephala,50,NA,NA
+1842,Middle,October_2022,Control,MK_2,Oenotherarosea,4,NA,NA
+1842,Middle,October_2022,Control,MK_6,Oenotherarosea,50,NA,NA
+1842,Middle,October_2022,Control,MK_1,Oxaliscorniculata,32,NA,NA
+1842,Middle,October_2022,Control,MK_2,Oxaliscorniculata,50,NA,NA
+1842,Middle,October_2022,Control,MK_3,Oxaliscorniculata,2,NA,NA
+1842,Middle,October_2022,Control,MK_2,Ranunculusmultifidus,7,NA,NA
+1842,Middle,October_2022,Control,MK_5,Rhoicissuscftridentata,2,NA,NA
+1842,Middle,October_2022,Control,MK_6,Rhynchosiatotta,1,NA,NA
+1842,Middle,October_2022,Control,MK_1,Salviarepens,1,NA,NA
+1842,Middle,October_2022,Control,MK_2,Salviarepens,1,NA,NA
+1842,Middle,October_2022,Control,MK_5,Salviarepens,50,NA,NA
+1842,Middle,October_2022,Control,MK_6,Salviarepens,50,NA,NA
+1842,Middle,October_2022,Control,MK_2,Scabiosacolumbaria,25,NA,NA
+1842,Middle,October_2022,Control,MK_6,Scabiosacolumbaria,3,NA,NA
+1842,Middle,October_2022,Control,MK_3,Searsiadentata,1,NA,NA
+1842,Middle,October_2022,Control,MK_6,Searsiadentata,3,NA,NA
+1842,Middle,October_2022,Control,MK_5,Senecioheliopsis,1,NA,NA
+1842,Middle,October_2022,Control,MK_6,Senecioinornatus,5,NA,NA
+1842,Middle,October_2022,Control,MK_6,Senecioisatideus,3,NA,NA
+1842,Middle,October_2022,Control,MK_4,Spinyerected,48,NA,NA
+1842,Middle,October_2022,Control,MK_5,Spinyerected,41,NA,NA
+1842,Middle,October_2022,Control,MK_3,Stachyshyssopoides,1,NA,NA
+1842,Middle,October_2022,Control,MK_3,Taraxacumofficinale,6,NA,NA
+1842,Middle,October_2022,Control,MK_4,Taraxacumofficinale,3,NA,NA
+1842,Middle,October_2022,Control,MK_5,Taraxacumofficinale,1,NA,NA
+1842,Middle,October_2022,Control,MK_6,Taraxacumofficinale,1,NA,NA
+1842,Middle,October_2022,Control,MK_1,Trifoliumburchellianum,3,NA,NA
+1842,Middle,October_2022,Control,MK_6,Trifoliumrepens,3,NA,NA
+1985,Top,October_2022,Control,TK_2,Agrimoniaprocera,3,NA,NA
+1985,Top,October_2022,Control,TK_4,Agrimoniaprocera,7,NA,NA
+1985,Top,October_2022,Control,TK_4,Ajugaophrydis,23,NA,NA
+1985,Top,October_2022,Control,TK_5,Ajugaophrydis,9,NA,NA
+1985,Top,October_2022,Control,TK_6,Ajugaophrydis,15,NA,NA
+1985,Top,October_2022,Control,TK_1,Albucarupestris,15,NA,NA
+1985,Top,October_2022,Control,TK_6,Albucarupestris,1,NA,NA
+1985,Top,October_2022,Control,TK_1,Anthospermumherbaceum,3,NA,NA
+1985,Top,October_2022,Control,TK_2,Anthospermumherbaceum,2,NA,NA
+1985,Top,October_2022,Control,TK_3,Anthospermumherbaceum,6,Cirsium vulgare,5
+1985,Top,October_2022,Control,TK_4,Anthospermumherbaceum,3,NA,NA
+1985,Top,October_2022,Control,TK_5,Anthospermumherbaceum,3,NA,NA
+1985,Top,October_2022,Control,TK_6,Anthospermumherbaceum,9,Oenothera rosea,3
+1985,Top,October_2022,Control,TK_2,Asclepiasstellifera,3,NA,NA
+1985,Top,October_2022,Control,TK_5,Cinerariadieterlenii,3,NA,NA
+1985,Top,October_2022,Control,TK_5,Cirsiumvulgare,8,NA,NA
+1985,Top,October_2022,Control,TK_3,Crassuladependens,1,Verbena bonariensis,42
+1985,Top,October_2022,Control,TK_4,Crassuladependens,1,Oenethera rosea,3
+1985,Top,October_2022,Control,TK_5,Crassuladependens,5,Oenethera rosea,12
+1985,Top,October_2022,Control,TK_4,Diospyrosrubriflora,3,NA,NA
+1985,Top,October_2022,Control,TK_1,Feliciafilifolia,3,NA,NA
+1985,Top,October_2022,Control,TK_2,Feliciafilifolia,19,NA,NA
+1985,Top,October_2022,Control,TK_2,Feliciafilifolia,6,NA,NA
+1985,Top,October_2022,Control,TK_3,Feliciafilifolia,11,Medicago polymorpha,3
+1985,Top,October_2022,Control,TK_4,Feliciafilifolia,28,NA,NA
+1985,Top,October_2022,Control,TK_5,Feliciafilifolia,4,NA,NA
+1985,Top,October_2022,Control,TK_6,Feliciafilifolia,3,NA,NA
+1985,Top,October_2022,Control,TK_6,Feliciafilifolia,1,NA,NA
+1985,Top,October_2022,Control,TK_1,Feliciamuricata,50,NA,NA
+1985,Top,October_2022,Control,TK_2,Feliciamuricata,6,NA,NA
+1985,Top,October_2022,Control,TK_4,Feliciamuricata,21,NA,NA
+1985,Top,October_2022,Control,TK_5,Feliciamuricata,13,NA,NA
+1985,Top,October_2022,Control,TK_6,Feliciamuricata,25,NA,NA
+1985,Top,October_2022,Control,TK_1,Gazaniakrebsiana,25,NA,NA
+1985,Top,October_2022,Control,TK_2,Gazaniakrebsiana,12,NA,NA
+1985,Top,October_2022,Control,TK_4,Gazaniakrebsiana,35,NA,NA
+1985,Top,October_2022,Control,TK_6,Gazaniakrebsiana,23,NA,NA
+1985,Top,October_2022,Control,TK_1,Geberapiloselloides,3,NA,NA
+1985,Top,October_2022,Control,TK_3,Geberapiloselloides,1,NA,NA
+1985,Top,October_2022,Control,TK_4,Geberapiloselloides,6,NA,NA
+1985,Top,October_2022,Control,TK_5,Geberapiloselloides,1,NA,NA
+1985,Top,October_2022,Control,TK_3,Haplocarphascaposa,3,NA,NA
+1985,Top,October_2022,Control,TK_5,Haplocarphascaposa,3,NA,NA
+1985,Top,October_2022,Control,TK_3,Helichrysumaureonitens,1,NA,NA
+1985,Top,October_2022,Control,TK_3,Helichrysumcymosum,14,NA,NA
+1985,Top,October_2022,Control,TK_1,Helichrysumnudifolium,18,Nidorella podocephala,2
+1985,Top,October_2022,Control,TK_3,Helichrysumnudifolium,50,Conyza sumatrensis,1
+1985,Top,October_2022,Control,TK_4,Helichrysumnudifolium,3,NA,NA
+1985,Top,October_2022,Control,TK_5,Helichrysumnudifolium,10,Cirsium vulgare,4
+1985,Top,October_2022,Control,TK_6,Helichrysumnudifolium,2,Conyza sumatrensis,2
+1985,Top,October_2022,Control,TK_1,Helichrysumodoratissimum,50,NA,NA
+1985,Top,October_2022,Control,TK_2,Helichrysumodoratissimum,1,NA,NA
+1985,Top,October_2022,Control,TK_3,Helichrysumodoratissimum,2,NA,NA
+1985,Top,October_2022,Control,TK_4,Helichrysumodoratissimum,22,NA,NA
+1985,Top,October_2022,Control,TK_4,Helichrysumodoratissimum,14,NA,NA
+1985,Top,October_2022,Control,TK_5,Helichrysumodoratissimum,50,NA,NA
+1985,Top,October_2022,Control,TK_5,Helichrysumodoratissimum,17,NA,NA
+1985,Top,October_2022,Control,TK_6,Helichrysumodoratissimum,4,Cirsium vulgare,7
+1985,Top,October_2022,Control,TK_6,Helichrysumodoratissimum,1,NA,NA
+1985,Top,October_2022,Control,TK_1,Helichrysumrugulosum,16,Verbena bonariensis,1
+1985,Top,October_2022,Control,TK_2,Helichrysumrugulosum,9,Verbena bonariensis,20
+1985,Top,October_2022,Control,TK_4,Helichrysumrugulosum,3,Verbena bonariensis,25
+1985,Top,October_2022,Control,TK_5,Helichrysumrugulosum,20,Verbena bonariensis,50
+1985,Top,October_2022,Control,TK_6,Helichrysumrugulosum,12,Verbena bonariensis,4
+1985,Top,October_2022,Control,TK_1,Hermanniacoccocarpa,6,NA,NA
+1985,Top,October_2022,Control,TK_3,Hermanniacoccocarpa,35,NA,NA
+1985,Top,October_2022,Control,TK_4,Hermanniacoccocarpa,5,NA,NA
+1985,Top,October_2022,Control,TK_5,Hermanniacoccocarpa,7,NA,NA
+1985,Top,October_2022,Control,TK_6,Hermanniageniculata,1,NA,NA
+1985,Top,October_2022,Control,TK_1,Hibiscusaethiopicus,8,Oenethera rosea,21
+1985,Top,October_2022,Control,TK_2,Hibiscusaethiopicus,8,NA,NA
+1985,Top,October_2022,Control,TK_3,Hibiscusaethiopicus,11,Oenethera rosea,50
+1985,Top,October_2022,Control,TK_4,Hibiscusaethiopicus,12,NA,NA
+1985,Top,October_2022,Control,TK_5,Hibiscusaethiopicus,6,NA,NA
+1985,Top,October_2022,Control,TK_6,Hibiscusaethiopicus,9,Hypochaeris radicata,1
+1985,Top,October_2022,Control,TK_5,Hypochaerisradicata,1,NA,NA
+1985,Top,October_2022,Control,TK_5,Hypoxiscostata,1,NA,NA
+1985,Top,October_2022,Control,TK_6,Hypoxiscostata,1,NA,NA
+1985,Top,October_2022,Control,TK_3,Jamesbritteniapristisepala,2,NA,NA
+1985,Top,October_2022,Control,TK_4,Jamesbritteniapristisepala,2,NA,NA
+1985,Top,October_2022,Control,TK_1,Lotononislaxa,11,NA,NA
+1985,Top,October_2022,Control,TK_2,Lotononislaxa,29,NA,NA
+1985,Top,October_2022,Control,TK_3,Lotononislaxa,22,NA,NA
+1985,Top,October_2022,Control,TK_4,Lotononislaxa,28,NA,NA
+1985,Top,October_2022,Control,TK_5,Lotononislaxa,1,NA,NA
+1985,Top,October_2022,Control,TK_6,Lotononislaxa,22,NA,NA
+1985,Top,October_2022,Control,TK_1,Lotononislotononoides,22,NA,NA
+1985,Top,October_2022,Control,TK_3,Lotononislotononoides,14,NA,NA
+1985,Top,October_2022,Control,TK_4,Lotononislotononoides,8,NA,NA
+1985,Top,October_2022,Control,TK_3,Pelargoniumalchemilloides,3,NA,NA
+1985,Top,October_2022,Control,TK_4,Raphionacmehirsuta,1,NA,NA
+1985,Top,October_2022,Control,TK_6,Raphionacmehirsuta,1,NA,NA
+1985,Top,October_2022,Control,TK_4,Salviarepens,10,NA,NA
+1985,Top,October_2022,Control,TK_5,Schistostephiumcfcrataegifolium,4,NA,NA
+1985,Top,October_2022,Control,TK_1,Senecioerubescens,1,NA,NA
+1985,Top,October_2022,Control,TK_6,Senecioinornatusimulans,2,NA,NA
+1985,Top,October_2022,Control,TK_3,Senecioisatideus,11,NA,NA
+1985,Top,October_2022,Control,TK_4,Senecioisatideus,6,NA,NA
+1985,Top,October_2022,Control,TK_5,Senecioisatideus,16,NA,NA
+1985,Top,October_2022,Control,TK_6,Senecioisatideus,50,NA,NA
+1985,Top,October_2022,Control,TK_4,Unknown13,3,NA,NA
+1985,Top,October_2022,Control,TK_6,Unknown13,1,NA,NA
+1730,Low,October_2022,Cleared,LC_1,NA,NA,Conyza sumatrensis,3
+1730,Low,October_2022,Cleared,LC_1,Helichrysumodoratissimum,2,Poplar nigrenaence,1
+1730,Low,October_2022,Uncleared,LU_1,Cynoglossumhispidum,4,Cirsium vulgare,4
+1730,Low,October_2022,Uncleared,LU_1,NA,NA,Gleditsia triacanthos,1
+1730,Low,October_2022,Cleared,LC_1,Artemisiaafra,2,Robinia pseudoacacia,2
+1730,Low,October_2022,Uncleared,LU_1,NA,NA,Hypochaeris radicata,6
+1730,Low,October_2022,Cleared,LC_1,Rubusludwigii,2,Trifolium repens,50
+1730,Low,October_2022,Cleared,LC_1,Asparagusafricanus,1,Verbena bonariensis,2
+1730,Low,October_2022,Uncleared,LU_1,NA,NA,Nidorella podocephala,1
+1730,Low,October_2022,Cleared,LC_1,NA,NA,Verbena bonariensis,3
+1730,Low,December_2022,Cleared,LC_1,Commelinaafricana,6,Oenothera stricta,2
+1730,Low,December_2022,Cleared,LC_1,Artemisiaafra,5,Verbena rigida,16
+1730,Low,December_2022,Cleared,LC_1,Asparagusafricanus,1,Tagetes minuta,50
+1730,Low,October_2022,Uncleared,LU_1,NA,NA,Oenethera rosea,4
+1730,Low,December_2022,Cleared,LC_1,Kniphofiatriangularis,2,Taraxacum officinale,1
+1730,Low,December_2022,Cleared,LC_1,Cynoglossumhispidum,4,Conyza sumatrensis,2
+1730,Low,October_2022,Uncleared,LU_1,NA,NA,Plantago lanceolata,5
+1730,Low,October_2022,Uncleared,LU_1,NA,NA,Poplar nigrenaence,1
+1730,Low,October_2022,Uncleared,LU_1,NA,NA,Robinia pseudoacacia,1
+1730,Low,December_2022,Cleared,LC_1,Helichrysumodoratissimum,2,Hypochaeris radicata,4
+1730,Low,December_2022,Cleared,LC_1,Cheilanthesquadripinnata,1,Nidorella podocephala,1
+1730,Low,December_2022,Cleared,LC_1,Cinerariadieterlenii,1,Plantago lanceolata,4
+1730,Low,December_2022,Cleared,LC_1,Bidensbipinnata,50,Oxalis corniculata,3
+1730,Low,October_2022,Uncleared,LU_1,Cinerariadieterlenii,1,Trifolium repens,1
+1730,Low,December_2022,Cleared,LC_1,Rhoicissuscftridentata,1,Oenothera tetraptera,2
+1730,Low,December_2022,Uncleared,LU_1,Rhoicissuscftridentata,1,Tagetes minuta,50
+1730,Low,December_2022,Uncleared,LU_1,Asparagusasparagoides,8,Plantago lanceolata,3
+1730,Low,December_2022,Cleared,LC_1,Stachyshyssopoides,1,Robinia pseudoacacia,1
+1730,Low,December_2022,Uncleared,LU_1,Cynoglossumhispidum,8,Cirsium vulgare,1
+1730,Low,December_2022,Uncleared,LU_1,Asclepiasstellifera,1,Hypochaeris radicata,14
+1730,Low,December_2022,Uncleared,LU_1,Commelinaafricana,5,Nidorella podocephala,50
+1730,Low,December_2022,Uncleared,LU_1,Rhoicissuscftridentata,50,Oxalis corniculata,1
+1730,Low,December_2022,Cleared,LC_1,Rubusludwigii,5,Populus nigra,1
+1730,Low,December_2022,Cleared,LC_1,NA,NA,Trifolium repens,50
+1730,Low,December_2022,Uncleared,LU_1,Kniphofiatriangularis,1,Taraxacum officinale,3
+1730,Low,December_2022,Cleared,LC_1,NA,NA,Verbena bonariensis,1
+1730,Low,December_2022,Cleared,LC_1,NA,NA,Taraxacum spp1,2
+1730,Low,December_2022,Cleared,LC_1,NA,NA,NA,NA
+1730,Low,December_2022,Uncleared,LU_1,Helichrysumrugulosum,50,Taraxacum erythrospermum,1
+1730,Low,March_2023,Cleared,LC_1,Rubusludwigii,3,Trifoliumrepens,50
+1730,Low,December_2022,Uncleared,LU_1,Helichrysumcooperi,1,Conyza sumatrensis,2
+1730,Low,March_2023,Cleared,LC_1,Helichrysumcallicomum,2,Bidenspilosa,5
+1730,Low,December_2022,Uncleared,LU_1,Berkheyadiscolor,1,Trifolium repens,50
+1730,Low,December_2022,Uncleared,LU_1,Helichrysumcymosum,2,Gleditsia triacanthos,6
+1730,Low,December_2022,Uncleared,LU_1,NA,NA,Robinia pseudoacacia,1
+1730,Low,March_2023,Cleared,LC_1,Commelinaafricana,4,Hypochaerisradicata,6
+1730,Low,December_2022,Uncleared,LU_1,NA,NA,Populus nigra,1
+1730,Low,March_2023,Uncleared,LU_1,Asparagusasparagoides,4,Tagetesminuta,50
+1730,Low,March_2023,Cleared,LC_1,Asparagusafricanus,1,Robiniapseudoacacia,2
+1730,Low,March_2023,Cleared,LC_1,Artemisiaafra,4,Poplarnigrenaence,1
+1730,Low,March_2023,Uncleared,LU_1,Searsiadiscolor,2,Trifoliumrepens,50
+1730,Low,March_2023,Uncleared,LU_1,Rumexsagittatus,1,Bidensbipinnata,50
+1730,Low,March_2023,Cleared,LC_1,Gomphocarpusfruticosus,5,Verbenarigida,18
+1730,Low,March_2023,Cleared,LC_1,Hibiscusaethiopicus,1,Tagetesminuta,50
+1730,Low,March_2023,Uncleared,LU_1,Oxalisdepressa,50,Hypochaerisradicata,18
+1730,Low,March_2023,Cleared,LC_1,Oxalisdepressa,50,Bidensbipinnata,50
+1730,Low,March_2023,Cleared,LC_1,Argyrolobiumsp,1,Conyzasumatrensis,4
+1730,Low,March_2023,Cleared,LC_1,NA,NA,Cirsiumvulgare,2
+1730,Low,March_2023,Uncleared,LU_1,Helichrysumtenax,1,Plantagolanceolata,4
+1730,Low,March_2023,Uncleared,LU_1,Berkheyadiscolor,4,Nidorellapodocephala,50
+1730,Low,March_2023,Cleared,LC_1,NA,NA,Plantagolanceolata,2
+1730,Low,March_2023,Cleared,LC_1,NA,NA,Oenotherarosea,3
+1730,Low,March_2023,Uncleared,LU_1,Helichrysumrugulosum,50,Taraxacumofficinale,2
+1730,Low,March_2023,Cleared,LC_1,NA,NA,Taraxacumofficinale,6
+1730,Low,March_2023,Cleared,LC_1,NA,NA,Xanthiumspinosum,1
+1730,Low,June_2023,Cleared,LC_1,Artemisiaafra,6,Verbena bonariensis,25
+1730,Low,June_2023,Cleared,LC_1,Helichrysumcallicomum,7,Trifolium repens,50
+1730,Low,June_2023,Cleared,LC_1,Cheilanthesquadripinnata,1,Cirsium vulgare,2
+1730,Low,June_2023,Cleared,LC_1,Gomphocarpusfruticosus,2,Conyza sumatrensis,4
+1730,Low,March_2023,Uncleared,LU_1,Helichrysumcymosum,1,Oenotherarosea,2
+1730,Low,March_2023,Uncleared,LU_1,Cynoglossumhispidum,3,Cirsiumvulgare,1
+1842,Middle,October_2022,Cleared,MC_3,Diospyrosrubriflora,3,Agrimonia procera,1
+1842,Middle,October_2022,Cleared,MC_5,Gomphocarpusfruticosus,2,Cirsium vulgare,22
+1842,Middle,October_2022,Cleared,MC_3,Helichrysumodoratissimum,15,Cirsium vulgare,1
+1842,Middle,October_2022,Cleared,MC_4,Unknown14,20,Cirsium vulgare,1
+1842,Middle,October_2022,Cleared,MC_2,Salviarepens,15,Tragopogondubius,20
+1842,Middle,October_2022,Uncleared,MU_2,Scabiosadrakensbergensis,20,Tragopogondubius,20
+1842,Middle,October_2022,Uncleared,MU_5,Artemisiaafra,1,NA,NA
+1842,Middle,October_2022,Cleared,MC_4,Asparagusafricanus,1,NA,NA
+1842,Middle,October_2022,Uncleared,MU_2,Buddlejasalviifolia,8,NA,NA
+1842,Middle,October_2022,Uncleared,MU_3,Buddlejasalviifolia,2,NA,NA
+1842,Middle,October_2022,Uncleared,MU_2,Cheilantheseckloniana,2,NA,NA
+1842,Middle,October_2022,Cleared,MC_1,Cheilanthesquadripinnata,1,NA,NA
+1842,Middle,October_2022,Cleared,MC_2,Cheilanthesquadripinnata,3,NA,NA
+1842,Middle,October_2022,Uncleared,MU_2,Cheilanthesquadripinnata,5,NA,NA
+1842,Middle,October_2022,Cleared,MC_1,Diospyrosrubriflora,2,NA,NA
+1842,Middle,October_2022,Cleared,MC_2,Diospyrosrubriflora,5,NA,NA
+1842,Middle,October_2022,Cleared,MC_5,Diospyrosrubriflora,2,NA,NA
+1842,Middle,October_2022,Uncleared,MU_1,Diospyrosrubriflora,22,NA,NA
+1842,Middle,October_2022,Uncleared,MU_2,Diospyrosrubriflora,5,NA,NA
+1842,Middle,October_2022,Uncleared,MU_2,Diospyrosrubriflora,1,NA,NA
+1842,Middle,October_2022,Uncleared,MU_3,Diospyrosrubriflora,1,NA,NA
+1842,Middle,October_2022,Uncleared,MU_4,Diospyrosrubriflora,2,NA,NA
+1842,Middle,October_2022,Uncleared,MU_4,Diospyrosrubriflora,2,NA,NA
+1842,Middle,October_2022,Uncleared,MU_5,Diospyrosrubriflora,2,NA,NA
+1842,Middle,October_2022,Cleared,MC_2,Helichrysumaureonitens,5,NA,NA
+1842,Middle,October_2022,Cleared,MC_1,Helichrysumodoratissimum,5,NA,NA
+1842,Middle,October_2022,Cleared,MC_2,Helichrysumodoratissimum,2,NA,NA
+1842,Middle,October_2022,Cleared,MC_5,Helichrysumodoratissimum,3,NA,NA
+1842,Middle,October_2022,Cleared,MC_6,Helichrysumodoratissimum,2,NA,NA
+1842,Middle,October_2022,Uncleared,MU_4,Helichrysumodoratissimum,5,NA,NA
+1842,Middle,October_2022,Uncleared,MU_5,Helichrysumodoratissimum,3,NA,NA
+1842,Middle,October_2022,Uncleared,MU_6,Helichrysumodoratissimum,2,NA,NA
+1842,Middle,October_2022,Uncleared,MU_3,Heteromorphaarborescens,1,NA,NA
+1842,Middle,October_2022,Cleared,MC_2,Myrsineafricana,5,NA,NA
+1842,Middle,October_2022,Cleared,MC_3,Myrsineafricana,5,NA,NA
+1842,Middle,October_2022,Uncleared,MU_3,Myrsineafricana,3,NA,NA
+1842,Middle,October_2022,Uncleared,MU_5,Myrsineafricana,5,NA,NA
+1842,Middle,October_2022,Uncleared,MU_5,Myrsineafricana,1,NA,NA
+1842,Middle,October_2022,Uncleared,MU_3,Rhamnusprinoides,1,NA,NA
+1842,Middle,October_2022,Uncleared,MU_5,Rubusludwigii,1,NA,NA
+1842,Middle,October_2022,Cleared,MC_1,Salviarepens,5,NA,NA
+1842,Middle,October_2022,Cleared,MC_3,Salviarepens,2,NA,NA
+1842,Middle,October_2022,Uncleared,MU_2,Salviarepens,25,NA,NA
+1842,Middle,October_2022,Uncleared,MU_3,Salviarepens,50,NA,NA
+1842,Middle,October_2022,Uncleared,MU_4,Salviarepens,70,NA,NA
+1842,Middle,October_2022,Uncleared,MU_1,Searsiadentata,1,NA,NA
+1842,Middle,October_2022,Uncleared,MU_3,Searsiadentata,1,NA,NA
+1842,Middle,October_2022,Cleared,MC_3,NA,NA,NA,NA
+1842,Middle,October_2022,Cleared,MC_3,NA,NA,NA,NA
+1842,Middle,October_2022,Cleared,MC_4,NA,NA,NA,NA
+1842,Middle,October_2022,Cleared,MC_6,NA,NA,NA,NA
+1842,Middle,October_2022,Uncleared,MU_1,NA,NA,NA,NA
+1842,Middle,October_2022,Uncleared,MU_1,NA,NA,NA,NA
+1985,Top,October_2022,Uncleared,TU_3,Cheilantheseckloniana,1,NA,NA
+1985,Top,October_2022,Cleared,TC_2,Diospyrosrubriflora,2,NA,NA
+1985,Top,October_2022,Cleared,TC_3,Diospyrosrubriflora,5,NA,NA
+1985,Top,October_2022,Cleared,TC_4,Diospyrosrubriflora,1,NA,NA
+1985,Top,October_2022,Cleared,TC_5,Diospyrosrubriflora,3,NA,NA
+1985,Top,October_2022,Cleared,TC_6,Diospyrosrubriflora,6,NA,NA
+1985,Top,October_2022,Uncleared,TU_1,Diospyrosrubriflora,1,NA,NA
+1985,Top,October_2022,Uncleared,TU_3,Diospyrosrubriflora,2,NA,NA
+1985,Top,October_2022,Uncleared,TU_4,Diospyrosrubriflora,2,NA,NA
+1985,Top,October_2022,Uncleared,TU_5,Diospyrosrubriflora,3,NA,NA
+1985,Top,October_2022,Uncleared,TU_6,Diospyrosrubriflora,1,NA,NA
+1985,Top,October_2022,Cleared,TC_2,Helichrysumodoratissimum,2,NA,NA
+1985,Top,October_2022,Cleared,TC_6,Helichrysumodoratissimum,1,NA,NA
+1985,Top,October_2022,Uncleared,TU_1,Helichrysumodoratissimum,1,NA,NA
+1985,Top,October_2022,Uncleared,TU_5,Helichrysumodoratissimum,1,NA,NA
+1985,Top,October_2022,Cleared,TC_1,Heteromorphaarborescens,1,NA,NA
+1985,Top,October_2022,Cleared,TC_2,Heteromorphaarborescens,1,NA,NA
+1985,Top,October_2022,Uncleared,TU_6,Heteromorphaarborescens,1,NA,NA
+1985,Top,October_2022,Cleared,TC_1,Myrsineafricana,31,NA,NA
+1985,Top,October_2022,Cleared,TC_2,Myrsineafricana,50,NA,NA
+1985,Top,October_2022,Cleared,TC_3,Myrsineafricana,1,NA,NA
+1985,Top,October_2022,Cleared,TC_4,Myrsineafricana,2,NA,NA
+1985,Top,October_2022,Cleared,TC_5,Myrsineafricana,17,NA,NA
+1985,Top,October_2022,Uncleared,TU_1,Myrsineafricana,30,NA,NA
+1985,Top,October_2022,Uncleared,TU_2,Myrsineafricana,8,NA,NA
+1985,Top,October_2022,Uncleared,TU_2,Myrsineafricana,6,NA,NA
+1985,Top,October_2022,Uncleared,TU_3,Myrsineafricana,18,NA,NA
+1985,Top,October_2022,Uncleared,TU_4,Myrsineafricana,19,NA,NA
+1985,Top,October_2022,Uncleared,TU_4,Myrsineafricana,3,NA,NA
+1985,Top,October_2022,Uncleared,TU_5,Myrsineafricana,5,NA,NA
+1985,Top,October_2022,Uncleared,TU_5,Myrsineafricana,21,NA,NA
+1985,Top,October_2022,Uncleared,TU_6,Myrsineafricana,2,NA,NA
+1985,Top,October_2022,Cleared,TC_4,Rhamnusprinoides,1,NA,NA
+1985,Top,October_2022,Cleared,TC_5,Rhamnusprinoides,1,NA,NA
+1985,Top,October_2022,Cleared,TC_6,Rhamnusprinoides,2,NA,NA
+1985,Top,October_2022,Uncleared,TU_1,Rhamnusprinoides,1,NA,NA
+1985,Top,October_2022,Uncleared,TU_2,Rhamnusprinoides,2,NA,NA
+1985,Top,October_2022,Uncleared,TU_5,Rhamnusprinoides,1,NA,NA
+1985,Top,October_2022,Uncleared,TU_6,Rhamnusprinoides,1,NA,NA
+1985,Top,October_2022,Cleared,TC_6,Rhoicissuscftridentata,1,NA,NA
+1985,Top,October_2022,Cleared,TC_4,Searsiadentata,1,NA,NA
+1985,Top,October_2022,Cleared,TC_5,Searsiadentata,1,NA,NA
+1985,Top,October_2022,Uncleared,TU_4,Searsiadentata,1,NA,NA
+1985,Top,October_2022,Cleared,TC_2,NA,NA,NA,NA
+1985,Top,October_2022,Cleared,TC_2,NA,NA,NA,NA
+1730,Low,October_2022,Control,LK_2,Ranunculusmultifidus,2,NA,NA
+1730,Low,October_2022,Control,LK_2,Senecioinornatusimulans,50,NA,NA
+1730,Low,October_2022,Control,LK_2,Taraxacumofficinale,1,NA,NA
+1730,Low,October_2022,Control,LK_2,Taraxacumofficinale,20,NA,NA
+1730,Low,December_2022,Control,LK_2,Carexzuluensis,50,Oenothera stricta,50
+1730,Low,December_2022,Control,LK_2,Senecioinornatus,50,Equisetum hyemale,50
+1730,Low,December_2022,Control,LK_2,Helichrysumcymosum,50,Oenothera tetraptera,5
+1730,Low,December_2022,Control,LK_2,Artemisiaafra,7,Tagetes minuta,5
+1730,Low,December_2022,Control,LK_2,Trifoliumburchellianum,2,Hypochaeris radicata,1
+1730,Low,December_2022,Control,LK_2,Ranunculusmultifidus,1,Oenothera rosea,50
+1730,Low,December_2022,Control,LK_2,Commelinaafricana,4,Medicago polymorpha,3
+1730,Low,December_2022,Control,LK_2,Hermanniageniculata,1,Conyza sumatrensis,10
+1730,Low,December_2022,Control,LK_2,Cyperusesculentus,50,Oxalis corniculata,50
+1730,Low,December_2022,Control,LK_2,Anthospermumherbaceum,1,Taraxacum spp1,2
+1730,Low,December_2022,Control,LK_2,Helichrysumrugulosum,1,Nidorella podocephala,50
+1730,Low,December_2022,Control,LK_2,Cheilanthesquadripinnata,1,NA,NA
+1730,Low,March_2023,Control,LK_2,Senecioinornatus,50,Equisetumhyemale,50
+1730,Low,March_2023,Control,LK_2,Cyperusesculentus,50,Oenotherarosea,50
+1730,Low,March_2023,Control,LK_2,Helichrysumcallicomum,1,Conyzasumatrensis,4
+1730,Low,March_2023,Control,LK_2,Rumexlanceolatus,19,Plantagolanceolata,5
+1730,Low,March_2023,Control,LK_2,Cheilanthesquadripinnata,1,Verbenabonariensis,1
+1730,Low,March_2023,Control,LK_2,Oxalisdepressa,50,NA,NA
+1730,Low,March_2023,Control,LK_2,Stachyshyssopoides,5,NA,NA
+1730,Low,March_2023,Control,LK_2,Artemisiaafra,9,NA,NA
+1730,Low,March_2023,Control,LK_2,Crassuladependens,1,NA,NA
+1730,Low,March_2023,Control,LK_2,Helichrysumcymosum,4,NA,NA
+1730,Low,March_2023,Control,LK_2,Helichrysumodoratissimum,1,NA,NA
+1730,Low,March_2023,Control,LK_2,Helichrysumaureonitens,50,NA,NA
+1730,Low,March_2023,Control,LK_2,Hermanniageniculata,1,NA,NA
+1730,Low,June_2023,Control,LK_2,Helichrysumcymosum,50,Oenothera rosea,50
+1730,Low,June_2023,Control,LK_2,Helichrysumodoratissimum,1,Equisetum hyemale,50
+1730,Low,June_2023,Control,LK_2,Artemisiaafra,5,Plantago lanceolata,1
+1730,Low,June_2023,Control,LK_2,Senecioinornatus,11,NA,NA
+1730,Low,June_2023,Control,LK_2,Salviarepens,1,NA,NA
+1730,Low,June_2023,Control,LK_2,Oxalisdepressa,50,NA,NA
+1730,Low,October_2023,Control,LK_2,Helichrysumodoratissimum,50,Oenothera rosea,50
+1730,Low,October_2023,Control,LK_2,Helichrysumcymosum,5,Equisetum hyemale,50
+1730,Low,October_2023,Control,LK_2,Salviarepens,5,NA,NA
+1730,Low,October_2023,Control,LK_2,Artemisiaafra,6,NA,NA
+1730,Low,October_2023,Control,LK_2,Cinerarialyratiforms,6,NA,NA
+1730,Low,October_2022,Control,LK_3,Hermanniageniculata,1,Cirsium vulgare,12
+1730,Low,October_2022,Control,LK_3,Feliciafilifolia,2,Conyza sumatrensis,29
+1730,Low,October_2022,Control,LK_3,Rhynchosiatotta,4,Equisetum hyemale,50
+1730,Low,October_2022,Control,LK_3,Salviarepens,35,Hypochaeris radicata,41
+1730,Low,October_2022,Control,LK_3,Helichrysumodoratissimum,44,Nidorella podocephala,4
+1730,Low,October_2022,Control,LK_3,Ranunculusmultifidus,24,Oenothera rosea,50
+1730,Low,October_2022,Control,LK_3,Helichrysumrugulosum,50,Plantago lanceolata,26
+1730,Low,October_2022,Control,LK_3,Gazaniakrebsiana,5,Taraxacum officinale,12
+1730,Low,October_2022,Control,LK_3,Cinerariadieterlenii,2,Trifolium repens,5
+1730,Low,October_2022,Control,LK_3,Cynoglossumhispidum,10,Verbena bonariensis,35
+1730,Low,October_2022,Control,LK_3,Lotononislotononoides,3,NA,NA
+1730,Low,December_2022,Control,LK_3,Hermanniageniculata,1,Oenothera stricta,50
+1730,Low,December_2022,Control,LK_3,Helichrysumcymosum,50,Conyza sumatrensis,20
+1730,Low,December_2022,Control,LK_3,Commelinaafricana,4,Trifolium repens,50
+1730,Low,December_2022,Control,LK_3,Rorippanudiuscula,15,Plantago lanceolata,50
+1730,Low,December_2022,Control,LK_3,Cinerariadieterlenii,2,Oenothera rosea,2
+1730,Low,December_2022,Control,LK_3,Trifoliumburchellianum,50,Hypochaeris radicata,50
+1730,Low,December_2022,Control,LK_3,Berkheyadiscolor,4,Oenothera tetraptera,14
+1730,Low,December_2022,Control,LK_3,Cyperusrupestris,50,Nidorella podocephala,50
+1730,Low,December_2022,Control,LK_3,Cyperusesculentus,50,NA,NA
+1730,Low,December_2022,Control,LK_3,Cynoglossumhispidum,2,NA,NA
+1730,Low,December_2022,Control,LK_3,Feliciamuricata,1,NA,NA
+1730,Low,December_2022,Control,LK_3,Helichrysumodoratissimum,1,NA,NA
+1730,Low,December_2022,Control,LK_3,Tagetesminuta,1,NA,NA
+1730,Low,December_2022,Control,LK_3,Coniumcffontanum,1,NA,NA
+1730,Low,December_2022,Control,LK_3,Helichrysumrugulosum,50,NA,NA
+1842,Middle,December_2022,Control,MK_1,Senecioisatideus,14,Conyza sumatrensis,50
+1842,Middle,December_2022,Control,MK_1,Searsiadentata,1,Tagetes minuta,33
+1842,Middle,December_2022,Control,MK_1,Commelinaafricana,13,Hypochaeris radicata,9
+1842,Middle,December_2022,Control,MK_1,Hibiscusaethiopicus,16,Taraxacum erythrospermum,2
+1842,Middle,December_2022,Control,MK_1,Hermanniadepressa,50,Taraxacum officinale,1
+1842,Middle,December_2022,Control,MK_1,Helichrysumodoratissimum,9,Verbena bonariensis,20
+1842,Middle,December_2022,Control,MK_1,Seneciocfheliopsis,13,Oenethera rosea,25
+1842,Middle,December_2022,Control,MK_1,Helichrysumsplendidum,17,Plantago lanceolata,3
+1842,Middle,December_2022,Control,MK_1,Ajugaophrydis,18,Nidorella podocephala,20
+1842,Middle,December_2022,Control,MK_1,Scabiosacolumbaria,23,Oxalis corniculata,11
+1842,Middle,December_2022,Control,MK_1,Cynoglossumhispidum,4,Trifolium repens,1
+1842,Middle,December_2022,Control,MK_1,Unknown3,1,Taraxacum spp2,1
+1842,Middle,December_2022,Control,MK_1,Carexzuluensis,7,Conyza sumatrensis,1
+1842,Middle,December_2022,Control,MK_1,Lotononislotononoides,9,NA,NA
+1842,Middle,December_2022,Control,MK_1,Rhynchosiatotta,4,NA,NA
+1842,Middle,December_2022,Control,MK_1,Unknown4,8,NA,NA
+1842,Middle,December_2022,Control,MK_1,Helichrysumrugulosum,9,NA,NA
+1842,Middle,December_2022,Control,MK_1,Anthospermumherbaceum,19,NA,NA
+1842,Middle,December_2022,Control,MK_1,Galiumsp,4,NA,NA
+1842,Middle,December_2022,Control,MK_1,Jamesbritteniaaurantica,17,NA,NA
+1842,Middle,December_2022,Control,MK_1,Ledebouriacooperi,12,NA,NA
+1842,Middle,December_2022,Control,MK_1,Ranunculusmultifidus,1,NA,NA
+1842,Middle,December_2022,Control,MK_1,Seneciomacrocephalus,5,NA,NA
+1842,Middle,December_2022,Control,MK_1,Unknown2,6,NA,NA
+1842,Middle,December_2022,Control,MK_1,Ficiniacinammomea,8,NA,NA
+1842,Middle,December_2022,Control,MK_1,Salviarepens,18,NA,NA
+1842,Middle,December_2022,Control,MK_1,Hypoxiscostata,1,NA,NA
+1842,Middle,December_2022,Control,MK_1,Cirsiumvulgare,2,NA,NA
+1842,Middle,December_2022,Control,MK_1,Helichrysumnudifolium,1,NA,NA
+1842,Middle,December_2022,Control,MK_1,Seneciodissimulans,24,NA,NA
+1842,Middle,December_2022,Control,MK_1,Gomphocarpusfruiticosus,1,NA,NA
+1842,Middle,December_2022,Control,MK_1,Senecioasperulus,1,NA,NA
+1842,Middle,December_2022,Control,MK_1,Cynoglossumhispidum,3,NA,NA
+1842,Middle,December_2022,Control,MK_1,Monsoniaattenuata,38,NA,NA
+1842,Middle,December_2022,Control,MK_1,Papaveraculeatum,1,NA,NA
+1842,Middle,December_2022,Control,MK_1,Euphobiastricta,1,NA,NA
+1842,Middle,December_2022,Control,MK_1,Bulbostylissp,50,NA,NA
+1842,Middle,December_2022,Control,MK_1,Haplocarphascaposa,13,NA,NA
+1842,Middle,December_2022,Control,MK_1,Xanthiumstrumarium,1,NA,NA
+1842,Middle,December_2022,Control,MK_1,Papaveraculeatum,1,NA,NA
+1842,Middle,December_2022,Control,MK_2,Senecioisatideus,1,Conyza sumatrensis,19
+1842,Middle,December_2022,Control,MK_2,Ledebouriacooperi,22,Taraxacum erythrospermum,6
+1842,Middle,December_2022,Control,MK_2,Xanthiumstrumarium,1,Verbena bonariensis,50
+1842,Middle,December_2022,Control,MK_2,Cyperusesculentus,50,Oenethera rosea,25
+1842,Middle,December_2022,Control,MK_2,Muraltiaalticolacf,5,Oxalis corniculata,50
+1842,Middle,December_2022,Control,MK_2,Arctotisarctotoides,10,Plantago lanceolata,2
+1842,Middle,December_2022,Control,MK_2,Helichrysumaureonitens,50,Nidorella podocephala,35
+1842,Middle,December_2022,Control,MK_2,Stachyshyssopoides,17,Cirsium vulgare,3
+1842,Middle,December_2022,Control,MK_2,Selagocfflanaganii,11,Trifolium repens,1
+1842,Middle,December_2022,Control,MK_2,Senecioinornatus,2,NA,NA
+1842,Middle,December_2022,Control,MK_2,Unknown8,2,NA,NA
+1842,Middle,December_2022,Control,MK_2,Coniumcffontanum,14,NA,NA
+1842,Middle,December_2022,Control,MK_3,Senecioisatideus,1,Tagetes minuta,7
+1842,Middle,December_2022,Control,MK_3,Searsiadentata,19,Taraxacum erythrospermum,1
+1842,Middle,December_2022,Control,MK_3,Commelinaafricana,3,Verbena bonariensis,30
+1842,Middle,December_2022,Control,MK_3,Hibiscusaethiopicus,1,Oenethera rosea,43
+1842,Middle,December_2022,Control,MK_3,Hermanniadepressa,1,Plantago lanceolata,25
+1842,Middle,December_2022,Control,MK_3,Helichrysumcymosum,2,Nidorella podocephala,15
+1842,Middle,December_2022,Control,MK_3,Helichrysumodoratissimum,7,Cirsium vulgare,11
+1842,Middle,December_2022,Control,MK_3,Helichrysumsplendidum,10,Oxalis corniculata,50
+1842,Middle,December_2022,Control,MK_3,Cynoglossumhispidum,2,Bidens pilosa,50
+1842,Middle,December_2022,Control,MK_3,Helichrysumrugulosum,1,Oenothera tetraptera,18
+1842,Middle,December_2022,Control,MK_3,Salviarepens,12,Conyza sumatrensis,1
+1842,Middle,December_2022,Control,MK_3,Cyperusesculentus,50,NA,NA
+1842,Middle,December_2022,Control,MK_3,Muraltiaalticolacf,4,NA,NA
+1842,Middle,December_2022,Control,MK_3,Helichrysumaureonitens,19,NA,NA
+1842,Middle,December_2022,Control,MK_3,Stachyshyssopoides,24,NA,NA
+1842,Middle,December_2022,Control,MK_3,Amaranthushybridus,6,NA,NA
+1842,Middle,December_2022,Control,MK_3,Rumexsagittatus,30,NA,NA
+1842,Middle,December_2022,Control,MK_3,Artemisiaafra,1,NA,NA
+1842,Middle,December_2022,Control,MK_3,Zantedeschiaalbomaculata,1,NA,NA
+1842,Middle,December_2022,Control,MK_3,Pelargoniumalchemilloides,2,NA,NA
+1842,Middle,December_2022,Control,MK_3,Rorippanudiuscula,2,NA,NA
+1842,Middle,December_2022,Control,MK_3,Rubusludwigii,1,NA,NA
+1842,Middle,December_2022,Control,MK_4,Searsiadentata,1,Conyza sumatrensis,36
+1842,Middle,December_2022,Control,MK_4,Commelinaafricana,1,Tagetes minuta,21
+1842,Middle,December_2022,Control,MK_4,Helichrysumsplendidum,22,Hypochaeris radicata,4
+1842,Middle,December_2022,Control,MK_4,Cynoglossumhispidum,1,Taraxacum erythrospermum,4
+1842,Middle,December_2022,Control,MK_4,Carexzuluensis,2,Verbena bonariensis,50
+1842,Middle,December_2022,Control,MK_4,Helichrysumrugulosum,12,Oenethera rosea,20
+1842,Middle,December_2022,Control,MK_4,Ficiniacinammomea,50,Oxalis corniculata,50
+1842,Middle,December_2022,Control,MK_4,Cynoglossumhispidum,2,Plantago lanceolata,50
+1842,Middle,December_2022,Control,MK_4,Bulbostylissp,5,Nidorella podocephala,50
+1842,Middle,December_2022,Control,MK_4,Helichrysumaureonitens,50,Cirsium vulgare,12
+1842,Middle,December_2022,Control,MK_4,Coniumcffontanum,8,Trifolium repens,50
+1842,Middle,December_2022,Control,MK_4,Amaranthushybridus,2,Bidens pilosa,2
+1842,Middle,December_2022,Control,MK_4,Zantedeschiaalbomaculata,2,Oenothera tetraptera,24
+1842,Middle,December_2022,Control,MK_4,Rorippanudiuscula,2,Xanthium strumarium,1
+1842,Middle,December_2022,Control,MK_4,Papaveraculeatum,8,Conyza sumatrensis,2
+1842,Middle,December_2022,Control,MK_4,Bidenspilosa,2,NA,NA
+1842,Middle,December_2022,Control,MK_4,Cinerarialyratiformis,2,NA,NA
+1842,Middle,December_2022,Control,MK_4,Berkheyadiscolor,3,NA,NA
+1842,Middle,December_2022,Control,MK_4,Hermanniageniculata,4,NA,NA
+1842,Middle,December_2022,Control,MK_5,Searsiadentata,1,Conyza sumatrensis,50
+1842,Middle,December_2022,Control,MK_5,Commelinaafricana,11,Tagetes minuta,7
+1842,Middle,December_2022,Control,MK_5,Hibiscusaethiopicus,50,Hypochaeris radicata,7
+1842,Middle,December_2022,Control,MK_5,Hermanniadepressa,50,Taraxacum officinale,9
+1842,Middle,December_2022,Control,MK_5,Helichrysumcymosum,16,Oenethera rosea,22
+1842,Middle,December_2022,Control,MK_5,Helichrysumodoratissimum,2,Oxalis corniculata,4
+1842,Middle,December_2022,Control,MK_5,Seneciocfheliopsis,2,Plantago lanceolata,1
+1842,Middle,December_2022,Control,MK_5,Cynoglossumhispidum,20,Nidorella podocephala,14
+1842,Middle,December_2022,Control,MK_5,Carexzuluensis,5,Oenothera tetraptera,19
+1842,Middle,December_2022,Control,MK_5,Rhynchosiatotta,1,Taraxacum spp1,11
+1842,Middle,December_2022,Control,MK_5,Helichrysumrugulosum,50,NA,NA
+1842,Middle,December_2022,Control,MK_5,Anthospermumherbaceum,1,NA,NA
+1842,Middle,December_2022,Control,MK_5,Rumexacetosella,2,NA,NA
+1842,Middle,December_2022,Control,MK_5,Ledebouriacooperi,1,NA,NA
+1842,Middle,December_2022,Control,MK_5,Seneciomacrocephalus,7,NA,NA
+1842,Middle,December_2022,Control,MK_5,Ficiniacinammomea,1,NA,NA
+1842,Middle,December_2022,Control,MK_5,Helichrysumnudifolium,29,NA,NA
+1842,Middle,December_2022,Control,MK_5,Arctotisarctotoides,50,NA,NA
+1842,Middle,December_2022,Control,MK_5,Helichrysumaureonitens,1,NA,NA
+1842,Middle,December_2022,Control,MK_5,Stachyshyssopoides,2,NA,NA
+1842,Middle,December_2022,Control,MK_5,Papaveraculeatum,4,NA,NA
+1842,Middle,December_2022,Control,MK_5,Berkheyadiscolor,2,NA,NA
+1842,Middle,December_2022,Control,MK_5,Helichrysumodoratissimum,2,NA,NA
+1842,Middle,December_2022,Control,MK_5,Gerberapiloselloides,1,NA,NA
+1842,Middle,December_2022,Control,MK_6,Commelinaafricana,5,Conyza sumatrensis,50
+1842,Middle,December_2022,Control,MK_6,Hibiscusaethiopicus,35,Nidorella podocephala,50
+1842,Middle,December_2022,Control,MK_6,Helichrysumcymosum,5,Oenothera tetraptera,20
+1842,Middle,December_2022,Control,MK_6,Cynoglossumhispidum,8,Cirsium vulgare,4
+1842,Middle,December_2022,Control,MK_6,Cyperusesculentus,50,Tagetes minuta,2
+1842,Middle,December_2022,Control,MK_6,Arctotisarctotoides,50,Medicago polymorpha,4
+1842,Middle,December_2022,Control,MK_6,Helichrysumaureonitens,50,Plantago lanceolata,1
+1842,Middle,December_2022,Control,MK_6,Stachyshyssopoides,38,Oenethera rosea,3
+1842,Middle,December_2022,Control,MK_6,Berkheyadiscolor,29,Taraxacum spp1,38
+1842,Middle,December_2022,Control,MK_6,Helichrysumodoratissimum,3,NA,NA
+1842,Middle,December_2022,Control,MK_6,Feliciamuricata,50,NA,NA
+1842,Middle,December_2022,Control,MK_6,Euphorbiasp,1,NA,NA
+1842,Middle,December_2022,Control,MK_6,Helichrysumrugulosum,50,NA,NA
+1842,Middle,December_2022,Control,MK_6,Helichrysumnudifolium,6,NA,NA
+1842,Middle,December_2022,Control,MK_6,Helichrysumsplendidum,3,NA,NA
+1842,Middle,December_2022,Control,MK_6,Helichrysumodoratissimum,1,NA,NA
+1842,Middle,December_2022,Control,MK_6,Cynoglossumhispidum,1,NA,NA
+1842,Middle,December_2022,Control,MK_6,Papaveraculeatum,1,NA,NA
+1842,Middle,December_2022,Control,MK_6,Seneciomacrocephalus,4,NA,NA
+1842,Middle,December_2022,Control,MK_6,Anthospermumherbaceum,6,NA,NA
+1842,Middle,December_2022,Control,MK_6,Carexzuluensis,8,NA,NA
+1842,Middle,December_2022,Control,MK_6,Papaveraculeatum,5,NA,NA
+1985,Top,December_2022,Control,TK_1,Helichrysumcymosum,18,Oenothera tetraptera,18
+1985,Top,December_2022,Control,TK_1,Helichrysumnudifolium,14,NA,NA
+1985,Top,December_2022,Control,TK_1,Geberapiloselloides,5,NA,NA
+1985,Top,December_2022,Control,TK_1,Scabiosacolumbaria,3,NA,NA
+1985,Top,December_2022,Control,TK_1,Hibiscusaethiopicus,7,NA,NA
+1985,Top,December_2022,Control,TK_1,Gazaniakrebsiana,50,NA,NA
+1985,Top,December_2022,Control,TK_1,Feliciafilifolia,3,NA,NA
+1985,Top,December_2022,Control,TK_1,Lotononislotononoides,11,NA,NA
+1985,Top,December_2022,Control,TK_1,Hermanniacoccocarpa,6,NA,NA
+1985,Top,December_2022,Control,TK_1,Galiumsp,17,NA,NA
+1985,Top,December_2022,Control,TK_1,Anthospermumherbaceum,3,NA,NA
+1985,Top,December_2022,Control,TK_1,Feliciamuricata,50,NA,NA
+1985,Top,December_2022,Control,TK_1,Cyperusrupestris,1,NA,NA
+1985,Top,December_2022,Control,TK_1,Cyperusrupestris,1,NA,NA
+1985,Top,December_2022,Control,TK_2,Feliciafilifolia,10,Verbena bonariensis,4
+1985,Top,December_2022,Control,TK_2,Feliciafilifolia,12,NA,NA
+1985,Top,December_2022,Control,TK_2,Hibiscusaethiopicus,8,NA,NA
+1985,Top,December_2022,Control,TK_2,Lotononislaxa,10,NA,NA
+1985,Top,December_2022,Control,TK_2,Cyperusrupestris,6,NA,NA
+1985,Top,December_2022,Control,TK_2,Berkheyadiscolor,1,NA,NA
+1985,Top,December_2022,Control,TK_2,Helichrysumrugulosum,6,NA,NA
+1985,Top,December_2022,Control,TK_2,Bidensbipinnata,3,NA,NA
+1985,Top,December_2022,Control,TK_2,Senecioharveianus,2,NA,NA
+1985,Top,December_2022,Control,TK_2,Seriphiumplumosum,1,NA,NA
+1985,Top,December_2022,Control,TK_2,Helichrysumodoratissimum,1,NA,NA
+1985,Top,December_2022,Control,TK_2,Gazaniakrebsiana,5,NA,NA
+1985,Top,December_2022,Control,TK_2,Helichrysumcymosum,1,NA,NA
+1985,Top,December_2022,Control,TK_2,Hermanniacoccocarpa,1,NA,NA
+1985,Top,December_2022,Control,TK_2,Seneciodiscodregeanus,2,NA,NA
+1985,Top,December_2022,Control,TK_2,Anthospermumherbaceum,2,NA,NA
+1985,Top,December_2022,Control,TK_2,Helichrysumaureonitens,1,NA,NA
+1985,Top,December_2022,Control,TK_3,Helichrysumcymosum,36,Oenothera tetraptera,50
+1985,Top,December_2022,Control,TK_3,Senecioinornatus,30,Nidorella podocephala,50
+1985,Top,December_2022,Control,TK_3,Hypoxiscostata,1,Medicago polymorpha,2
+1985,Top,December_2022,Control,TK_3,Helichrysumrugulosum,6,NA,NA
+1985,Top,December_2022,Control,TK_3,Hermanniacoccocarpa,25,NA,NA
+1985,Top,December_2022,Control,TK_3,Anthospermumherbaceum,6,NA,NA
+1985,Top,December_2022,Control,TK_3,Berkheyadiscolor,9,NA,NA
+1985,Top,December_2022,Control,TK_3,Seneciocfscitus,3,NA,NA
+1985,Top,December_2022,Control,TK_3,Salviarepens,1,NA,NA
+1985,Top,December_2022,Control,TK_3,Hibiscusaethiopicus,9,NA,NA
+1985,Top,December_2022,Control,TK_3,Commelinaafricana,5,NA,NA
+1985,Top,December_2022,Control,TK_3,Geberapiloselloides,3,NA,NA
+1985,Top,December_2022,Control,TK_3,Crassuladependens,1,NA,NA
+1985,Top,December_2022,Control,TK_3,Helichrysumodoratissimum,3,NA,NA
+1985,Top,December_2022,Control,TK_3,Helichrysumnudifolium,2,NA,NA
+1985,Top,December_2022,Control,TK_3,Lotononislotononoides,2,NA,NA
+1985,Top,December_2022,Control,TK_3,Lotononislaxa,1,NA,NA
+1985,Top,December_2022,Control,TK_3,Coniumcffontanum,3,NA,NA
+1985,Top,December_2022,Control,TK_3,Feliciafilifolia,5,NA,NA
+1985,Top,December_2022,Control,TK_3,Cyperusesculentus,50,NA,NA
+1985,Top,December_2022,Control,TK_3,Carexzuluensis,8,NA,NA
+1985,Top,December_2022,Control,TK_3,Delospermasutherlandii,1,NA,NA
+1985,Top,December_2022,Control,TK_3,Helichrysumaureonitens,3,NA,NA
+1985,Top,December_2022,Control,TK_4,Feliciafilifolia,16,Oenothera tetraptera,3
+1985,Top,December_2022,Control,TK_4,Anthospermumherbaceum,3,Nidorella podocephala,10
+1985,Top,December_2022,Control,TK_4,Hibiscusaethiopicus,14,NA,NA
+1985,Top,December_2022,Control,TK_4,Salviarepens,10,NA,NA
+1985,Top,December_2022,Control,TK_4,Geberapiloselloides,4,NA,NA
+1985,Top,December_2022,Control,TK_4,Gazaniakrebsiana,50,NA,NA
+1985,Top,December_2022,Control,TK_4,Lotononislaxa,7,NA,NA
+1985,Top,December_2022,Control,TK_4,Ajugaophrydis,23,NA,NA
+1985,Top,December_2022,Control,TK_4,Senecioinornatus,3,NA,NA
+1985,Top,December_2022,Control,TK_4,Helichrysumodoratissimum,7,NA,NA
+1985,Top,December_2022,Control,TK_4,Feliciamuricata,10,NA,NA
+1985,Top,December_2022,Control,TK_4,Seneciocfscitus,6,NA,NA
+1985,Top,December_2022,Control,TK_4,Hermanniacoccocarpa,4,NA,NA
+1985,Top,December_2022,Control,TK_4,Helichrysumcymosum,11,NA,NA
+1985,Top,December_2022,Control,TK_4,Helichrysumnudifolium,4,NA,NA
+1985,Top,December_2022,Control,TK_4,Commelinaafricana,2,NA,NA
+1985,Top,December_2022,Control,TK_4,Lotononislotononoides,2,NA,NA
+1985,Top,December_2022,Control,TK_4,Carexzuluensis,1,NA,NA
+1985,Top,December_2022,Control,TK_4,Unknown7,1,NA,NA
+1985,Top,December_2022,Control,TK_4,Cyperusrupestris,5,NA,NA
+1985,Top,December_2022,Control,TK_4,Diospyrosaustro-africana,1,NA,NA
+1985,Top,December_2022,Control,TK_4,Cyperusesculentus,50,NA,NA
+1985,Top,December_2022,Control,TK_4,Schizoglossumcfatropurpureum,1,NA,NA
+1985,Top,December_2022,Control,TK_5,Helichrysumcymosum,31,Oenothera tetraptera,10
+1985,Top,December_2022,Control,TK_5,Senecioinornatus,36,Nidorella podocephala,50
+1985,Top,December_2022,Control,TK_5,Feliciafilifolia,2,Hypochaeris radicata,1
+1985,Top,December_2022,Control,TK_5,Arctotisarctotoides,12,Taraxacum spp1,5
+1985,Top,December_2022,Control,TK_5,Helichrysumnudifolium,5,NA,NA
+1985,Top,December_2022,Control,TK_5,Feliciamuricata,50,NA,NA
+1985,Top,December_2022,Control,TK_5,Commelinaafricana,7,NA,NA
+1985,Top,December_2022,Control,TK_5,Hibiscusaethiopicus,10,NA,NA
+1985,Top,December_2022,Control,TK_5,Pelargoniumalchemilloides,9,NA,NA
+1985,Top,December_2022,Control,TK_5,Galiumsp,14,NA,NA
+1985,Top,December_2022,Control,TK_5,Ajugaophrydis,12,NA,NA
+1985,Top,December_2022,Control,TK_5,Carexzuluensis,2,NA,NA
+1985,Top,December_2022,Control,TK_5,Helichrysumrugulosum,1,NA,NA
+1985,Top,December_2022,Control,TK_5,Oxaliscorniculata,50,NA,NA
+1985,Top,December_2022,Control,TK_5,Crassuladependens,5,NA,NA
+1985,Top,December_2022,Control,TK_5,Schizoglossumcfatropurpureum,2,NA,NA
+1985,Top,December_2022,Control,TK_5,Geberapiloselloides,1,NA,NA
+1985,Top,December_2022,Control,TK_5,Berkheyadiscolor,10,NA,NA
+1985,Top,December_2022,Control,TK_5,Hermanniacoccocarpa,2,NA,NA
+1985,Top,December_2022,Control,TK_5,Anthospermumherbaceum,2,NA,NA
+1985,Top,December_2022,Control,TK_5,Helichrysumodoratissimum,8,NA,NA
+1985,Top,December_2022,Control,TK_5,Cyperusesculentus,50,NA,NA
+1985,Top,December_2022,Control,TK_5,Cyperusrupestris,50,NA,NA
+1985,Top,December_2022,Control,TK_5,Helichrysumaureonitens,5,NA,NA
+1985,Top,December_2022,Control,TK_6,Ledebouriacooperi,1,NA,NA
+1985,Top,December_2022,Control,TK_6,Senecioinornatus,27,NA,NA
+1985,Top,December_2022,Control,TK_6,Feliciamuricata,50,NA,NA
+1985,Top,December_2022,Control,TK_6,Ajugaophrydis,50,NA,NA
+1985,Top,December_2022,Control,TK_6,Seneciomacrocephalus,2,NA,NA
+1985,Top,December_2022,Control,TK_6,Arctotisarctotoides,7,NA,NA
+1985,Top,December_2022,Control,TK_6,Helichrysumcymosum,6,NA,NA
+1985,Top,December_2022,Control,TK_6,Gazaniakrebsiana,50,NA,NA
+1985,Top,December_2022,Control,TK_6,Feliciafilifolia,2,NA,NA
+1985,Top,December_2022,Control,TK_6,Berkheyadiscolor,5,NA,NA
+1985,Top,December_2022,Control,TK_6,Hibiscusaethiopicus,10,NA,NA
+1985,Top,December_2022,Control,TK_6,Helichrysumrugulosum,1,NA,NA
+1985,Top,December_2022,Control,TK_6,Lotononislaxa,15,NA,NA
+1985,Top,December_2022,Control,TK_6,Anthospermumherbaceum,3,NA,NA
+1985,Top,December_2022,Control,TK_6,Delospermasutherlandii,1,NA,NA
+1985,Top,December_2022,Control,TK_6,Polygalahottentota,1,NA,NA
+1985,Top,December_2022,Control,TK_6,Helichrysumaureonitens,1,NA,NA
+1985,Top,December_2022,Control,TK_6,Carexzuluensis,1,NA,NA
+1730,Low,June_2023,Cleared,LC_1,Rubusludwigii,4,Taraxacum officinale,1
+1730,Low,June_2023,Cleared,LC_1,NA,NA,Hypochaeris radicata,8
+1730,Low,October_2023,Cleared,LC_1,Artemisiaafra,11,Hypochaeris radicata,14
+1730,Low,October_2023,Cleared,LC_1,Cheilanthesquadripinnata,1,Taraxacum officinale,4
+1730,Low,October_2023,Cleared,LC_1,Helichrysumodoratissimum,5,Lactuca serriola,11
+1730,Low,October_2023,Cleared,LC_1,Cynoglossumhispidum,9,Trifolium repens,2
+1730,Low,October_2023,Cleared,LC_1,Rubusludwigii,4,Verbena rigida,17
+1730,Low,October_2023,Cleared,LC_1,Gomphocarpusfruticosus,2,Verbena bonariensis,2
+1730,Low,October_2023,Cleared,LC_1,NA,NA,Prunus persica,3
+1730,Low,October_2023,Cleared,LC_1,NA,NA,Cirsium vulgare,1
+1730,Low,October_2023,Cleared,LC_1,NA,NA,Conyza sumatrensis,2
+1730,Low,October_2023,Cleared,LC_1,NA,NA,Populus nigra,1
+1730,Low,October_2023,Cleared,LC_1,NA,NA,Robinia pseudoacacia,1
+1730,Low,October_2022,Cleared,LC_2,Helichryssumcooperi,1,Asparagus africanus,5
+1730,Low,October_2022,Cleared,LC_2,Salviarepens,2,Conyza sumatrensis,10
+1730,Low,October_2022,Cleared,LC_2,Helichrysumodoratissimum,8,Oenethera rosea,50
+1730,Low,October_2022,Cleared,LC_2,Rorippanudiuscula,2,NA,NA
+1730,Low,October_2022,Cleared,LC_2,Verbenabonariensis,6,NA,NA
+1730,Low,October_2022,Cleared,LC_2,NA,NA,NA,NA
+1730,Low,October_2022,Cleared,LC_2,NA,NA,NA,NA
+1730,Low,October_2022,Cleared,LC_2,NA,NA,NA,NA
+1730,Low,December_2022,Cleared,LC_2,Helichrysumcymosum,5,Oenothera rosea,50
+1730,Low,December_2022,Cleared,LC_2,Helichrysumaureonitens,2,Oenothera stricta,5
+1730,Low,December_2022,Cleared,LC_2,Ranunculusmultifidus,2,Oenothera tetraptera,3
+1730,Low,December_2022,Cleared,LC_2,Bidensbipinnata,50,Nidorella podocephala,1
+1730,Low,December_2022,Cleared,LC_2,Carexzuluensis,2,NA,NA
+1730,Low,December_2022,Cleared,LC_2,Cyperusesculentus,50,NA,NA
+1730,Low,December_2022,Cleared,LC_2,Senecioinornatus,16,NA,NA
+1730,Low,December_2022,Cleared,LC_2,Helichrysumcooperi,2,NA,NA
+1730,Low,December_2022,Cleared,LC_2,Arctotisarctotoides,1,NA,NA
+1730,Low,December_2022,Cleared,LC_2,Unknown9,1,NA,NA
+1730,Low,December_2022,Cleared,LC_2,Rhoicissuscftridentata,1,NA,NA
+1730,Low,December_2022,Cleared,LC_2,Artemisiaafra,3,NA,NA
+1730,Low,December_2022,Cleared,LC_2,Cinerarialyratiforms,1,NA,NA
+1730,Low,December_2022,Cleared,LC_2,Helichrysumrugulosum,50,NA,NA
+1730,Low,December_2022,Cleared,LC_2,Cinerariadieterlenii,2,NA,NA
+1730,Low,December_2022,Cleared,LC_2,Asparagusafricanus,1,NA,NA
+1730,Low,December_2022,Cleared,LC_2,Commelinaafricana,2,NA,NA
+1730,Low,March_2023,Cleared,LC_2,Asparagusafricanus,1,Xanthiumspinosum,1
+1730,Low,March_2023,Cleared,LC_2,Cyperusesculentus,50,Cirsiumvulgare,3
+1730,Low,March_2023,Cleared,LC_2,Bulbostylis,1,Bidensbipinnata,9
+1730,Low,March_2023,Cleared,LC_2,Senecioinornatus,2,Bidenspilosa,3
+1730,Low,March_2023,Cleared,LC_2,Seneciofinelyserated,16,Hypochaerisradicata,2
+1730,Low,March_2023,Cleared,LC_2,Ranunculusmultifidus,8,Oenotherarosea,50
+1730,Low,March_2023,Cleared,LC_2,Stachyshyssopoides,2,Conyzasumatrensis,3
+1730,Low,March_2023,Cleared,LC_2,Gomphocarpusfruticosus,2,Plantagolanceolata,1
+1730,Low,March_2023,Cleared,LC_2,Searsiadentata,2,Verbenarigida,2
+1730,Low,March_2023,Cleared,LC_2,Commelinaafricana,2,Taraxacumofficinale,1
+1730,Low,March_2023,Cleared,LC_2,Helichrysumaureum,5,NA,NA
+1730,Low,March_2023,Cleared,LC_2,Hibiscusaethiopicus,1,NA,NA
+1730,Low,March_2023,Cleared,LC_2,Crassuladependens,1,NA,NA
+1730,Low,March_2023,Cleared,LC_2,Arctotisarctotoides,2,NA,NA
+1730,Low,March_2023,Cleared,LC_2,Seneciomacrocephalus,1,NA,NA
+1730,Low,March_2023,Cleared,LC_2,Trifoliateserated,2,NA,NA
+1730,Low,March_2023,Cleared,LC_2,Artemisiaafra,2,NA,NA
+1730,Low,March_2023,Cleared,LC_2,Cynoglossumhispidum,1,NA,NA
+1730,Low,March_2023,Cleared,LC_2,Helichrysumrugulosum,1,NA,NA
+1730,Low,March_2023,Cleared,LC_2,Helichrysumnudifolium,1,NA,NA
+1730,Low,June_2023,Cleared,LC_2,Gomphocarpusfruticosus,2,Hypochaeris radicata,50
+1730,Low,June_2023,Cleared,LC_2,Artemisiaafra,3,Cirsium vulgare,10
+1730,Low,June_2023,Cleared,LC_2,Ranunculusmultifidus,3,Conyza sumatrensis,2
+1730,Low,June_2023,Cleared,LC_2,Cyperussp,50,Oenothera rosea,50
+1730,Low,June_2023,Cleared,LC_2,Cinerariadieterlenii,1,Plantago lanceolata,1
+1730,Low,June_2023,Cleared,LC_2,Cynoglossumhispidum,2,NA,NA
+1730,Low,June_2023,Cleared,LC_2,Arctotisarctotoides,4,NA,NA
+1730,Low,June_2023,Cleared,LC_2,Salviarepens,1,NA,NA
+1730,Low,June_2023,Cleared,LC_2,Senecioinornatus,4,NA,NA
+1730,Low,June_2023,Cleared,LC_2,Lotononislaxa,1,NA,NA
+1730,Low,June_2023,Cleared,LC_2,Helichrysumcymosum,11,NA,NA
+1730,Low,October_2023,Cleared,LC_2,Artemisiaafra,2,Cirsium vulgare,6
+1730,Low,October_2023,Cleared,LC_2,Helichrysumcymosum,7,Lactuca serriola,20
+1730,Low,October_2023,Cleared,LC_2,Arctotisarctotoides,18,Medicago polymorpha,1
+1730,Low,October_2023,Cleared,LC_2,Ranunculusmultifidus,4,Oenothera rosea,50
+1730,Low,October_2023,Cleared,LC_2,Helichrysumodoratissimum,7,Verbena bonariensis,50
+1730,Low,October_2023,Cleared,LC_2,Salviarepens,50,Taraxacum officinale,1
+1730,Low,October_2023,Cleared,LC_2,Carexzuluensis,50,NA,NA
+1730,Low,October_2023,Cleared,LC_2,Anthospermumherbaceum,1,NA,NA
+1730,Low,October_2022,Cleared,LC_3,Cinerariadieterlenii,9,Asparagus africanus,11
+1730,Low,October_2022,Cleared,LC_3,Rhynchosiatotta,1,Cirsium vulgare,3
+1730,Low,October_2022,Cleared,LC_3,Cynoglossumhispidum,3,Conyza sumatrensis,7
+1730,Low,October_2022,Cleared,LC_3,NA,NA,Hypochaeris radicata,1
+1730,Low,October_2022,Cleared,LC_3,Salviarepens,1,Nidorella podocephala,2
+1730,Low,October_2022,Cleared,LC_3,Artemisiaafra,10,Oenothera rosea,50
+1730,Low,October_2022,Cleared,LC_3,NA,NA,Plantago lanceolata,1
+1730,Low,October_2022,Cleared,LC_3,NA,NA,Taraxacum officinale,1
+1730,Low,March_2023,Uncleared,LU_1,Commelinaafricana,2,NA,NA
+1730,Low,June_2023,Uncleared,LU_1,Artemisiaafra,1,Hypochaeris radicata,6
+1730,Low,June_2023,Uncleared,LU_1,Asparagusasparagoides,2,Cirsium vulgare,1
+1730,Low,June_2023,Uncleared,LU_1,Cynoglossumhispidum,2,Conyza sumatrensis,1
+1730,Low,June_2023,Uncleared,LU_1,NA,NA,Trifolium repens,50
+1730,Low,October_2023,Uncleared,LU_1,Cynoglossumhispidum,3,Hypochaeris radicata,13
+1730,Low,October_2023,Uncleared,LU_1,Helichrysumrugulosum,4,Trifolium repens,50
+1730,Low,October_2023,Uncleared,LU_1,Helichrysumodoratissimum,11,Cirsium vulgare,2
+1730,Low,October_2023,Uncleared,LU_1,Gerberapiloselloides,4,Plantago lanceolata,1
+1730,Low,October_2023,Uncleared,LU_1,NA,NA,Lactuca serriola,1
+1730,Low,October_2023,Uncleared,LU_1,NA,NA,Verbena bonariensis,15
+1730,Low,October_2023,Uncleared,LU_1,NA,NA,Oenothera rosea,1
+1730,Low,October_2022,Uncleared,LU_2,NA,NA,Conyza sumatrensis,50
+1730,Low,October_2022,Uncleared,LU_2,NA,NA,Equisetum hyemale,50
+1730,Low,October_2022,Uncleared,LU_2,Asparagusafricanus,2,Oenethera rosea,50
+1730,Low,October_2022,Uncleared,LU_2,Helichrysumodoratissimum,9,Robinia pseudoacacia,1
+1730,Low,October_2022,Uncleared,LU_2,Rubusulmifolius,2,Taraxacum officinale,2
+1730,Low,October_2022,Uncleared,LU_2,Salviarepens,8,Verbena bonariensis,50
+1730,Low,December_2022,Uncleared,LU_2,Helichrysumcymosum,50,Conyza sumatrensis,50
+1730,Low,December_2022,Uncleared,LU_2,Cinerariadieterlenii,3,Oenothera rosea,50
+1730,Low,December_2022,Uncleared,LU_2,Senecioinornatus,3,Taraxacum officinale,6
+1730,Low,December_2022,Uncleared,LU_2,Bidensbipinnata,50,Oenothera tetraptera,50
+1730,Low,December_2022,Uncleared,LU_2,Cynoglossumhispidum,1,Nidorella podocephala,50
+1730,Low,December_2022,Uncleared,LU_2,Artemisiaafra,3,Equisetum hyemale,6
+1730,Low,December_2022,Uncleared,LU_2,Helichrysumaureonitens,4,NA,NA
+1730,Low,March_2023,Uncleared,LU_2,Helichrysumcymosum,50,Nidorellapodocephala,50
+1730,Low,March_2023,Uncleared,LU_2,Stachyshyssopoides,5,Oenotherarosea,50
+1730,Low,March_2023,Uncleared,LU_2,Artemisiaafra,2,Plantagolanceolata,1
+1730,Low,March_2023,Uncleared,LU_2,Cynoglossumhispidum,1,Conyzasumatrensis,13
+1730,Low,March_2023,Uncleared,LU_2,Seneciofinelyserated,6,Tagetesminuta,50
+1730,Low,March_2023,Uncleared,LU_2,Cyperusesculentus,4,Taraxacumofficinale,1
+1730,Low,March_2023,Uncleared,LU_2,Berkheyadiscolor,1,Conyzasumatrensis,2
+1730,Low,March_2023,Uncleared,LU_2,Mariscuscongestus,1,NA,NA
+1730,Low,June_2023,Uncleared,LU_2,Rubusludwigii,6,Taraxacum officinale,50
+1730,Low,June_2023,Uncleared,LU_2,Helichrysumcymosum,1,Hypochaeris radicata,50
+1730,Low,June_2023,Uncleared,LU_2,NA,NA,Nidorella podocephala,50
+1730,Low,June_2023,Uncleared,LU_2,NA,NA,Plantago lanceolata,50
+1730,Low,October_2023,Uncleared,LU_2,Helichrysumcymosum,7,Plantago lanceolata,50
+1730,Low,October_2023,Uncleared,LU_2,Salviarepens,50,Oenothera rosea,50
+1730,Low,October_2023,Uncleared,LU_2,Helichrysumodoratissimum,3,Taraxacum officinale,2
+1730,Low,October_2023,Uncleared,LU_2,Feliciamuricata,1,Verbena bonariensis,50
+1730,Low,October_2023,Uncleared,LU_2,NA,NA,Equisetum hyemale,50
+1842,Middle,December_2022,Cleared,MC_1,Arctotisarctotoides,8,Oenothera rosea,29
+1842,Middle,December_2022,Cleared,MC_1,Salviarepens,10,Conyza sumatrensis,2
+1842,Middle,December_2022,Cleared,MC_1,Cynoglossumhispidum,6,Cirsium vulgare,1
+1842,Middle,December_2022,Cleared,MC_1,Zantedeschiaalbomaculata,2,Oxalis corniculata,2
+1842,Middle,December_2022,Cleared,MC_1,Commelinaafricana,7,Tagetes minuta,14
+1842,Middle,December_2022,Cleared,MC_1,Seneciomacrocephalus,1,NA,NA
+1842,Middle,December_2022,Cleared,MC_1,Helichrysumcymosum,4,NA,NA
+1842,Middle,December_2022,Cleared,MC_1,Helichrysumodoratissimum,1,NA,NA
+1842,Middle,December_2022,Cleared,MC_1,Myrsineafricana,1,NA,NA
+1842,Middle,December_2022,Cleared,MC_1,Senecioisatideus,2,NA,NA
+1842,Middle,December_2022,Cleared,MC_1,Helichrysumnudifolium,2,NA,NA
+1842,Middle,December_2022,Cleared,MC_1,Cheilantheseckloniana,1,NA,NA
+1842,Middle,December_2022,Cleared,MC_1,Papaveraculeatum,2,NA,NA
+1842,Middle,December_2022,Cleared,MC_1,Searsiadentata,1,NA,NA
+1842,Middle,December_2022,Cleared,MC_2,Senecioisatideus,50,Oxalis corniculata,50
+1842,Middle,December_2022,Cleared,MC_2,Cyperusesculentus,50,Nidorella podocephala,50
+1842,Middle,December_2022,Cleared,MC_2,Helichrysumaureonitens,22,Verbena bonariensis,40
+1842,Middle,December_2022,Cleared,MC_2,Papaveraculeatum,15,Plantago lanceolata,27
+1842,Middle,December_2022,Cleared,MC_2,Amaranthushybridus,15,Cirsium vulgare,1
+1842,Middle,December_2022,Cleared,MC_2,Helichrysumrugulosum,1,Oenothera tetraptera,2
+1842,Middle,December_2022,Cleared,MC_2,Zantedeschiaalbomaculata,1,Taraxacum erythrospermum,1
+1842,Middle,December_2022,Cleared,MC_2,Carexzuluensis,2,Oenothera rosea,14
+1842,Middle,December_2022,Cleared,MC_2,Papaveraculeatum,1,Tagetes minuta,13
+1842,Middle,December_2022,Cleared,MC_2,Helichrysumodoratissimum,1,Trifolium repens,2
+1842,Middle,December_2022,Cleared,MC_2,Seneciomacrocephalus,3,Conyza sumatrensis,12
+1842,Middle,December_2022,Cleared,MC_2,Stachyshyssopoides,5,Hypochaeris radicata,1
+1842,Middle,December_2022,Cleared,MC_2,Salviarepens,2,Taraxacum spp2,2
+1842,Middle,December_2022,Cleared,MC_2,Pelargoniumalchemilloides,5,NA,NA
+1842,Middle,December_2022,Cleared,MC_2,Cinerariadieterlenii,1,NA,NA
+1842,Middle,December_2022,Cleared,MC_2,Cynoglossumhispidum,1,NA,NA
+1842,Middle,December_2022,Cleared,MC_2,Senecioinornatus,1,NA,NA
+1842,Middle,December_2022,Cleared,MC_2,Searsiadentata,1,NA,NA
+1842,Middle,December_2022,Cleared,MC_2,Myrsineafricana,12,NA,NA
+1842,Middle,December_2022,Cleared,MC_2,NA,NA,NA,NA
+1842,Middle,December_2022,Cleared,MC_3,Salviarepens,50,Oxalis corniculata,50
+1842,Middle,December_2022,Cleared,MC_3,Myrsineafricana,50,Hypochaeris radicata,1
+1842,Middle,December_2022,Cleared,MC_3,Zantedeschiaalbomaculata,3,Conyza sumatrensis,4
+1842,Middle,December_2022,Cleared,MC_3,Helichrysumcymosum,2,Cirsium vulgare,5
+1842,Middle,December_2022,Cleared,MC_3,Searsiadentata,10,Plantago lanceolata,50
+1842,Middle,December_2022,Cleared,MC_3,Berkheyadiscolor,2,Tagetes minuta,50
+1842,Middle,December_2022,Cleared,MC_3,Senecioisatideus,28,NA,NA
+1842,Middle,December_2022,Cleared,MC_3,Helichrysumodoratissimum,3,NA,NA
+1842,Middle,December_2022,Cleared,MC_3,Helichrysumsplendidum,1,NA,NA
+1842,Middle,December_2022,Cleared,MC_3,Asparagusasparagoides,2,NA,NA
+1842,Middle,December_2022,Cleared,MC_3,Cynoglossumhispidum,4,NA,NA
+1842,Middle,December_2022,Cleared,MC_3,Bulbostylissp,50,NA,NA
+1842,Middle,December_2022,Cleared,MC_3,Diospyrosrubriflora,3,NA,NA
+1842,Middle,December_2022,Cleared,MC_3,Helichrysumaureonitens,3,NA,NA
+1842,Middle,December_2022,Cleared,MC_3,Asparagusafricanus,3,NA,NA
+1842,Middle,December_2022,Cleared,MC_3,Carexzuluensis,50,NA,NA
+1842,Middle,December_2022,Cleared,MC_3,Cyperusesculentus,50,NA,NA
+1842,Middle,December_2022,Cleared,MC_3,Myrsineafricana,2,NA,NA
+1842,Middle,December_2022,Cleared,MC_3,Cynoglossumhispidum,1,NA,NA
+1842,Middle,December_2022,Cleared,MC_4,Diospyrosrubriflora,50,Tagetes minuta,50
+1842,Middle,December_2022,Cleared,MC_4,Helichrysumaureonitens,4,Oxalis corniculata,50
+1842,Middle,December_2022,Cleared,MC_4,Calpurniasericea,6,Cirsium vulgare,6
+1842,Middle,December_2022,Cleared,MC_4,Zantedeschiaalbomaculata,1,Nidorella podocephala,10
+1842,Middle,December_2022,Cleared,MC_4,Amaranthushybridus,1,Conyza sumatrensis,7
+1842,Middle,December_2022,Cleared,MC_4,Salviarepens,4,Taraxacum erythrospermum,4
+1842,Middle,December_2022,Cleared,MC_4,Myrsineafricana,3,Plantago lanceolata,5
+1842,Middle,December_2022,Cleared,MC_4,Asparagusasparagoides,50,Trifolium repens,50
+1842,Middle,December_2022,Cleared,MC_4,Cynoglossumhispidum,8,NA,NA
+1842,Middle,December_2022,Cleared,MC_4,Searsiadentata,10,NA,NA
+1842,Middle,December_2022,Cleared,MC_4,Commelinaafricana,6,NA,NA
+1842,Middle,December_2022,Cleared,MC_4,Searsiadiscolor,1,NA,NA
+1842,Middle,December_2022,Cleared,MC_4,Stachyshyssopoides,1,NA,NA
+1842,Middle,December_2022,Cleared,MC_5,Helichrysumcymosum,6,Cirsium vulgare,3
+1842,Middle,December_2022,Cleared,MC_5,Salviarepens,50,Nidorella podocephala,50
+1842,Middle,December_2022,Cleared,MC_5,Arctotisarctotoides,50,Conyza sumatrensis,20
+1842,Middle,December_2022,Cleared,MC_5,Helichrysumnudifolium,50,Oenothera rosea,4
+1842,Middle,December_2022,Cleared,MC_5,Hibiscusaethiopicus,50,Oenothera tetraptera,1
+1842,Middle,December_2022,Cleared,MC_5,Commelinaafricana,8,Hypochaeris radicata,9
+1842,Middle,December_2022,Cleared,MC_5,Seneciomacrocephalus,5,Oxalis corniculata,50
+1842,Middle,December_2022,Cleared,MC_5,Cynoglossumhispidum,17,NA,NA
+1842,Middle,December_2022,Cleared,MC_5,Gomphocarpusfruiticosus,1,NA,NA
+1842,Middle,December_2022,Cleared,MC_5,Helichrysumsplendidum,9,NA,NA
+1842,Middle,December_2022,Cleared,MC_5,Diospyrosrubriflora,7,NA,NA
+1842,Middle,December_2022,Cleared,MC_5,Searsiadentata,4,NA,NA
+1842,Middle,December_2022,Cleared,MC_5,Cynoglossumhispidum,2,NA,NA
+1842,Middle,December_2022,Cleared,MC_6,Senecioisatideus,50,Oenothera rosea,3
+1842,Middle,December_2022,Cleared,MC_6,Salviarepens,50,Oenothera tetraptera,2
+1842,Middle,December_2022,Cleared,MC_6,Ledebouriacooperi,1,NA,NA
+1842,Middle,December_2022,Cleared,MC_6,Senecioinornatus,20,NA,NA
+1842,Middle,December_2022,Cleared,MC_6,Hibiscusaethiopicus,15,NA,NA
+1842,Middle,December_2022,Cleared,MC_6,Commelinaafricana,8,NA,NA
+1842,Middle,December_2022,Cleared,MC_6,Searsiadentata,3,NA,NA
+1842,Middle,December_2022,Cleared,MC_6,Diospyrosrubriflora,5,NA,NA
+1842,Middle,December_2022,Cleared,MC_6,Lotononislotononoides,2,NA,NA
+1842,Middle,December_2022,Cleared,MC_6,Pelargoniumalchemilloides,3,NA,NA
+1842,Middle,December_2022,Cleared,MC_6,Helichrysumcymosum,2,NA,NA
+1842,Middle,December_2022,Cleared,MC_6,Cyperusesculentus,50,NA,NA
+1842,Middle,December_2022,Uncleared,MU_1,Salviarepens,8,NA,NA
+1842,Middle,December_2022,Uncleared,MU_1,Searsiadentata,1,NA,NA
+1842,Middle,December_2022,Uncleared,MU_1,Cynoglossumhispidum,2,NA,NA
+1842,Middle,December_2022,Uncleared,MU_1,Commelinaafricana,1,NA,NA
+1842,Middle,December_2022,Uncleared,MU_1,Calpurniasericea,12,NA,NA
+1842,Middle,December_2022,Uncleared,MU_2,Buddlejasalviifolia,1,Oxalis corniculata,50
+1842,Middle,December_2022,Uncleared,MU_2,Myrsineafricana,50,Conyza sumatrensis,8
+1842,Middle,December_2022,Uncleared,MU_2,Cynoglossumhispidum,50,Hypochaeris radicata,2
+1842,Middle,December_2022,Uncleared,MU_2,Rumexsagittatus,50,Conyza sumatrensis,1
+1842,Middle,December_2022,Uncleared,MU_2,Calpurniasericea,20,NA,NA
+1842,Middle,December_2022,Uncleared,MU_2,Rubusludwigii,2,NA,NA
+1842,Middle,December_2022,Uncleared,MU_2,Anthospermumherbaceum,3,NA,NA
+1842,Middle,December_2022,Uncleared,MU_2,Myrsineafricana,50,NA,NA
+1842,Middle,December_2022,Uncleared,MU_2,Cheilanthesquadripinnata,6,NA,NA
+1842,Middle,December_2022,Uncleared,MU_2,Commelinaafricana,1,NA,NA
+1842,Middle,December_2022,Uncleared,MU_2,Diospyrosrubriflora,10,NA,NA
+1842,Middle,December_2022,Uncleared,MU_2,Zantedeschiaalbomaculata,8,NA,NA
+1842,Middle,December_2022,Uncleared,MU_3,Heteromorphaarborescens,1,Plantago lanceolata,12
+1842,Middle,December_2022,Uncleared,MU_3,Diospyrosrubriflora,2,Conyza sumatrensis,10
+1842,Middle,December_2022,Uncleared,MU_3,Rhamnusprinoides,1,Hypochaeris radicata,1
+1842,Middle,December_2022,Uncleared,MU_3,Myrsineafricana,50,Oenothera rosea,6
+1842,Middle,December_2022,Uncleared,MU_3,Rumexacetosella,50,Verbena bonariensis,6
+1842,Middle,December_2022,Uncleared,MU_3,Cynoglossumhispidum,8,Oxalis corniculata,50
+1842,Middle,December_2022,Uncleared,MU_3,Calpurniasericea,6,Tagetes minuta,6
+1842,Middle,December_2022,Uncleared,MU_3,Zantedeschiaalbomaculata,4,Bidens pilosa,50
+1842,Middle,December_2022,Uncleared,MU_3,Myrsineafricana,1,NA,NA
+1842,Middle,December_2022,Uncleared,MU_3,Searsiadentata,2,NA,NA
+1842,Middle,December_2022,Uncleared,MU_3,Salviarepens,6,NA,NA
+1842,Middle,December_2022,Uncleared,MU_3,Helichrysumodoratissimum,1,NA,NA
+1842,Middle,December_2022,Uncleared,MU_3,Rubusludwigii,1,NA,NA
+1842,Middle,December_2022,Uncleared,MU_3,Senecioisatideus,2,NA,NA
+1842,Middle,December_2022,Uncleared,MU_4,Myrsineafricana,50,Tagetes minuta,50
+1842,Middle,December_2022,Uncleared,MU_4,Calpurniasericea,8,Oenothera rosea,25
+1842,Middle,December_2022,Uncleared,MU_4,Helichrysumcymosum,1,Conyza sumatrensis,50
+1842,Middle,December_2022,Uncleared,MU_4,Cynoglossumhispidum,4,Oxalis corniculata,50
+1842,Middle,December_2022,Uncleared,MU_4,Myrsineafricana,22,Nidorella podocephala,50
+1842,Middle,December_2022,Uncleared,MU_4,Zantedeschiaalbomaculata,2,Plantago lanceolata,50
+1842,Middle,December_2022,Uncleared,MU_4,Papaveraculeatum,1,Cirsium vulgare,4
+1842,Middle,December_2022,Uncleared,MU_4,Helichrysumsplendidum,15,NA,NA
+1842,Middle,December_2022,Uncleared,MU_4,Cyperusesculentus,50,NA,NA
+1842,Middle,December_2022,Uncleared,MU_4,Searsiadentata,2,NA,NA
+1842,Middle,December_2022,Uncleared,MU_4,Diospyrosrubriflora,6,NA,NA
+1842,Middle,December_2022,Uncleared,MU_4,Commelinaafricana,3,NA,NA
+1842,Middle,December_2022,Uncleared,MU_4,Asparagusasparagoides,50,NA,NA
+1842,Middle,December_2022,Uncleared,MU_4,Rubusludwigii,4,NA,NA
+1842,Middle,December_2022,Uncleared,MU_4,Helichrysumaureonitens,6,NA,NA
+1842,Middle,December_2022,Uncleared,MU_5,Helichrysumnudifolium,50,Nidorella podocephala,50
+1842,Middle,December_2022,Uncleared,MU_5,Artemisiaafra,2,Medicago polymorpha,1
+1842,Middle,December_2022,Uncleared,MU_5,Diospyrosrubriflora,50,Oenothera tetraptera,2
+1842,Middle,December_2022,Uncleared,MU_5,Berkheyadiscolor,1,Oenothera rosea,5
+1842,Middle,December_2022,Uncleared,MU_5,Myrsineafricana,1,Hypochaeris radicata,1
+1842,Middle,December_2022,Uncleared,MU_5,Asparagusasparagoides,2,Tagetes minuta,50
+1842,Middle,December_2022,Uncleared,MU_5,Hibiscusaethiopicus,50,Taraxacum spp1,5
+1842,Middle,December_2022,Uncleared,MU_5,Helichrysumrugulosum,50,NA,NA
+1842,Middle,December_2022,Uncleared,MU_5,Searsiadentata,3,NA,NA
+1842,Middle,December_2022,Uncleared,MU_5,Senecioisatideus,2,NA,NA
+1842,Middle,December_2022,Uncleared,MU_5,Commelinaafricana,12,NA,NA
+1842,Middle,December_2022,Uncleared,MU_5,Salviarepens,2,NA,NA
+1842,Middle,December_2022,Uncleared,MU_5,Cyperusesculentus,50,NA,NA
+1842,Middle,December_2022,Uncleared,MU_5,Carexzuluensis,5,NA,NA
+1842,Middle,December_2022,Uncleared,MU_5,Helichrysumaureonitens,2,NA,NA
+1842,Middle,December_2022,Uncleared,MU_5,Cinerariadieterlenii,5,NA,NA
+1842,Middle,December_2022,Uncleared,MU_5,Myrsineafricana,4,NA,NA
+1842,Middle,December_2022,Uncleared,MU_5,Cynoglossumhispidum,2,NA,NA
+1842,Middle,December_2022,Uncleared,MU_5,Seneciomacrocephalus,1,NA,NA
+1842,Middle,December_2022,Uncleared,MU_5,Rubusludwigii,8,NA,NA
+1842,Middle,December_2022,Uncleared,MU_5,Coniumcffontanum,4,NA,NA
+1842,Middle,December_2022,Uncleared,MU_6,Chrysocomaciliatabush,3,Oxalis corniculata,50
+1842,Middle,December_2022,Uncleared,MU_6,Hibiscusaethiopicus,13,NA,NA
+1842,Middle,December_2022,Uncleared,MU_6,Helichrysumcymosum,2,NA,NA
+1842,Middle,December_2022,Uncleared,MU_6,Pelargoniumalchemilloides,2,NA,NA
+1842,Middle,December_2022,Uncleared,MU_6,Salviarepens,11,NA,NA
+1842,Middle,December_2022,Uncleared,MU_6,Rhynchosiatotta,1,NA,NA
+1842,Middle,December_2022,Uncleared,MU_6,Diospyrosrubriflora,4,NA,NA
+1985,Top,December_2022,Cleared,TC_1,Commelinaafricana,8,Tagetes minuta,50
+1985,Top,December_2022,Cleared,TC_1,Bidensbipinnata,50,Oxalis corniculata,50
+1985,Top,December_2022,Cleared,TC_1,Berkheyadiscolor,4,NA,NA
+1985,Top,December_2022,Cleared,TC_1,Cynoglossumhispidum,3,NA,NA
+1985,Top,December_2022,Cleared,TC_1,Zantedeschiaalbomaculata,1,NA,NA
+1985,Top,December_2022,Cleared,TC_1,Myrsineafricana,50,NA,NA
+1985,Top,December_2022,Cleared,TC_1,Seneciocfscitus,11,NA,NA
+1985,Top,December_2022,Cleared,TC_1,Salviarepens,9,NA,NA
+1985,Top,December_2022,Cleared,TC_1,Seneciomacrocephalus,4,NA,NA
+1985,Top,December_2022,Cleared,TC_1,Geberapiloselloides,1,NA,NA
+1985,Top,December_2022,Cleared,TC_2,Asparagusasparagoides,11,Tagetes minuta,50
+1985,Top,December_2022,Cleared,TC_2,Salviarepens,31,Oenothera rosea,1
+1985,Top,December_2022,Cleared,TC_2,Cynoglossumhispidum,23,NA,NA
+1985,Top,December_2022,Cleared,TC_2,Bidensbipinnata,50,NA,NA
+1985,Top,December_2022,Cleared,TC_2,Seneciocfscitus,3,NA,NA
+1985,Top,December_2022,Cleared,TC_2,Artemisiaafra,1,NA,NA
+1985,Top,December_2022,Cleared,TC_2,Zantedeschiaalbomaculata,3,NA,NA
+1985,Top,December_2022,Cleared,TC_2,Commelinaafricana,12,NA,NA
+1985,Top,December_2022,Cleared,TC_2,Myrsineafricana,50,NA,NA
+1985,Top,December_2022,Cleared,TC_2,Berkheyadiscolor,4,NA,NA
+1985,Top,December_2022,Cleared,TC_2,Senecioglaberrimus,3,NA,NA
+1985,Top,December_2022,Cleared,TC_2,Rhamnusprinoides,3,NA,NA
+1985,Top,December_2022,Cleared,TC_2,Cheilantheseckloniana,1,NA,NA
+1985,Top,December_2022,Cleared,TC_3,Cynoglossumhispidum,8,Tagetes minuta,50
+1985,Top,December_2022,Cleared,TC_3,Salviarepens,30,Oxalis corniculata,4
+1985,Top,December_2022,Cleared,TC_3,Helichrysumcymosum,2,Oenothera tetraptera,2
+1985,Top,December_2022,Cleared,TC_3,Bidensbipinnata,22,NA,NA
+1985,Top,December_2022,Cleared,TC_3,Myrsineafricana,50,NA,NA
+1985,Top,December_2022,Cleared,TC_3,Rhamnusprinoides,1,NA,NA
+1985,Top,December_2022,Cleared,TC_3,Cheilantheseckloniana,1,NA,NA
+1985,Top,December_2022,Cleared,TC_3,Senecioglaberrimus,4,NA,NA
+1985,Top,December_2022,Cleared,TC_3,Geberapiloselloides,3,NA,NA
+1985,Top,December_2022,Cleared,TC_3,Galiumsp,12,NA,NA
+1985,Top,December_2022,Cleared,TC_3,Carexzuluensis,3,NA,NA
+1985,Top,December_2022,Cleared,TC_4,Geberapiloselloides,8,NA,NA
+1985,Top,December_2022,Cleared,TC_4,Salviarepens,20,NA,NA
+1985,Top,December_2022,Cleared,TC_4,Carexzuluensis,22,NA,NA
+1985,Top,December_2022,Cleared,TC_4,Rhoicissuscftridentata,3,NA,NA
+1985,Top,December_2022,Cleared,TC_4,Myrsineafricana,50,NA,NA
+1985,Top,December_2022,Cleared,TC_4,Rhamnusprinoides,4,NA,NA
+1985,Top,December_2022,Cleared,TC_4,Seneciomacrocephalus,1,NA,NA
+1985,Top,December_2022,Cleared,TC_4,Berkheyadiscolor,2,NA,NA
+1985,Top,December_2022,Cleared,TC_4,Hibiscusaethiopicus,3,NA,NA
+1985,Top,December_2022,Cleared,TC_4,Commelinaafricana,5,NA,NA
+1985,Top,December_2022,Cleared,TC_4,Asparagusasparagoides,1,NA,NA
+1985,Top,December_2022,Cleared,TC_4,Senecioglaberrimus,4,NA,NA
+1985,Top,December_2022,Cleared,TC_4,Rubusludwigii,1,NA,NA
+1985,Top,December_2022,Cleared,TC_4,Zantedeschiaalbomaculata,1,NA,NA
+1985,Top,December_2022,Cleared,TC_5,Cynoglossumhispidum,7,Oenothera tetraptera,1
+1985,Top,December_2022,Cleared,TC_5,Geberapiloselloides,4,Oenothera rosea,1
+1985,Top,December_2022,Cleared,TC_5,Commelinaafricana,5,NA,NA
+1985,Top,December_2022,Cleared,TC_5,Zantedeschiaalbomaculata,4,NA,NA
+1985,Top,December_2022,Cleared,TC_5,Helichrysumodoratissimum,1,NA,NA
+1985,Top,December_2022,Cleared,TC_5,Myrsineafricana,50,NA,NA
+1985,Top,December_2022,Cleared,TC_5,Hibiscusaethiopicus,2,NA,NA
+1985,Top,December_2022,Cleared,TC_5,Salviarepens,6,NA,NA
+1985,Top,December_2022,Cleared,TC_5,Seneciodiscodregeanus,1,NA,NA
+1985,Top,December_2022,Cleared,TC_5,Rhamnusprinoides,3,NA,NA
+1985,Top,December_2022,Cleared,TC_5,Rhoicissuscftridentata,2,NA,NA
+1985,Top,December_2022,Cleared,TC_5,Cheilanthesquadripinnata,4,NA,NA
+1985,Top,December_2022,Cleared,TC_5,Scabiosacolumbaria,1,NA,NA
+1985,Top,December_2022,Cleared,TC_5,Asparagusasparagoides,1,NA,NA
+1985,Top,December_2022,Cleared,TC_5,Cheilantheseckloniana,5,NA,NA
+1985,Top,December_2022,Cleared,TC_5,Rubusludwigii,1,NA,NA
+1985,Top,December_2022,Cleared,TC_5,Diospyrosrubriflora,2,NA,NA
+1985,Top,December_2022,Cleared,TC_6,Cheilanthesquadripinnata,2,NA,NA
+1985,Top,December_2022,Cleared,TC_6,Myrsineafricana,50,NA,NA
+1985,Top,December_2022,Cleared,TC_6,Diospyrosrubriflora,14,NA,NA
+1985,Top,December_2022,Cleared,TC_6,Carexzuluensis,6,NA,NA
+1985,Top,December_2022,Cleared,TC_6,Rhamnusprinoides,14,NA,NA
+1985,Top,December_2022,Cleared,TC_6,Commelinaafricana,2,NA,NA
+1985,Top,December_2022,Cleared,TC_6,Salviarepens,9,NA,NA
+1985,Top,December_2022,Cleared,TC_6,Cheilantheseckloniana,3,NA,NA
+1985,Top,December_2022,Cleared,TC_6,Bidensbipinnata,3,NA,NA
+1985,Top,December_2022,Cleared,TC_6,Searsiadentata,10,NA,NA
+1985,Top,December_2022,Cleared,TC_6,Galiumsp,2,NA,NA
+1985,Top,December_2022,Cleared,TC_6,Carexzuluensis,8,NA,NA
+1985,Top,December_2022,Cleared,TC_6,Searsiadivaricata,2,NA,NA
+1985,Top,December_2022,Cleared,TC_6,Rhoicissuscftridentata,2,NA,NA
+1985,Top,December_2022,Cleared,TC_6,Rubusludwigii,3,NA,NA
+1985,Top,December_2022,Cleared,TC_6,Asparagusasparagoides,6,NA,NA
+1985,Top,December_2022,Uncleared,TU_1,Myrsineafricana,50,Tagetes minuta,50
+1985,Top,December_2022,Uncleared,TU_1,Rhamnusprinoides,3,NA,NA
+1985,Top,December_2022,Uncleared,TU_1,Diospyrosrubriflora,3,NA,NA
+1985,Top,December_2022,Uncleared,TU_1,Commelinaafricana,50,NA,NA
+1985,Top,December_2022,Uncleared,TU_1,Galiumsp,50,NA,NA
+1985,Top,December_2022,Uncleared,TU_1,Berkheyadiscolor,2,NA,NA
+1985,Top,December_2022,Uncleared,TU_1,Seneciocfscitus,2,NA,NA
+1985,Top,December_2022,Uncleared,TU_1,Salviarepens,8,NA,NA
+1985,Top,December_2022,Uncleared,TU_2,Berkheyadiscolor,3,Tagetes minuta,50
+1985,Top,December_2022,Uncleared,TU_2,Salviarepens,50,Oenothera tetraptera,3
+1985,Top,December_2022,Uncleared,TU_2,Carexzuluensis,6,NA,NA
+1985,Top,December_2022,Uncleared,TU_2,Myrsineafricana,50,NA,NA
+1985,Top,December_2022,Uncleared,TU_2,Zantedeschiaalbomaculata,3,NA,NA
+1985,Top,December_2022,Uncleared,TU_2,Commelinaafricana,50,NA,NA
+1985,Top,December_2022,Uncleared,TU_2,Diospyrosrubriflora,1,NA,NA
+1985,Top,December_2022,Uncleared,TU_3,Geberapiloselloides,50,Oxalis corniculata,50
+1985,Top,December_2022,Uncleared,TU_3,Cheilantheseckloniana,2,Tagetes minuta,50
+1985,Top,December_2022,Uncleared,TU_3,Helichrysumcymosum,8,NA,NA
+1985,Top,December_2022,Uncleared,TU_3,Senecioglaberrimus,1,NA,NA
+1985,Top,December_2022,Uncleared,TU_3,Myrsineafricana,50,NA,NA
+1985,Top,December_2022,Uncleared,TU_3,Diospyrosrubriflora,4,NA,NA
+1985,Top,December_2022,Uncleared,TU_3,Salviarepens,50,NA,NA
+1985,Top,December_2022,Uncleared,TU_3,Seneciocfscitus,18,NA,NA
+1985,Top,December_2022,Uncleared,TU_3,Cynoglossumhispidum,50,NA,NA
+1985,Top,December_2022,Uncleared,TU_3,Rhamnusprinoides,50,NA,NA
+1985,Top,December_2022,Uncleared,TU_3,Commelinaafricana,2,NA,NA
+1985,Top,December_2022,Uncleared,TU_4,Myrsineafricana,50,Taraxacum officinale,1
+1985,Top,December_2022,Uncleared,TU_4,Searsiadentata,3,Tagetes minuta,50
+1985,Top,December_2022,Uncleared,TU_4,Diospyrosrubriflora,3,NA,NA
+1985,Top,December_2022,Uncleared,TU_4,Commelinaafricana,2,NA,NA
+1985,Top,December_2022,Uncleared,TU_4,Salviarepens,6,NA,NA
+1985,Top,December_2022,Uncleared,TU_4,Asparagusasparagoides,1,NA,NA
+1985,Top,December_2022,Uncleared,TU_4,Cheilantheseckloniana,4,NA,NA
+1985,Top,December_2022,Uncleared,TU_4,Carexzuluensis,3,NA,NA
+1985,Top,December_2022,Uncleared,TU_4,Galiumsp,4,NA,NA
+1985,Top,December_2022,Uncleared,TU_5,Salviarepens,50,Tagetes minuta,50
+1985,Top,December_2022,Uncleared,TU_5,Helichrysumcymosum,3,Oxalis corniculata,2
+1985,Top,December_2022,Uncleared,TU_5,Bidensbipinnata,50,NA,NA
+1985,Top,December_2022,Uncleared,TU_5,Carexzuluensis,2,NA,NA
+1985,Top,December_2022,Uncleared,TU_5,Myrsineafricana,50,NA,NA
+1985,Top,December_2022,Uncleared,TU_5,Diospyrosrubriflora,2,NA,NA
+1985,Top,December_2022,Uncleared,TU_5,Rhamnusprinoides,1,NA,NA
+1985,Top,December_2022,Uncleared,TU_5,Cheilantheseckloniana,1,NA,NA
+1985,Top,December_2022,Uncleared,TU_5,Helichrysumodoratissimum,1,NA,NA
+1985,Top,December_2022,Uncleared,TU_5,Galiumsp,50,NA,NA
+1985,Top,December_2022,Uncleared,TU_5,Seneciomacrocephalus,2,NA,NA
+1985,Top,December_2022,Uncleared,TU_6,Cheilanthesquadripinnata,1,Taraxacum officinale,1
+1985,Top,December_2022,Uncleared,TU_6,Myrsineafricana,50,NA,NA
+1985,Top,December_2022,Uncleared,TU_6,Diospyrosrubriflora,2,NA,NA
+1985,Top,December_2022,Uncleared,TU_6,Carexzuluensis,6,NA,NA
+1985,Top,December_2022,Uncleared,TU_6,Rhamnusprinoides,2,NA,NA
+1985,Top,December_2022,Uncleared,TU_6,Commelinaafricana,4,NA,NA
+1985,Top,December_2022,Uncleared,TU_6,Salviarepens,2,NA,NA
+1985,Top,December_2022,Uncleared,TU_6,Cheilantheseckloniana,1,NA,NA
+1985,Top,December_2022,Uncleared,TU_6,Bidensbipinnata,1,NA,NA
+1985,Top,December_2022,Uncleared,TU_6,Helichrysumnudifolium,1,NA,NA
+1985,Top,December_2022,Uncleared,TU_6,Galiumsp,1,NA,NA
+1985,Top,March_2023,Control,TK_1,Crinumbulbispermum,3,Oenotherarosea,34
+1985,Top,March_2023,Control,TK_1,Helichrysumcymosum,10,NA,NA
+1985,Top,March_2023,Control,TK_1,Helichrysumnudifolium,24,NA,NA
+1985,Top,March_2023,Control,TK_1,Scabiosacolumbaria,6,NA,NA
+1985,Top,March_2023,Control,TK_1,Gazaniakrebsiana,6,NA,NA
+1985,Top,March_2023,Control,TK_1,Feliciamuricata,14,NA,NA
+1985,Top,March_2023,Control,TK_1,Feliciafilifolia,3,NA,NA
+1985,Top,March_2023,Control,TK_1,Hibiscusaethiopicus,10,NA,NA
+1985,Top,March_2023,Control,TK_1,Helichrysumrugulosum,9,NA,NA
+1985,Top,March_2023,Control,TK_1,Geberapiloselloides,9,NA,NA
+1985,Top,March_2023,Control,TK_1,Helichrysumodoratissimum,2,NA,NA
+1985,Top,March_2023,Control,TK_1,Crassuladependens,2,NA,NA
+1985,Top,March_2023,Control,TK_1,Carexzuluensis,3,NA,NA
+1985,Top,March_2023,Control,TK_1,Monsoniaattenuata,2,NA,NA
+1985,Top,March_2023,Control,TK_1,Hermanniacoccocarpa,4,NA,NA
+1985,Top,March_2023,Control,TK_1,Lotononislaxa,5,NA,NA
+1985,Top,March_2023,Control,TK_1,Lotononislotononoides,4,NA,NA
+1985,Top,March_2023,Control,TK_1,Seneciodiscodregeanus,1,NA,NA
+1985,Top,March_2023,Control,TK_1,Exochaeniumgrande,40,NA,NA
+1985,Top,March_2023,Control,TK_1,Helichrysumaureonitens,14,NA,NA
+1985,Top,March_2023,Control,TK_2,Hibiscusaethiopicus,8,Nidorellapodocephala,50
+1985,Top,March_2023,Control,TK_2,Feliciafilifolia,8,NA,NA
+1985,Top,March_2023,Control,TK_2,Exochaeniumgrande,28,NA,NA
+1985,Top,March_2023,Control,TK_2,Lotononislaxa,18,NA,NA
+1985,Top,March_2023,Control,TK_2,Berkheyamultijuga,1,NA,NA
+1985,Top,March_2023,Control,TK_2,Feliciafilifolia,3,NA,NA
+1985,Top,March_2023,Control,TK_2,Aromaticnarrowyellow,1,NA,NA
+1985,Top,March_2023,Control,TK_2,Senecioinornatus,2,NA,NA
+1985,Top,March_2023,Control,TK_2,Monsoniaattenuata,2,NA,NA
+1985,Top,March_2023,Control,TK_2,Helichrysumodoratissimum,1,NA,NA
+1985,Top,March_2023,Control,TK_2,Crassuladependens,8,NA,NA
+1985,Top,March_2023,Control,TK_2,Helichrysumcymosum,2,NA,NA
+1985,Top,March_2023,Control,TK_2,Jamesbritteniaatropurpurea,2,NA,NA
+1985,Top,March_2023,Control,TK_2,Bidensbipinnata,26,NA,NA
+1985,Top,March_2023,Control,TK_2,Senecioinornatus,1,NA,NA
+1985,Top,March_2023,Control,TK_2,Hermanniageniculata,1,NA,NA
+1985,Top,March_2023,Control,TK_2,Narrowleaflets,1,NA,NA
+1985,Top,March_2023,Control,TK_2,Helichrysumrugulosum,11,NA,NA
+1985,Top,March_2023,Control,TK_3,Geberapiloselloides,5,Oenotherarosea,50
+1985,Top,March_2023,Control,TK_3,Helichrysumcymosum,40,Nidorellapodocephala,50
+1985,Top,March_2023,Control,TK_3,Hypoxiscostata,1,Bidensbipinnata,6
+1985,Top,March_2023,Control,TK_3,Feliciafilifolia,3,Medicagopolymorpha,1
+1985,Top,March_2023,Control,TK_3,Jamesbritteniapristisepala,1,NA,NA
+1985,Top,March_2023,Control,TK_3,Helichrysumodoratissimum,3,NA,NA
+1985,Top,March_2023,Control,TK_3,Berkheyamultijuga,14,NA,NA
+1985,Top,March_2023,Control,TK_3,Crassuladependens,10,NA,NA
+1985,Top,March_2023,Control,TK_3,Hermanniacoccocarpa,17,NA,NA
+1985,Top,March_2023,Control,TK_3,Hibiscusaethiopicus,7,NA,NA
+1985,Top,March_2023,Control,TK_3,Helichrysumrugulosum,50,NA,NA
+1985,Top,March_2023,Control,TK_3,Carexzuluensis,10,NA,NA
+1985,Top,March_2023,Control,TK_3,Exochaeniumgrande,4,NA,NA
+1985,Top,March_2023,Control,TK_3,Lotononislaxa,4,NA,NA
+1985,Top,March_2023,Control,TK_3,Monsoniaattenuata,1,NA,NA
+1985,Top,March_2023,Control,TK_3,Lotononislotononoides,8,NA,NA
+1985,Top,March_2023,Control,TK_3,Searsiadentata,3,NA,NA
+1985,Top,March_2023,Control,TK_3,Euphorbiamaculata,1,NA,NA
+1985,Top,March_2023,Control,TK_3,Cynoglossumhispidum,2,NA,NA
+1985,Top,March_2023,Control,TK_3,Arctotisarctotoides,1,NA,NA
+1985,Top,March_2023,Control,TK_3,Salviarepens,1,NA,NA
+1985,Top,March_2023,Control,TK_3,Narrowleaflets,6,NA,NA
+1985,Top,March_2023,Control,TK_3,Senecioinornatus,9,NA,NA
+1985,Top,March_2023,Control,TK_4,Feliciafilifolia,15,Oenotherarosea,2
+1985,Top,March_2023,Control,TK_4,Lotononislaxa,12,Bidensbipinnata,3
+1985,Top,March_2023,Control,TK_4,Helichrysumodoratissimum,8,NA,NA
+1985,Top,March_2023,Control,TK_4,Senecioinornatus,2,NA,NA
+1985,Top,March_2023,Control,TK_4,Geberapiloselloides,12,NA,NA
+1985,Top,March_2023,Control,TK_4,Gazaniakrebsiana,22,NA,NA
+1985,Top,March_2023,Control,TK_4,Salviarepens,9,NA,NA
+1985,Top,March_2023,Control,TK_4,Senecioinornatus,3,NA,NA
+1985,Top,March_2023,Control,TK_4,Hibiscusaethiopicus,6,NA,NA
+1985,Top,March_2023,Control,TK_4,Feliciamuricata,6,NA,NA
+1985,Top,March_2023,Control,TK_4,Ajugaophrydis,21,NA,NA
+1985,Top,March_2023,Control,TK_4,Lotononislotononoides,1,NA,NA
+1985,Top,March_2023,Control,TK_4,Hermanniacoccocarpa,3,NA,NA
+1985,Top,March_2023,Control,TK_4,Crassuladependens,1,NA,NA
+1985,Top,March_2023,Control,TK_4,Euphorbiamaculata,1,NA,NA
+1985,Top,March_2023,Control,TK_4,Helichrysumcymosum,12,NA,NA
+1985,Top,March_2023,Control,TK_4,Helichrysumnudifolium,5,NA,NA
+1985,Top,March_2023,Control,TK_4,Jamesbritteniapristisepala,1,NA,NA
+1985,Top,March_2023,Control,TK_4,Monsoniaattenuata,2,NA,NA
+1985,Top,March_2023,Control,TK_4,Helichrysumrugulosum,5,NA,NA
+1985,Top,March_2023,Control,TK_4,Gomphocarpusfruticosus,1,NA,NA
+1985,Top,March_2023,Control,TK_4,Cyperussemitrifidus,4,NA,NA
+1985,Top,March_2023,Control,TK_4,Diospyrosaustro-africana,1,NA,NA
+1985,Top,March_2023,Control,TK_5,Cyperussemitrifidus,3,Oenotherarosea,1
+1985,Top,March_2023,Control,TK_5,Mariscuscongestus,7,Hypochaerisradicata,1
+1985,Top,March_2023,Control,TK_5,Cyperuslaevigatus,50,NA,NA
+1985,Top,March_2023,Control,TK_5,Berkheyamultijuga,14,NA,NA
+1985,Top,March_2023,Control,TK_5,Helichrysumodoratissimum,9,NA,NA
+1985,Top,March_2023,Control,TK_5,Hibiscusaethiopicus,6,NA,NA
+1985,Top,March_2023,Control,TK_5,Feliciafilifolia,3,NA,NA
+1985,Top,March_2023,Control,TK_5,Helichrysumcymosum,23,NA,NA
+1985,Top,March_2023,Control,TK_5,Senecioinornatus,13,NA,NA
+1985,Top,March_2023,Control,TK_5,Ajugaophrydis,16,NA,NA
+1985,Top,March_2023,Control,TK_5,Feliciamuricata,10,NA,NA
+1985,Top,March_2023,Control,TK_5,Bidensbipinnata,2,NA,NA
+1985,Top,March_2023,Control,TK_5,Commelinaafricana,1,NA,NA
+1985,Top,March_2023,Control,TK_5,Geumlike,5,NA,NA
+1985,Top,March_2023,Control,TK_5,Arctotisarctotoides,15,NA,NA
+1985,Top,March_2023,Control,TK_5,Seneciomacrocephalus,2,NA,NA
+1985,Top,March_2023,Control,TK_5,Oxalisdepressa,50,NA,NA
+1985,Top,March_2023,Control,TK_5,Schistostephiumcfcrataegifolium,1,NA,NA
+1985,Top,March_2023,Control,TK_5,Carexzuluensis,10,NA,NA
+1985,Top,March_2023,Control,TK_5,Crassuladependens,1,NA,NA
+1985,Top,March_2023,Control,TK_5,Cyperusround,50,NA,NA
+1985,Top,March_2023,Control,TK_6,Hibiscusaethiopicus,8,NA,NA
+1985,Top,March_2023,Control,TK_6,Senecioinornatus,8,NA,NA
+1985,Top,March_2023,Control,TK_6,Seneciomacrocephalus,2,NA,NA
+1985,Top,March_2023,Control,TK_6,Feliciamuricata,50,NA,NA
+1985,Top,March_2023,Control,TK_6,Berkheyamultijuga,3,NA,NA
+1985,Top,March_2023,Control,TK_6,Monsoniaattenuata,2,NA,NA
+1985,Top,March_2023,Control,TK_6,Ajugaophrydis,50,NA,NA
+1985,Top,March_2023,Control,TK_6,Lotononislaxa,4,NA,NA
+1985,Top,March_2023,Control,TK_6,Crassuladependens,2,NA,NA
+1985,Top,March_2023,Control,TK_6,Strigabilabiata,2,NA,NA
+1985,Top,March_2023,Control,TK_6,Feliciafilifolia,10,NA,NA
+1985,Top,March_2023,Control,TK_6,Arctotisarctotoides,2,NA,NA
+1985,Top,March_2023,Control,TK_6,Helichrysumnudifolium,3,NA,NA
+1985,Top,March_2023,Control,TK_6,Exochaeniumgrande,3,NA,NA
+1985,Top,March_2023,Control,TK_6,Seneciodiscodregeanus,3,NA,NA
+1985,Top,March_2023,Control,TK_6,Hermanniageniculata,2,NA,NA
+1985,Top,March_2023,Control,TK_6,Helichrysumcymosum,2,NA,NA
+1985,Top,March_2023,Control,TK_6,Carexzuluensis,1,NA,NA
+1985,Top,March_2023,Cleared,TC_1,Clutianatalensis,50,Tagetesminuta,1
+1985,Top,March_2023,Cleared,TC_1,Cynoglossumhispidum,6,Oenotherarosea,3
+1985,Top,March_2023,Cleared,TC_1,Berkheyamultijuga,9,Nidorellapodocephala,1
+1985,Top,March_2023,Cleared,TC_1,Salviarepens,2,Amaranthushybridus,1
+1985,Top,March_2023,Cleared,TC_1,Myrsineafricana,50,NA,NA
+1985,Top,March_2023,Cleared,TC_1,Zantedeschiaalbomaculata,4,NA,NA
+1985,Top,March_2023,Cleared,TC_1,Searsiadentata,1,NA,NA
+1985,Top,March_2023,Cleared,TC_1,Cyperussemitrifidus,50,NA,NA
+1985,Top,March_2023,Cleared,TC_1,Commelinaafricana,1,NA,NA
+1985,Top,March_2023,Cleared,TC_1,Heteromorphaarborescens,1,NA,NA
+1985,Top,March_2023,Cleared,TC_1,Diclisreptans,1,NA,NA
+1985,Top,March_2023,Cleared,TC_1,Oxalisdepressa,50,NA,NA
+1985,Top,March_2023,Cleared,TC_1,Hibiscustrionum,1,NA,NA
+1985,Top,March_2023,Cleared,TC_1,Searsiadivaricata,1,NA,NA
+1985,Top,March_2023,Cleared,TC_1,Bidensbipinnata,3,NA,NA
+1985,Top,March_2023,Cleared,TC_1,Androcymbiumstriatum,1,NA,NA
+1985,Top,March_2023,Cleared,TC_2,Helichrysumsubglomeratum,2,Tagetesminuta,30
+1985,Top,March_2023,Cleared,TC_2,Cynoglossumhispidum,50,Oenotherarosea,4
+1985,Top,March_2023,Cleared,TC_2,Clutianatalensis,8,Conyzasumatrensis,1
+1985,Top,March_2023,Cleared,TC_2,Cyperussemitrifidus,50,Bidensbipinnata,50
+1985,Top,March_2023,Cleared,TC_2,Searsiadiscolor,2,Bidenspilosa,4
+1985,Top,March_2023,Cleared,TC_2,Searsiadentata,3,NA,NA
+1985,Top,March_2023,Cleared,TC_2,Rhamnusprinoides,1,NA,NA
+1985,Top,March_2023,Cleared,TC_2,Asparagusasparagoides,2,NA,NA
+1985,Top,March_2023,Cleared,TC_2,Helichrysumcymosum,1,NA,NA
+1985,Top,March_2023,Cleared,TC_2,Berkheyamultijuga,1,NA,NA
+1985,Top,March_2023,Cleared,TC_2,Artemisiaafra,1,NA,NA
+1985,Top,March_2023,Cleared,TC_2,Hibiscustrionum,6,NA,NA
+1985,Top,March_2023,Cleared,TC_2,Cheilantheseckloniana,7,NA,NA
+1985,Top,March_2023,Cleared,TC_2,Commelinaafricana,7,NA,NA
+1985,Top,March_2023,Cleared,TC_2,Diclisreptans,1,NA,NA
+1985,Top,March_2023,Cleared,TC_2,Geberapiloselloides,9,NA,NA
+1985,Top,March_2023,Cleared,TC_2,Salviarepens,50,NA,NA
+1985,Top,March_2023,Cleared,TC_2,Arctotisarctotoides,4,NA,NA
+1985,Top,March_2023,Cleared,TC_2,Lotononislotononoides,1,NA,NA
+1985,Top,March_2023,Cleared,TC_2,Zantedeschiaalbomaculata,1,NA,NA
+1985,Top,March_2023,Cleared,TC_2,Myrsineafricana,50,NA,NA
+1985,Top,March_2023,Cleared,TC_2,Mariscuscongestus,3,NA,NA
+1985,Top,March_2023,Cleared,TC_3,Rhamnusprinoides,2,Oenotherarosea,2
+1985,Top,March_2023,Cleared,TC_3,Myrsineafricana,50,Nidorellapodocephala,1
+1985,Top,March_2023,Cleared,TC_3,Clutianatalensis,1,Tagetesminuta,50
+1985,Top,March_2023,Cleared,TC_3,Salviarepens,30,Bidenspilosa,50
+1985,Top,March_2023,Cleared,TC_3,Helichrysumcymosum,1,Bidensbipinnata,3
+1985,Top,March_2023,Cleared,TC_3,Cynoglossumhispidum,4,NA,NA
+1985,Top,March_2023,Cleared,TC_3,Cyperussemitrifidus,50,NA,NA
+1985,Top,March_2023,Cleared,TC_3,Geberapiloselloides,3,NA,NA
+1985,Top,March_2023,Cleared,TC_3,Zantedeschiaalbomaculata,3,NA,NA
+1985,Top,March_2023,Cleared,TC_3,Diclisreptans,2,NA,NA
+1985,Top,March_2023,Cleared,TC_3,Commelinaafricana,1,NA,NA
+1985,Top,March_2023,Cleared,TC_3,Asparagusasparagoides,2,NA,NA
+1985,Top,March_2023,Cleared,TC_3,Kniphofiatriangularis,1,NA,NA
+1985,Top,March_2023,Cleared,TC_3,Galiumspuriumspurium,2,NA,NA
+1985,Top,March_2023,Cleared,TC_3,Searsiadentata,1,NA,NA
+1985,Top,March_2023,Cleared,TC_3,Androcymbiumstriatum,1,NA,NA
+1985,Top,March_2023,Cleared,TC_4,Salviarepens,22,Conyzasumatrensis,1
+1985,Top,March_2023,Cleared,TC_4,Berkheyamultijuga,10,Bidensbipinnata,2
+1985,Top,March_2023,Cleared,TC_4,Rhamnusprinoides,2,NA,NA
+1985,Top,March_2023,Cleared,TC_4,Myrsineafricana,30,NA,NA
+1985,Top,March_2023,Cleared,TC_4,Galiumspuriumspurium,8,NA,NA
+1985,Top,March_2023,Cleared,TC_4,Oxalisdepressa,50,NA,NA
+1985,Top,March_2023,Cleared,TC_4,Zantedeschiaalbomaculata,2,NA,NA
+1985,Top,March_2023,Cleared,TC_4,Clutianatalensis,1,NA,NA
+1985,Top,March_2023,Cleared,TC_4,Cynoglossumhispidum,4,NA,NA
+1985,Top,March_2023,Cleared,TC_4,Geberapiloselloides,12,NA,NA
+1985,Top,March_2023,Cleared,TC_4,Commelinaafricana,2,NA,NA
+1985,Top,March_2023,Cleared,TC_4,Cyperussemitrifidus,50,NA,NA
+1985,Top,March_2023,Cleared,TC_4,Searsiadivaricata,3,NA,NA
+1985,Top,March_2023,Cleared,TC_4,Searsiadentata,1,NA,NA
+1985,Top,March_2023,Cleared,TC_4,Hibiscusaethiopicus,2,NA,NA
+1985,Top,March_2023,Cleared,TC_4,Rubusludwigii,1,NA,NA
+1985,Top,March_2023,Cleared,TC_4,Asparagusasparagoides,1,NA,NA
+1985,Top,March_2023,Cleared,TC_5,Searsiadivaricata,1,NA,NA
+1985,Top,March_2023,Cleared,TC_5,Salviarepens,10,NA,NA
+1985,Top,March_2023,Cleared,TC_5,Rhamnusprinoides,5,NA,NA
+1985,Top,March_2023,Cleared,TC_5,Cynoglossumhispidum,3,NA,NA
+1985,Top,March_2023,Cleared,TC_5,Commelinaafricana,8,NA,NA
+1985,Top,March_2023,Cleared,TC_5,Cheilantheseckloniana,9,NA,NA
+1985,Top,March_2023,Cleared,TC_5,Myrsineafricana,5,NA,NA
+1985,Top,March_2023,Cleared,TC_5,Cheilanthesquadripinnata,5,NA,NA
+1985,Top,March_2023,Cleared,TC_5,Geberapiloselloides,6,NA,NA
+1985,Top,March_2023,Cleared,TC_5,Clutianatalensis,3,NA,NA
+1985,Top,March_2023,Cleared,TC_5,Zantedeschiaalbomaculata,2,NA,NA
+1985,Top,March_2023,Cleared,TC_5,Diclisreptans,2,NA,NA
+1985,Top,March_2023,Cleared,TC_5,Searsiadentata,7,NA,NA
+1985,Top,March_2023,Cleared,TC_5,Galiumspurium,3,NA,NA
+1985,Top,March_2023,Cleared,TC_5,Seneciodissimulans,3,NA,NA
+1985,Top,March_2023,Cleared,TC_5,Androcymbiumstriatum,1,NA,NA
+1985,Top,March_2023,Cleared,TC_5,Kniphofiatriangularis,1,NA,NA
+1985,Top,March_2023,Cleared,TC_5,Arctotisarctotoides,1,NA,NA
+1985,Top,March_2023,Cleared,TC_5,Scabiosacolumbaria,1,NA,NA
+1985,Top,March_2023,Cleared,TC_6,Myrsineafricana,24,Bidenspilosa,1
+1985,Top,March_2023,Cleared,TC_6,Kniphofiatriangularis,3,NA,NA
+1985,Top,March_2023,Cleared,TC_6,Cynoglossumhispidum,1,NA,NA
+1985,Top,March_2023,Cleared,TC_6,Cheilanthesquadripinnata,1,NA,NA
+1985,Top,March_2023,Cleared,TC_6,Diclisreptans,6,NA,NA
+1985,Top,March_2023,Cleared,TC_6,Searsiadentata,1,NA,NA
+1985,Top,March_2023,Cleared,TC_6,Commelinaafricana,4,NA,NA
+1985,Top,March_2023,Cleared,TC_6,Salviarepens,14,NA,NA
+1985,Top,March_2023,Cleared,TC_6,Cyperussemitrifidus,7,NA,NA
+1985,Top,March_2023,Cleared,TC_6,Searsiadivaricata,1,NA,NA
+1985,Top,March_2023,Cleared,TC_6,Rubusludwigii,7,NA,NA
+1985,Top,March_2023,Uncleared,TU_1,Searsiadiscolor,1,Tagetesminuta,50
+1985,Top,March_2023,Uncleared,TU_1,Berkheyamultijuga,1,Oenotherarosea,2
+1985,Top,March_2023,Uncleared,TU_1,Zantedeschiaalbomaculata,4,Bidenspilosa,50
+1985,Top,March_2023,Uncleared,TU_1,Scabiosacolumbaria,1,NA,NA
+1985,Top,March_2023,Uncleared,TU_1,Searsiadivaricata,1,NA,NA
+1985,Top,March_2023,Uncleared,TU_1,Searsiadivaricata,1,NA,NA
+1985,Top,March_2023,Uncleared,TU_2,Galiumspurium,50,Tagetesminuta,50
+1985,Top,March_2023,Uncleared,TU_2,Zantedeschiaalbomaculata,4,Bidenspilosa,50
+1985,Top,March_2023,Uncleared,TU_2,Berkheyamultijuga,1,Bidensbipinnata,50
+1985,Top,March_2023,Uncleared,TU_2,Cheilantheseckloniana,10,NA,NA
+1985,Top,March_2023,Uncleared,TU_2,Salviarepens,50,NA,NA
+1985,Top,March_2023,Uncleared,TU_3,Geberapiloselloides,4,Tagetesminuta,50
+1985,Top,March_2023,Uncleared,TU_3,Kniphofiatriangularis,1,NA,NA
+1985,Top,March_2023,Uncleared,TU_3,Helichrysumcymosum,1,NA,NA
+1985,Top,March_2023,Uncleared,TU_3,Helichrysumcymosum,1,NA,NA
+1985,Top,March_2023,Uncleared,TU_4,Myrsineafricana,50,Bidensbipinnata,2
+1985,Top,March_2023,Uncleared,TU_4,Searsiadentata,7,NA,NA
+1985,Top,March_2023,Uncleared,TU_4,Salviarepens,10,NA,NA
+1985,Top,March_2023,Uncleared,TU_4,Galiumspurium,1,NA,NA
+1985,Top,March_2023,Uncleared,TU_4,Commelinaafricana,2,NA,NA
+1985,Top,March_2023,Uncleared,TU_4,Cyperussemitrifidus,50,NA,NA
+1985,Top,March_2023,Uncleared,TU_5,Salviarepens,50,Oenotherarosea,1
+1985,Top,March_2023,Uncleared,TU_5,Helichrysumodoratissimum,1,Bidensbipinnata,6
+1985,Top,March_2023,Uncleared,TU_5,Cyperussemitrifidus,50,NA,NA
+1985,Top,March_2023,Uncleared,TU_5,Cheilantheseckloniana,2,NA,NA
+1985,Top,March_2023,Uncleared,TU_6,Salviarepens,4,NA,NA
+1985,Top,March_2023,Uncleared,TU_6,Cheilantheseckloniana,3,NA,NA
+1985,Top,March_2023,Uncleared,TU_6,Cyperussemitrifidus,7,NA,NA
+1985,Top,March_2023,Uncleared,TU_6,Galiumspurium,50,NA,NA
+1985,Top,March_2023,Uncleared,TU_6,Bidenspilosa,1,NA,NA
+1985,Top,March_2023,Uncleared,TU_6,Diospyrosaustro-africana,1,NA,NA
+1985,Top,March_2023,Uncleared,TU_6,Rhamnusprinoides,1,NA,NA
+1985,Top,March_2023,Uncleared,TU_6,Myrsineafricana,40,NA,NA
+1842,Middle,March_2023,Control,MK_1,Helichrysumcymosum,21,Verbenabonariensis,6
+1842,Middle,March_2023,Control,MK_1,Helichrysumodoratissimum,8,Hypochaerisradicata,11
+1842,Middle,March_2023,Control,MK_1,Hermanniadepressa,50,Bidensbipinnata,1
+1842,Middle,March_2023,Control,MK_1,Helichrysumrugulosum,50,Oenotherarosea,25
+1842,Middle,March_2023,Control,MK_1,Salviarepens,50,Nidorellapodocephala,50
+1842,Middle,March_2023,Control,MK_1,Polygalahottentota,2,Tagetesminuta,4
+1842,Middle,March_2023,Control,MK_1,Gomphocarpusfruticosus,1,Plantagolanceolata,1
+1842,Middle,March_2023,Control,MK_1,Oxalisdepressa,50,Xanthiumstrumarium,2
+1842,Middle,March_2023,Control,MK_1,Senecioisatideus,5,NA,NA
+1842,Middle,March_2023,Control,MK_1,Lotononislotononoides,4,NA,NA
+1842,Middle,March_2023,Control,MK_1,Galiumspurium,50,NA,NA
+1842,Middle,March_2023,Control,MK_1,Lobeliaflaccida,8,NA,NA
+1842,Middle,March_2023,Control,MK_1,Seneciodissimulans,1,NA,NA
+1842,Middle,March_2023,Control,MK_1,Searsiadentata,1,NA,NA
+1842,Middle,March_2023,Control,MK_1,Bulbostylis,8,NA,NA
+1842,Middle,March_2023,Control,MK_1,Ledebouriacooperi,2,NA,NA
+1842,Middle,March_2023,Control,MK_1,Crassuladependens,16,NA,NA
+1842,Middle,March_2023,Control,MK_1,Haplocarphascaposa,4,NA,NA
+1842,Middle,March_2023,Control,MK_1,Jamesbritteniapristisepala,1,NA,NA
+1842,Middle,March_2023,Control,MK_1,Ajugaophrydis,1,NA,NA
+1842,Middle,March_2023,Control,MK_1,Carexzuluensis,1,NA,NA
+1842,Middle,March_2023,Control,MK_1,Helilongmultiple,50,NA,NA
+1842,Middle,March_2023,Control,MK_1,Helilongmultiple,50,NA,NA
+1842,Middle,March_2023,Control,MK_2,Berkheyadiscolor,1,Verbenabonariensis,50
+1842,Middle,March_2023,Control,MK_2,Ledebouriacooperi,5,Nidorellapodocephala,32
+1842,Middle,March_2023,Control,MK_2,Senecioinornatus,1,Plantagolanceolata,1
+1842,Middle,March_2023,Control,MK_2,Cyperusesculentus,50,Oenotherarosea,7
+1842,Middle,March_2023,Control,MK_2,Hibiscustrionum,1,Conyzasumatrensis,1
+1842,Middle,March_2023,Control,MK_2,NA,NA,Trifoliumrepens,50
+1842,Middle,March_2023,Control,MK_2,NA,NA,Cirsiumvulgare,1
+1842,Middle,March_2023,Control,MK_2,NA,NA,Taraxacumofficinale,4
+1842,Middle,March_2023,Control,MK_2,NA,NA,Bidensbipinnata,2
+1842,Middle,March_2023,Control,MK_2,NA,NA,Bidenspilosa,2
+1842,Middle,March_2023,Control,MK_3,Helilongmultiple,16,Bidensbipinnata,2
+1842,Middle,March_2023,Control,MK_3,Cynoglossumhispidum,1,Bidenspilosa,50
+1842,Middle,March_2023,Control,MK_3,Helichrysumodoratissimum,6,Oxalisdepressacorniculata,50
+1842,Middle,March_2023,Control,MK_3,Berkheyadiscolor,6,Cirsiumvulgare,3
+1842,Middle,March_2023,Control,MK_3,Salviarepens,6,Verbenabonariensis,15
+1842,Middle,March_2023,Control,MK_3,Rumexsagittatus,10,Conyzasumatrensis,1
+1842,Middle,March_2023,Control,MK_3,Pelargoniumalchemilloides,2,Plantagolanceolata,50
+1842,Middle,March_2023,Control,MK_3,Cyperusesculentus,50,Oenotherarosea,6
+1842,Middle,March_2023,Control,MK_3,Artemisiaafra,1,Trifoliumrepens,50
+1842,Middle,March_2023,Control,MK_3,Hibiscustrionum,1,Taraxacumofficinale,1
+1842,Middle,March_2023,Control,MK_3,Rubusludwigii,1,Tagetesminuta,14
+1842,Middle,March_2023,Control,MK_3,Searsiadentata,1,NA,NA
+1842,Middle,March_2023,Control,MK_3,Amaranthushybridus,5,NA,NA
+1842,Middle,March_2023,Control,MK_4,Zantedeschiaalbomaculata,2,Bidensbipinnata,8
+1842,Middle,March_2023,Control,MK_4,Hibiscustrionum,1,Plantagolanceolata,50
+1842,Middle,March_2023,Control,MK_4,Trifoliatepurplestem,4,Cirsiumvulgare,22
+1842,Middle,March_2023,Control,MK_4,Pelargoniumalchemilloides,1,Verbenabonariensis,50
+1842,Middle,March_2023,Control,MK_4,Helilongmultiple,37,Oenotherarosea,1
+1842,Middle,March_2023,Control,MK_4,Cyperusesculentus,50,Nidorellapodocephala,31
+1842,Middle,March_2023,Control,MK_4,NA,NA,Trifoliumrepens,50
+1842,Middle,March_2023,Control,MK_5,Helichrysumnudifolium,15,Bidensbipinnata,1
+1842,Middle,March_2023,Control,MK_5,Helichrysumrugulosum,50,Plantagolanceolata,50
+1842,Middle,March_2023,Control,MK_5,Helichrysumodoratissimum,2,Tagetesminuta,4
+1842,Middle,March_2023,Control,MK_5,Arctotisarctotoides,50,Oenotherarosea,5
+1842,Middle,March_2023,Control,MK_5,Hibiscusaethiopicus,1,Taraxacumofficinale,30
+1842,Middle,March_2023,Control,MK_5,Helichrysumcymosum,9,Conyzasumatrensis,3
+1842,Middle,March_2023,Control,MK_5,Berkheyadiscolor,1,Hypochaerisradicata,1
+1842,Middle,March_2023,Control,MK_5,Helichrysumcallicomum,1,NA,NA
+1842,Middle,March_2023,Control,MK_5,Hermanniadepressa,20,NA,NA
+1842,Middle,March_2023,Control,MK_5,Crassuladependens,2,NA,NA
+1842,Middle,March_2023,Control,MK_5,Polygalahottentota,1,NA,NA
+1842,Middle,March_2023,Control,MK_5,Cyperusesculentus,50,NA,NA
+1842,Middle,March_2023,Control,MK_6,Cyperusesculentus,50,Bidensbipinnata,1
+1842,Middle,March_2023,Control,MK_6,Berkheyadiscolor,46,Conyzasumatrensis,13
+1842,Middle,March_2023,Control,MK_6,Feliciamuricata,50,Oenotherarosea,10
+1842,Middle,March_2023,Control,MK_6,Hibiscusaethiopicus,1,Nidorellapodocephala,50
+1842,Middle,March_2023,Control,MK_6,Crassuladependens,4,Tagetesminuta,1
+1842,Middle,March_2023,Control,MK_6,Helichrysumodoratissimum,1,Plantagolanceolata,1
+1842,Middle,March_2023,Control,MK_6,Arctotisarctotoides,50,Cirsiumvulgare,2
+1842,Middle,March_2023,Control,MK_6,Senecioinornatus,2,NA,NA
+1842,Middle,March_2023,Control,MK_6,Helichrysumcallicomum,2,NA,NA
+1842,Middle,March_2023,Control,MK_6,Helichrysumcymosum,2,NA,NA
+1842,Middle,March_2023,Control,MK_6,Helichrysumaureonitens,2,NA,NA
+1842,Middle,March_2023,Control,MK_6,Seneciomacrocephalus,1,NA,NA
+1842,Middle,March_2023,Control,MK_6,Helichrysumnudifolium,1,NA,NA
+1842,Middle,March_2023,Control,MK_6,Helilongmultiple,35,NA,NA
+1842,Middle,March_2023,Cleared,MC_1,Helichrysumcymosum,2,Bidensbipinnata,50
+1842,Middle,March_2023,Cleared,MC_1,Helichrysumodoratissimum,1,Bidenspilosa,50
+1842,Middle,March_2023,Cleared,MC_1,Salviarepens,6,Salviatilifolia,1
+1842,Middle,March_2023,Cleared,MC_1,Hibiscustrionum,1,Cyathulauncinulata,3
+1842,Middle,March_2023,Cleared,MC_1,Cynoglossumhispidum,6,Amaranthushybridus,4
+1842,Middle,March_2023,Cleared,MC_1,Arctotisarctotoides,2,Tagetesminuta,50
+1842,Middle,March_2023,Cleared,MC_1,Carexzuluensis,6,Conyzasumatrensis,7
+1842,Middle,March_2023,Cleared,MC_1,Zantedeschiaalbomaculata,3,Oenotherarosea,16
+1842,Middle,March_2023,Cleared,MC_1,Mariscuscongestus,50,Oxalisdepressacorniculata,50
+1842,Middle,March_2023,Cleared,MC_1,Cheilantheseckloniana,1,Plantagolanceolata,9
+1842,Middle,March_2023,Cleared,MC_1,Asparagusasparagoides,1,Nidorellapodocephala,10
+1842,Middle,March_2023,Cleared,MC_1,Searsiadentata,2,Cirsiumvulgare,26
+1842,Middle,March_2023,Cleared,MC_1,Commelinaafricana,8,Xanthiumstrumarium,3
+1842,Middle,March_2023,Cleared,MC_1,Senecioisatideus,2,Taraxacumofficinale,2
+1842,Middle,March_2023,Cleared,MC_1,Myrsineafricana,3,NA,NA
+1842,Middle,March_2023,Cleared,MC_1,Pelargoniumalchemilloides,2,NA,NA
+1842,Middle,March_2023,Cleared,MC_1,Galiumspurium,2,NA,NA
+1842,Middle,March_2023,Cleared,MC_1,Clutianatalensis,1,NA,NA
+1842,Middle,March_2023,Cleared,MC_2,Zantedeschiaalbomaculata,2,Bidenspilosa,5
+1842,Middle,March_2023,Cleared,MC_2,Senecioisatideus,50,Bidensbipinnata,2
+1842,Middle,March_2023,Cleared,MC_2,Pelargoniumalchemilloides,4,Salviatilifolia,1
+1842,Middle,March_2023,Cleared,MC_2,Cynoglossumhispidum,2,Amaranthushybridus,1
+1842,Middle,March_2023,Cleared,MC_2,Myrsineafricana,11,Tagetesminuta,10
+1842,Middle,March_2023,Cleared,MC_2,Helichrysumodoratissimum,2,Oenotherarosea,15
+1842,Middle,March_2023,Cleared,MC_2,Searsiadentata,1,Verbenabonariensis,50
+1842,Middle,March_2023,Cleared,MC_2,Oxalisdepressa,50,Plantagolanceolata,50
+1842,Middle,March_2023,Cleared,MC_2,Cinerarialyratiforms,2,Nidorellapodocephala,50
+1842,Middle,March_2023,Cleared,MC_2,Salviarepens,1,Oxalisdepressacorniculata,50
+1842,Middle,March_2023,Cleared,MC_2,Helichrysumcallicomum,1,Taraxacumofficinale,2
+1842,Middle,March_2023,Cleared,MC_2,Cheilantheseckloniana,1,Cirsiumvulgare,5
+1842,Middle,March_2023,Cleared,MC_2,Hibiscustrionum,1,Xanthiumstrumarium,1
+1842,Middle,March_2023,Cleared,MC_2,Cyperusesculentus,50,l,NA
+1842,Middle,March_2023,Cleared,MC_3,Cynoglossumhispidum,10,Salviatilifolia,1
+1842,Middle,March_2023,Cleared,MC_3,Salviarepens,30,Cyathulauncinulata,50
+1842,Middle,March_2023,Cleared,MC_3,Solanumretroflexum,1,Bidenspilosa,50
+1842,Middle,March_2023,Cleared,MC_3,Helimultipleinflo,50,Bidensbipinnata,50
+1842,Middle,March_2023,Cleared,MC_3,Searsiadentata,3,Amaranthushybridus,7
+1842,Middle,March_2023,Cleared,MC_3,Senecioisatideus,10,Cirsiumvulgare,31
+1842,Middle,March_2023,Cleared,MC_3,Myrsineafricana,1,Tagetesminuta,50
+1842,Middle,March_2023,Cleared,MC_3,Helichrysumodoratissimum,2,Xanthiumstrumarium,1
+1842,Middle,March_2023,Cleared,MC_3,Asparagusafricanus,2,Oenotherarosea,1
+1842,Middle,March_2023,Cleared,MC_3,Rumexsagittatus,1,Plantagolanceolata,50
+1842,Middle,March_2023,Cleared,MC_3,Hibiscusaethiopicus,1,Oxalisdepressacorniculata,50
+1842,Middle,March_2023,Cleared,MC_3,Asparagusasparagoides,2,Verbenabonariensis,1
+1842,Middle,March_2023,Cleared,MC_3,Cyperusesculentus,50,NA,NA
+1842,Middle,March_2023,Cleared,MC_4,Cynoglossumhispidum,50,Cirsiumvulgare,12
+1842,Middle,March_2023,Cleared,MC_4,Helichrysumcymosum,1,Nidorellapodocephala,50
+1842,Middle,March_2023,Cleared,MC_4,Commelinaafricana,4,Oxalisdepressacorniculata,50
+1842,Middle,March_2023,Cleared,MC_4,Eucleacrispa,12,Conyzasumatrensis,3
+1842,Middle,March_2023,Cleared,MC_4,Asparagusasparagoides,9,Plantagolanceolata,50
+1842,Middle,March_2023,Cleared,MC_4,Calpurniasericea,2,Taraxacumofficinale,3
+1842,Middle,March_2023,Cleared,MC_4,Salviarepens,1,Tagetesminuta,50
+1842,Middle,March_2023,Cleared,MC_4,Zantedeschiaalbomaculata,1,Verbenabonariensis,3
+1842,Middle,March_2023,Cleared,MC_4,Searsiadentata,4,Bidenspilosa,50
+1842,Middle,March_2023,Cleared,MC_4,Gomphocarpusfruticosus,1,Amaranthushybridus,2
+1842,Middle,March_2023,Cleared,MC_4,Solanumretroflexum,5,Bidensbipinnata,50
+1842,Middle,March_2023,Cleared,MC_4,Helimultipleinflo,9,NA,NA
+1842,Middle,March_2023,Cleared,MC_4,Rubusludwigii,2,NA,NA
+1842,Middle,March_2023,Cleared,MC_4,Mariscuscongestus,50,NA,NA
+1842,Middle,March_2023,Cleared,MC_4,Cinerarialyratiforms,2,NA,NA
+1842,Middle,March_2023,Cleared,MC_4,Carexzuluensis,2,NA,NA
+1842,Middle,March_2023,Cleared,MC_5,Salviarepens,5,Nidorellapodocephala,50
+1842,Middle,March_2023,Cleared,MC_5,Helichrysumcymosum,14,Cirsiumvulgare,6
+1842,Middle,March_2023,Cleared,MC_5,Helimultipleinflo,3,Oenotherarosea,7
+1842,Middle,March_2023,Cleared,MC_5,Helichrysumrugulosum,50,Conyzasumatrensis,4
+1842,Middle,March_2023,Cleared,MC_5,Arctotisarctotoides,50,Tagetesminuta,9
+1842,Middle,March_2023,Cleared,MC_5,Helichrysumnudifolium,2,Oxalisdepressacorniculata,50
+1842,Middle,March_2023,Cleared,MC_5,Seneciomacrocephalus,5,Bidensbipinnata,11
+1842,Middle,March_2023,Cleared,MC_5,Hibiscusaethiopicus,7,Medicagopolymorpha,2
+1842,Middle,March_2023,Cleared,MC_5,Commelinaafricana,6,Xanthiumspinosum,1
+1842,Middle,March_2023,Cleared,MC_5,Solanumretroflexum,3,NA,NA
+1842,Middle,March_2023,Cleared,MC_5,Gomphocarpusfruticosus,1,NA,NA
+1842,Middle,March_2023,Cleared,MC_5,Cynoglossumhispidum,1,NA,NA
+1842,Middle,March_2023,Cleared,MC_5,Searsiadentata,1,NA,NA
+1842,Middle,March_2023,Cleared,MC_5,Helichrysumodoratissimum,2,NA,NA
+1842,Middle,March_2023,Cleared,MC_5,Mariscuscongestus,50,NA,NA
+1842,Middle,March_2023,Cleared,MC_5,Rhynchosiatotta,2,NA,NA
+1842,Middle,March_2023,Cleared,MC_5,Buddlejasalviifolia,1,NA,NA
+1842,Middle,March_2023,Cleared,MC_6,Salviarepens,50,Conyzasumatrensis,2
+1842,Middle,March_2023,Cleared,MC_6,Senecioisatideus,50,NA,NA
+1842,Middle,March_2023,Cleared,MC_6,Chrysocomaciliata,2,NA,NA
+1842,Middle,March_2023,Cleared,MC_6,Berkheyamultijuga,2,NA,NA
+1842,Middle,March_2023,Cleared,MC_6,Oxalisdepressa,50,NA,NA
+1842,Middle,March_2023,Cleared,MC_6,Hibiscusaethiopicus,1,NA,NA
+1842,Middle,March_2023,Cleared,MC_6,Pelargoniumalchemilloides,2,NA,NA
+1842,Middle,March_2023,Cleared,MC_6,Searsiadentata,1,NA,NA
+1842,Middle,March_2023,Cleared,MC_6,Senecioinornatus,14,NA,NA
+1842,Middle,March_2023,Uncleared,MU_1,Calpurniasericea,1,Conyzasumatrensis,2
+1842,Middle,March_2023,Uncleared,MU_1,Ophioglossumvulgatum,14,Oxalisdepressacorniculata,50
+1842,Middle,March_2023,Uncleared,MU_1,Cynoglossumhispidum,1,Bidenspilosa,3
+1842,Middle,March_2023,Uncleared,MU_1,Myrsineafricana,4,Bidensbipinnata,1
+1842,Middle,March_2023,Uncleared,MU_1,Diclisreptans,5,NA,NA
+1842,Middle,March_2023,Uncleared,MU_1,Galiumspurium,1,NA,NA
+1842,Middle,March_2023,Uncleared,MU_2,Buddlejasalviifolia,7,Cyathulauncinulata,12
+1842,Middle,March_2023,Uncleared,MU_2,Rumexsagittatus,15,Bidenspilosa,50
+1842,Middle,March_2023,Uncleared,MU_2,Cinerarialyratiforms,3,Bidensbipinnata,50
+1842,Middle,March_2023,Uncleared,MU_2,Myrsineafricana,50,Nidorellapodocephala,10
+1842,Middle,March_2023,Uncleared,MU_2,Cynoglossumhispidum,4,Taraxacumofficinale,2
+1842,Middle,March_2023,Uncleared,MU_2,Asparagusasparagoides,11,NA,NA
+1842,Middle,March_2023,Uncleared,MU_2,Calpurniasericea,2,NA,NA
+1842,Middle,March_2023,Uncleared,MU_2,Rubusludwigii,5,NA,NA
+1842,Middle,March_2023,Uncleared,MU_2,Cheilantheseckloniana,1,NA,NA
+1842,Middle,March_2023,Uncleared,MU_2,Cheilanthesquadripinnata,2,NA,NA
+1842,Middle,March_2023,Uncleared,MU_2,Ophioglossumvulgatum,16,NA,NA
+1842,Middle,March_2023,Uncleared,MU_2,Solanumretroflexum,8,NA,NA
+1842,Middle,March_2023,Uncleared,MU_2,Eucleacrispa,50,NA,NA
+1842,Middle,March_2023,Uncleared,MU_2,Searsiadentata,3,NA,NA
+1842,Middle,March_2023,Uncleared,MU_2,Helichrysumcymosum,3,NA,NA
+1842,Middle,March_2023,Uncleared,MU_2,Galiumspuriumspurium,1,NA,NA
+1842,Middle,March_2023,Uncleared,MU_2,Calpurniasericea,1,NA,NA
+1842,Middle,March_2023,Uncleared,MU_3,Solanumretroflexum,20,Cyathulauncinulata,3
+1842,Middle,March_2023,Uncleared,MU_3,Myrsineafricana,50,Bidensbipinnata,50
+1842,Middle,March_2023,Uncleared,MU_3,Eucleacrispa,50,Bidenspilosa,50
+1842,Middle,March_2023,Uncleared,MU_3,Zantedeschiaalbomaculata,12,Verbenabonariensis,1
+1842,Middle,March_2023,Uncleared,MU_3,Diclisreptans,2,Tagetesminuta,50
+1842,Middle,March_2023,Uncleared,MU_3,Ophioglossumvulgatum,15,Conyzasumatrensis,5
+1842,Middle,March_2023,Uncleared,MU_3,Asparagusasparagoides,5,Plantagolanceolata,11
+1842,Middle,March_2023,Uncleared,MU_3,Pelargoniumalchemilloides,12,Taraxacumofficinale,1
+1842,Middle,March_2023,Uncleared,MU_3,Rumexsagittatus,20,NA,NA
+1842,Middle,March_2023,Uncleared,MU_3,Helichrysumodoratissimum,1,NA,NA
+1842,Middle,March_2023,Uncleared,MU_3,Senecioisatideus,1,NA,NA
+1842,Middle,March_2023,Uncleared,MU_3,Salviarepens,13,NA,NA
+1842,Middle,March_2023,Uncleared,MU_3,Calpurniasericea,1,NA,NA
+1842,Middle,March_2023,Uncleared,MU_3,Searsiadentata,2,NA,NA
+1842,Middle,March_2023,Uncleared,MU_3,Cynoglossumhispidum,1,NA,NA
+1842,Middle,March_2023,Uncleared,MU_4,Helimultipleinflo,5,Plantagolanceolata,50
+1842,Middle,March_2023,Uncleared,MU_4,Helichrysumodoratissimum,11,Conyzasumatrensis,50
+1842,Middle,March_2023,Uncleared,MU_4,Myrsineafricana,50,Nidorellapodocephala,50
+1842,Middle,March_2023,Uncleared,MU_4,Zantedeschiaalbomaculata,6,Tagetesminuta,50
+1842,Middle,March_2023,Uncleared,MU_4,Calpurniasericea,6,Trifoliumrepens,50
+1842,Middle,March_2023,Uncleared,MU_4,Commelinaafricana,3,Cirsiumvulgare,4
+1842,Middle,March_2023,Uncleared,MU_4,Cinerariadieterlenii,3,Bidenspilosa,50
+1842,Middle,March_2023,Uncleared,MU_4,Asparagusasparagoides,5,Bidensbipinnata,50
+1842,Middle,March_2023,Uncleared,MU_4,Artemisiaafra,1,Salviatilifolia,1
+1842,Middle,March_2023,Uncleared,MU_4,Galiumspurium,50,Xanthiumspinosum,1
+1842,Middle,March_2023,Uncleared,MU_4,Helichrysummundtii,23,Cyathulauncinulata,50
+1842,Middle,March_2023,Uncleared,MU_4,Rubusludwigii,2,NA,NA
+1842,Middle,March_2023,Uncleared,MU_4,Eucleacrispa,50,NA,NA
+1842,Middle,March_2023,Uncleared,MU_4,Searsiadentata,8,NA,NA
+1842,Middle,March_2023,Uncleared,MU_4,Asparagusafricanus,1,NA,NA
+1842,Middle,March_2023,Uncleared,MU_4,Cynoglossumhispidum,3,NA,NA
+1842,Middle,March_2023,Uncleared,MU_4,Pelargoniumalchemilloides,1,NA,NA
+1842,Middle,March_2023,Uncleared,MU_4,Rumexsagittatus,11,NA,NA
+1842,Middle,March_2023,Uncleared,MU_4,Helichrysumcymosum,1,NA,NA
+1842,Middle,March_2023,Uncleared,MU_4,Solanumretroflexum,8,NA,NA
+1842,Middle,March_2023,Uncleared,MU_4,Ophioglossumvulgatum,15,NA,NA
+1842,Middle,March_2023,Uncleared,MU_4,Lobeliaflaccida,1,NA,NA
+1842,Middle,March_2023,Uncleared,MU_4,Mariscuscongestus,50,NA,NA
+1842,Middle,March_2023,Uncleared,MU_4,Rhynchosiatotta,1,NA,NA
+1842,Middle,March_2023,Uncleared,MU_5,Artemisiaafra,2,Tagetesminuta,50
+1842,Middle,March_2023,Uncleared,MU_5,Helichrysumodoratissimum,1,Oenotherarosea,2
+1842,Middle,March_2023,Uncleared,MU_5,Helichrysumnudifolium,6,Xanthiumstrumarium,1
+1842,Middle,March_2023,Uncleared,MU_5,Helichrysumrugulosum,20,Nidorellapodocephala,50
+1842,Middle,March_2023,Uncleared,MU_5,Cinerarialyratiforms,2,Conyzasumatrensis,1
+1842,Middle,March_2023,Uncleared,MU_5,Senecioisatideus,6,Bidensbipinnata,50
+1842,Middle,March_2023,Uncleared,MU_5,Helichrysumcymosum,4,NA,NA
+1842,Middle,March_2023,Uncleared,MU_5,Rubusludwigii,3,NA,NA
+1842,Middle,March_2023,Uncleared,MU_5,Asparagusasparagoides,6,NA,NA
+1842,Middle,March_2023,Uncleared,MU_5,Galiumspurium,1,NA,NA
+1842,Middle,March_2023,Uncleared,MU_5,Eucleacrispa,18,NA,NA
+1842,Middle,March_2023,Uncleared,MU_5,Hibiscusaethiopicus,11,NA,NA
+1842,Middle,March_2023,Uncleared,MU_5,Oxalisdepressa,50,NA,NA
+1842,Middle,March_2023,Uncleared,MU_5,Searsiadentata,7,NA,NA
+1842,Middle,March_2023,Uncleared,MU_5,Commelinaafricana,4,NA,NA
+1842,Middle,March_2023,Uncleared,MU_6,Pelargoniumalchemilloides,3,Bidensbipinnata,1
+1842,Middle,March_2023,Uncleared,MU_6,Oxalisdepressa,50,NA,NA
+1842,Middle,March_2023,Uncleared,MU_6,Ophioglossumvulgatum,11,NA,NA
+1842,Middle,March_2023,Uncleared,MU_6,Commelinaafricana,13,NA,NA
+1842,Middle,March_2023,Uncleared,MU_6,Hibiscusaethiopicus,7,NA,NA
+1842,Middle,March_2023,Uncleared,MU_6,Chrysocomaciliata,3,NA,NA
+1842,Middle,March_2023,Uncleared,MU_6,Salviarepens,1,NA,NA
+1842,Middle,March_2023,Uncleared,MU_6,Senecioisatideus,11,NA,NA
+1842,Middle,March_2023,Uncleared,MU_6,Helichrysumcymosum,6,NA,NA
+1730,Low,December_2022,Control,LK_3,Carexzuluensis,5,NA,NA
+1730,Low,March_2023,Control,LK_3,Rumexlanceolatus,7,Equisetumhyemale,50
+1730,Low,March_2023,Control,LK_3,Fabaceaeyellowflowers,3,Plantagolanceolata,12
+1730,Low,March_2023,Control,LK_3,Stachyshyssopoides,17,Conyzasumatrensis,6
+1730,Low,March_2023,Control,LK_3,Helichrysumrugulosum,50,Oenotherarosea,50
+1730,Low,March_2023,Control,LK_3,Helichrysumcallicomum,16,Nidorellapodocephala,1
+1730,Low,March_2023,Control,LK_3,Berkheyadiscolor,5,NA,NA
+1730,Low,March_2023,Control,LK_3,Cyperusesculentus,50,NA,NA
+1730,Low,March_2023,Control,LK_3,Feliciamuricata,2,NA,NA
+1730,Low,March_2023,Control,LK_3,Commelinaafricana,1,NA,NA
+1730,Low,March_2023,Control,LK_3,Hermanniageniculata,1,NA,NA
+1730,Low,March_2023,Control,LK_3,Helichrysumcymosum,5,NA,NA
+1730,Low,March_2023,Control,LK_3,Artemisiaafra,1,NA,NA
+1730,Low,March_2023,Control,LK_3,Helichrysumaureonitens,50,NA,NA
+1730,Low,June_2023,Control,LK_3,Artemisiaafra,50,Oenothera rosea,50
+1730,Low,June_2023,Control,LK_3,Gomphocarpusfruticosus,1,Verbena bonariensis,1
+1730,Low,June_2023,Control,LK_3,Cinerariadieterlenii,1,Plantago lanceolata,15
+1730,Low,October_2023,Control,LK_3,Helichrysumodoratissimum,2,Oenothera rosea,50
+1730,Low,October_2023,Control,LK_3,Salviarepens,50,Cirsium vulgare,3
+1730,Low,October_2023,Control,LK_3,Helichrysumcymosum,18,NA,NA
+1730,Low,October_2023,Control,LK_3,Feliciamuricata,1,NA,NA
+1730,Low,October_2022,Control,LK_4,Rhynchosiatotta,13,Cirsium vulgare,35
+1730,Low,October_2022,Control,LK_4,Cynoglossumhispidum,1,Conyza sumatrensis,26
+1730,Low,October_2022,Control,LK_4,Salviarepens,1,Equisetum hyemale,50
+1730,Low,October_2022,Control,LK_4,Feliciafilifolia,1,Hypochaeris radicata,47
+1730,Low,October_2022,Control,LK_4,Cinerariadieterlenii,1,Oenothera rosea,50
+1730,Low,October_2022,Control,LK_4,Cyperusesculentus,50,Plantago lanceolata,40
+1730,Low,October_2022,Control,LK_4,Taraxacumofficinale,30,Taraxacum officinale,50
+1730,Low,October_2022,Control,LK_4,Hibiscusaethiopicus,2,Trifolium repens,8
+1730,Low,October_2022,Control,LK_4,Helichrysumrugulosum,38,Verbena bonariensis,13
+1730,Low,October_2022,Control,LK_4,Rorippanudiuscula,6,NA,NA
+1730,Low,October_2022,Control,LK_4,Senecioinornatusimulans,7,NA,NA
+1730,Low,October_2022,Control,LK_4,Tritoniagladiolaris,4,NA,NA
+1730,Low,December_2022,Control,LK_4,Helichrysumcymosum,8,Oenothera stricta,50
+1730,Low,December_2022,Control,LK_4,Helichrysumrugulosum,50,Hypochaeris radicata,10
+1730,Low,December_2022,Control,LK_4,Helichrysumaureonitens,3,Equisetum hyemale,50
+1730,Low,December_2022,Control,LK_4,Cyperusesculentus,50,Conyza sumatrensis,4
+1730,Low,December_2022,Control,LK_4,Berkheyadiscolor,11,Nidorella podocephala,50
+1730,Low,December_2022,Control,LK_4,Cynoglossumhispidum,1,Plantago lanceolata,50
+1730,Low,December_2022,Control,LK_4,Cinerariadieterlenii,1,Hibiscus aethiopicus,6
+1730,Low,December_2022,Control,LK_4,Ajugaophrydis,2,NA,NA
+1730,Low,December_2022,Control,LK_4,Seriphiumplumosum,1,NA,NA
+1730,Low,December_2022,Control,LK_4,Rorippanudiuscula,1,NA,NA
+1730,Low,December_2022,Control,LK_4,Seneciomacrocephalus,5,NA,NA
+1730,Low,December_2022,Control,LK_4,Trifoliumburchellianum,50,NA,NA
+1730,Low,December_2022,Control,LK_4,Carexzuluensis,1,NA,NA
+1730,Low,March_2023,Control,LK_4,Berkheyadiscolor,9,Oenotherarosea,50
+1730,Low,March_2023,Control,LK_4,Argyrolobiumtomentosum,14,Equisetumhyemale,50
+1730,Low,March_2023,Control,LK_4,Cinerarialyratiforms,1,Plantagolanceolata,12
+1730,Low,March_2023,Control,LK_4,Cynoglossumhispidum,1,Hypochaerisradicata,19
+1730,Low,March_2023,Control,LK_4,Tritonialinearis,14,Bidenspilosa,1
+1730,Low,March_2023,Control,LK_4,Stoebevulgaris,1,Conyzasumatrensis,3
+1730,Low,March_2023,Control,LK_4,Rumexlanceolatus,7,Taraxacumofficinale,6
+1730,Low,March_2023,Control,LK_4,Crassuladependens,5,NA,NA
+1730,Low,March_2023,Control,LK_4,Ajugaophrydis,1,NA,NA
+1730,Low,March_2023,Control,LK_4,Helichrysumcymosum,2,NA,NA
+1730,Low,March_2023,Control,LK_4,Helichrysumrugulosum,46,NA,NA
+1730,Low,March_2023,Control,LK_4,Feliciamuricata,1,NA,NA
+1730,Low,March_2023,Control,LK_4,Polygalahottentota,3,NA,NA
+1730,Low,March_2023,Control,LK_4,Sebaeasedoides,2,NA,NA
+1730,Low,March_2023,Control,LK_4,Seneciomacrocephalus,2,NA,NA
+1730,Low,March_2023,Control,LK_4,Cyperusesculentus,1,NA,NA
+1730,Low,March_2023,Control,LK_4,Helichrysumaureonitens,50,NA,NA
+1730,Low,March_2023,Control,LK_4,Stachyshyssopoides,1,NA,NA
+1730,Low,June_2023,Control,LK_4,Cynoglossumhispidum,1,Oenothera rosea,50
+1730,Low,June_2023,Control,LK_4,Seriphiumplumosum,1,Hypochaeris radicata,10
+1730,Low,October_2022,Cleared,LC_3,Agrimoniaprocera,3,Verbena bonariensis,4
+1730,Low,October_2022,Cleared,LC_3,Helichrysumodoratissimum,1,Verbena bonariensis,11
+1730,Low,December_2022,Cleared,LC_3,Rorippanudiuscula,7,Verbena rigida,1
+1730,Low,December_2022,Cleared,LC_3,Cyperusesculentus,50,Cirsium vulgare,1
+1730,Low,December_2022,Cleared,LC_3,Artemisiaafra,8,Oenothera stricta,50
+1730,Low,December_2022,Cleared,LC_3,Asparagusafricanus,1,Conyza sumatrensis,50
+1730,Low,December_2022,Cleared,LC_3,Cynoglossumhispidum,1,Oenothera rosea,1
+1730,Low,December_2022,Cleared,LC_3,Bidensbipinnata,50,Equisetum hyemale,50
+1730,Low,December_2022,Cleared,LC_3,Berkheyadiscolor,1,Plantago lanceolata,3
+1730,Low,December_2022,Cleared,LC_3,Kniphofiatriangularis,1,Hypochaeris radicata,2
+1730,Low,December_2022,Cleared,LC_3,Carexzuluensis,2,NA,NA
+1730,Low,December_2022,Cleared,LC_3,Helichrysumcooperi,4,NA,NA
+1730,Low,December_2022,Cleared,LC_3,Rubusludwigii,1,NA,NA
+1730,Low,December_2022,Cleared,LC_3,Cinerariadieterlenii,3,NA,NA
+1730,Low,March_2023,Cleared,LC_3,Artemisiaafra,11,Verbenarigida,50
+1730,Low,March_2023,Cleared,LC_3,Asparagusafricanus,1,Tagetesminuta,50
+1730,Low,March_2023,Cleared,LC_3,Gomphocarpusfruticosus,5,Bidenspilosa,20
+1730,Low,March_2023,Cleared,LC_3,Cyperus,50,Cirsiumvulgare,5
+1730,Low,March_2023,Cleared,LC_3,Chenopodiumalbum,1,Oenotherarosea,50
+1730,Low,March_2023,Cleared,LC_3,Rumexlanceolatus,33,Nidorellapodocephala,2
+1730,Low,March_2023,Cleared,LC_3,Cinerarialyratiforms,8,Conyzasumatrensis,3
+1730,Low,March_2023,Cleared,LC_3,Helichrysumtenax,2,Amaranthushybridus,1
+1730,Low,March_2023,Cleared,LC_3,Agrimoniaprocera,2,Equisetumhyemale,50
+1730,Low,March_2023,Cleared,LC_3,Rumexacetosella,2,NA,NA
+1730,Low,March_2023,Cleared,LC_3,Berkheyadiscolor,2,NA,NA
+1730,Low,March_2023,Cleared,LC_3,Rubusludwigii,1,NA,NA
+1730,Low,March_2023,Cleared,LC_3,Commelinaafricana,1,NA,NA
+1730,Low,June_2023,Cleared,LC_3,Artemisiaafra,12,Verbena rigida,50
+1730,Low,June_2023,Cleared,LC_3,Gomphocarpusfruticosus,7,Cirsium vulgare,50
+1730,Low,June_2023,Cleared,LC_3,Cinerariadieterlenii,3,Oenothera rosea,50
+1730,Low,October_2023,Cleared,LC_3,Artemisiaafra,13,Cirsium vulgare,16
+1730,Low,October_2023,Cleared,LC_3,Cynoglossumhispidum,1,Oenothera rosea,50
+1730,Low,October_2023,Cleared,LC_3,Cinerariadieterlenii,1,Verbena rigida,17
+1730,Low,October_2023,Cleared,LC_3,NA,NA,Sonchus asper,1
+1730,Low,October_2023,Cleared,LC_3,NA,NA,Lactuca serriola,1
+1730,Low,October_2022,Cleared,LC_4,NA,NA,Conyza sumatrensis,2
+1730,Low,October_2022,Cleared,LC_4,NA,NA,Equisetum hyemale,50
+1730,Low,October_2022,Cleared,LC_4,NA,NA,Hypochaeris radicata,4
+1730,Low,October_2022,Cleared,LC_4,NA,NA,Oenothera rosea,13
+1730,Low,October_2022,Cleared,LC_4,NA,NA,Plantago lanceolata,50
+1730,Low,October_2022,Cleared,LC_4,NA,NA,Taraxacum officinale,1
+1730,Low,October_2022,Cleared,LC_4,NA,NA,Trifolium repens,50
+1730,Low,October_2022,Cleared,LC_4,NA,NA,Verbena bonariensis,1
+1730,Low,December_2022,Cleared,LC_4,Asparagusafricanus,2,Trifolium repens,50
+1730,Low,December_2022,Cleared,LC_4,Hibiscusaethiopicus,1,Tagetes minuta,50
+1730,Low,December_2022,Cleared,LC_4,Euphorbiasp,2,Equisetum hyemale,50
+1730,Low,December_2022,Cleared,LC_4,Berkheyadiscolor,3,Taraxacum officinale,11
+1730,Low,December_2022,Cleared,LC_4,Bidensbipinnata,50,Plantago lanceolata,50
+1730,Low,December_2022,Cleared,LC_4,Cynoglossumhispidum,5,Oenothera rosea,9
+1730,Low,December_2022,Cleared,LC_4,Rorippanudiuscula,1,Nidorella podocephala,1
+1730,Low,December_2022,Cleared,LC_4,Xanthiumstrumarium,1,Hypochaeris radicata,50
+1730,Low,December_2022,Cleared,LC_4,Zantedeschiaalbomaculata,1,NA,NA
+1730,Low,December_2022,Cleared,LC_4,Cyperusesculentus,50,NA,NA
+1730,Low,December_2022,Cleared,LC_4,Ranunculusmultifidus,4,NA,NA
+1730,Low,March_2023,Cleared,LC_4,Mariscuscongestus,1,Cirsiumvulgare,8
+1730,Low,March_2023,Cleared,LC_4,Gomphocarpusfruticosus,1,Hypochaerisradicata,50
+1730,Low,March_2023,Cleared,LC_4,Ranunculusmultifidus,2,Trifoliumrepens,50
+1730,Low,March_2023,Cleared,LC_4,Berkheyadiscolor,2,Tagetesminuta,20
+1730,Low,March_2023,Cleared,LC_4,Commelinaafricana,1,Plantagolanceolata,50
+1730,Low,March_2023,Cleared,LC_4,Asparagusafricanus,1,Verbenabonariensis,1
+1730,Low,March_2023,Cleared,LC_4,Cyperusesculentus,1,Taraxacumofficinale,50
+1730,Low,March_2023,Cleared,LC_4,Cyperussemitrifidus,1,Equisetumhyemale,50
+1730,Low,March_2023,Cleared,LC_4,Cynoglossumhispidum,2,Conyzasumatrensis,3
+1730,Low,March_2023,Cleared,LC_4,NA,NA,Bidenspilosa,21
+1730,Low,March_2023,Cleared,LC_4,NA,NA,Bidensbipinnata,6
+1730,Low,March_2023,Cleared,LC_4,NA,NA,Oenotherarosea,7
+1730,Low,March_2023,Cleared,LC_4,NA,NA,Amaranthushybridus,3
+1730,Low,June_2023,Cleared,LC_4,Gomphocarpusfruticosus,1,Plantago lanceolata,50
+1730,Low,June_2023,Cleared,LC_4,Helichrysumcymosum,1,Trifolium repens,50
+1730,Low,June_2023,Cleared,LC_4,NA,NA,Cirsium vulgare,9
+1730,Low,June_2023,Cleared,LC_4,NA,NA,Hypochaeris radicata,50
+1730,Low,October_2023,Cleared,LC_4,Ranunculusmultifidus,1,Cyclospermum leptophyllum,1
+1730,Low,October_2023,Cleared,LC_4,NA,NA,Trifolium repens,50
+1730,Low,October_2023,Cleared,LC_4,NA,NA,Hypochaeris radicata,50
+1730,Low,October_2023,Cleared,LC_4,NA,NA,Cirsium vulgare,2
+1730,Low,October_2023,Cleared,LC_4,NA,NA,Equisetum hyemale,50
+1730,Low,October_2023,Cleared,LC_4,NA,NA,Plantago lanceolata,50
+1730,Low,October_2022,Cleared,LC_5,NA,NA,Conyza sumatrensis,2
+1730,Low,October_2022,Cleared,LC_5,Senecioinornatus,1,Equisetum hyemale,50
+1730,Low,October_2022,Cleared,LC_5,Searsiadentata,1,Hypochaeris radicata,9
+1730,Low,October_2022,Cleared,LC_5,Gazaniakrebsiana,6,Plantago lanceolata,50
+1730,Low,October_2022,Cleared,LC_5,Diospyrosrubriflora,1,Taraxacum officinale,1
+1730,Low,December_2022,Cleared,LC_5,Seneciomacrocephalus,3,Plantago lanceolata,50
+1730,Low,December_2022,Cleared,LC_5,Gazaniakrebsiana,14,Equisetum hyemale,50
+1730,Low,December_2022,Cleared,LC_5,Searsiadentata,7,Trifolium repens,50
+1730,Low,December_2022,Cleared,LC_5,Artemisiaafra,5,Hypochaeris radicata,50
+1730,Low,December_2022,Cleared,LC_5,Xanthiumstrumarium,1,Tagetes minuta,50
+1730,Low,October_2022,Uncleared,LU_3,Helichrysumodoratissimum,8,Cirsium vulgare,1
+1730,Low,October_2022,Uncleared,LU_3,Heliflatbase,2,Conyza sumatrensis,50
+1730,Low,October_2022,Uncleared,LU_3,Helichrysumrugulosum,2,Oenethera rosea,50
+1730,Low,October_2022,Uncleared,LU_3,Cynoglossumhispidum,3,Robinia pseudoacacia,2
+1730,Low,October_2022,Uncleared,LU_3,Helichrysumsplendidum,2,Verbena bonariensis,50
+1730,Low,October_2022,Uncleared,LU_3,Feliciafilifolia,3,NA,NA
+1730,Low,December_2022,Uncleared,LU_3,Rhoicissuscftridentata,3,Hypochaeris radicata,4
+1730,Low,December_2022,Uncleared,LU_3,Helichrysumcymosum,50,Nidorella podocephala,50
+1730,Low,December_2022,Uncleared,LU_3,Seriphiumplumosum,6,Oenothera stricta,50
+1730,Low,December_2022,Uncleared,LU_3,Artemisiaafra,3,Oenothera rosea,50
+1730,Low,December_2022,Uncleared,LU_3,Cinerariadieterlenii,1,Plantago lanceolata,6
+1730,Low,December_2022,Uncleared,LU_3,Seneciomacrocephalus,2,Conyza sumatrensis,7
+1730,Low,December_2022,Uncleared,LU_3,Berkheyadiscolor,1,Robinia pseudoacacia,2
+1730,Low,December_2022,Uncleared,LU_3,Cinerariadieterlenii,1,Conyza sumatrensis,3
+1730,Low,December_2022,Uncleared,LU_3,Cynoglossumhispidum,1,NA,NA
+1730,Low,December_2022,Uncleared,LU_3,NA,NA,NA,NA
+1730,Low,March_2023,Uncleared,LU_3,Cheilanthesquadripinnata,1,Nidorellapodocephala,50
+1730,Low,March_2023,Uncleared,LU_3,Helichrysumcymosum,50,Plantagolanceolata,4
+1730,Low,March_2023,Uncleared,LU_3,Artemisiaafra,3,Oenotherarosea,50
+1730,Low,March_2023,Uncleared,LU_3,Cyperusesculentus,50,Conyzasumatrensis,13
+1730,Low,March_2023,Uncleared,LU_3,Seneciomacrocephalus,2,Cirsiumvulgare,1
+1730,Low,March_2023,Uncleared,LU_3,Stoebevulgaris,5,Bidensbipinnata,2
+1730,Low,March_2023,Uncleared,LU_3,Helichrysumrugulosum,1,Robiniapseudoacacia,1
+1730,Low,March_2023,Uncleared,LU_3,Crassuladependens,1,NA,NA
+1730,Low,March_2023,Uncleared,LU_3,Helichrysumcallicomum,1,NA,NA
+1730,Low,March_2023,Uncleared,LU_3,Cinerarialyratiforms,8,NA,NA
+1730,Low,March_2023,Uncleared,LU_3,Stachyshyssopoides,3,NA,NA
+1730,Low,March_2023,Uncleared,LU_3,Cinerariadieterlenii,1,NA,NA
+1730,Low,March_2023,Uncleared,LU_3,Argyrolobiumsp,1,NA,NA
+1730,Low,June_2023,Uncleared,LU_3,Helichrysumcymosum,7,Oenothera rosea,50
+1730,Low,June_2023,Uncleared,LU_3,Seriphiumplumosum,4,Conyza sumatrensis,1
+1730,Low,June_2023,Uncleared,LU_3,Helichrysumodoratissimum,2,Plantago lanceolata,4
+1730,Low,June_2023,Uncleared,LU_3,Artemisiaafra,2,NA,NA
+1730,Low,June_2023,Uncleared,LU_3,Cheilanthesquadripinnata,2,NA,NA
+1730,Low,June_2023,Uncleared,LU_3,Cinerariadieterlenii,1,NA,NA
+1730,Low,October_2023,Uncleared,LU_3,Artemisiaafra,5,Oenothera rosea,50
+1730,Low,October_2023,Uncleared,LU_3,Helichrysumcymosum,8,NA,NA
+1730,Low,October_2023,Uncleared,LU_3,Seriphiumplumosum,5,NA,NA
+1730,Low,October_2023,Uncleared,LU_3,Helichrysumodoratissimum,1,NA,NA
+1730,Low,October_2022,Uncleared,LU_4,NA,NA,Cirsium vulgare,9
+1730,Low,October_2022,Uncleared,LU_4,NA,NA,Oenethera rosea,50
+1730,Low,October_2022,Uncleared,LU_4,NA,NA,Trifolium repens,50
+1730,Low,December_2022,Uncleared,LU_4,NA,NA,Oenothera rosea,50
+1730,Low,December_2022,Uncleared,LU_4,NA,NA,Conyza sumatrensis,50
+1730,Low,December_2022,Uncleared,LU_4,NA,NA,Plantago lanceolata,50
+1730,Low,March_2023,Uncleared,LU_4,Agrimoniaprocera,1,Oenotherarosea,50
+1730,Low,March_2023,Uncleared,LU_4,NA,NA,Verbenarigida,1
+1730,Low,March_2023,Uncleared,LU_4,NA,NA,Taraxacumofficinale,2
+1730,Low,March_2023,Uncleared,LU_4,NA,NA,Plantagolanceolata,50
+1730,Low,March_2023,Uncleared,LU_4,NA,NA,Cirsiumvulgare,3
+1985,Top,June_2023,Control,TK_1,Feliciafilifolia,4,Oenothera rosea,15
+1985,Top,June_2023,Control,TK_1,Helichrysumnudifolium,21,NA,NA
+1985,Top,June_2023,Control,TK_1,Helichrysumcymosum,22,NA,NA
+1985,Top,June_2023,Control,TK_1,Gazaniakrebsiana,16,NA,NA
+1985,Top,June_2023,Control,TK_1,Gerberapiloselloides,6,NA,NA
+1985,Top,June_2023,Control,TK_1,Helichrysumodoratissimum,2,NA,NA
+1985,Top,June_2023,Control,TK_1,Lotononislotononoides,6,NA,NA
+1985,Top,June_2023,Control,TK_1,Scabiosacolumbaria,5,NA,NA
+1985,Top,June_2023,Control,TK_1,Crassuladependens,5,NA,NA
+1985,Top,June_2023,Control,TK_1,Feliciamuricata,10,NA,NA
+1985,Top,June_2023,Control,TK_1,Helichrysumrugulosum,50,NA,NA
+1985,Top,June_2023,Control,TK_1,Hermanniadepressa,7,NA,NA
+1985,Top,June_2023,Control,TK_2,Feliciafilifolia,16,Verbena bonariensis,28
+1985,Top,June_2023,Control,TK_2,Helichrysumodoratissimum,1,Conyza sumatrensis,4
+1985,Top,June_2023,Control,TK_2,Helichrysumcymosum,1,Oenothera rosea,1
+1985,Top,June_2023,Control,TK_2,Clutianatalensis,2,NA,NA
+1985,Top,June_2023,Control,TK_2,Lotononisgalpinii,3,NA,NA
+1985,Top,June_2023,Control,TK_2,Seriphiumplumosum,1,NA,NA
+1985,Top,June_2023,Control,TK_2,Crassuladependens,4,NA,NA
+1985,Top,June_2023,Control,TK_2,Helichrysumrugulosum,5,NA,NA
+1985,Top,June_2023,Control,TK_2,Gazaniakrebsiana,4,NA,NA
+1985,Top,June_2023,Control,TK_2,Hermanniadepressa,1,NA,NA
+1985,Top,June_2023,Control,TK_3,Lotononislotononoides,1,Oenothera rosea,50
+1985,Top,June_2023,Control,TK_3,Helichrysumodoratissimum,1,Verbena bonariensis,2
+1985,Top,June_2023,Control,TK_3,Helichrysumcymosum,40,Conyza sumatrensis,2
+1985,Top,June_2023,Control,TK_3,Berkheyamultijuga,2,NA,NA
+1985,Top,June_2023,Control,TK_3,Crassuladependens,50,NA,NA
+1985,Top,June_2023,Control,TK_3,Feliciafilifolia,8,NA,NA
+1985,Top,June_2023,Control,TK_3,Senecioinornatus,3,NA,NA
+1985,Top,June_2023,Control,TK_3,Cyperus,50,NA,NA
+1985,Top,June_2023,Control,TK_3,Salviarepens,2,NA,NA
+1985,Top,June_2023,Control,TK_3,Androcymbiumstriatum,1,NA,NA
+1985,Top,June_2023,Control,TK_3,Gerberapiloselloides,2,NA,NA
+1985,Top,June_2023,Control,TK_3,Helichrysumrugulosum,50,NA,NA
+1985,Top,June_2023,Control,TK_3,Arctotisarctotoides,1,NA,NA
+1985,Top,June_2023,Control,TK_3,Cynoglossumhispidum,1,NA,NA
+1985,Top,June_2023,Control,TK_3,Clutianatalensis,4,NA,NA
+1985,Top,June_2023,Control,TK_3,Helichrysumappendiculatum,2,NA,NA
+1985,Top,June_2023,Control,TK_3,Hermanniadepressa,10,NA,NA
+1985,Top,June_2023,Control,TK_3,Helichrysumnudifolium,1,NA,NA
+1985,Top,June_2023,Control,TK_4,Feliciafilifolia,14,Oenothera rosea,1
+1985,Top,June_2023,Control,TK_4,Helichrysumcymosum,14,NA,NA
+1985,Top,June_2023,Control,TK_4,Gerberapiloselloides,8,NA,NA
+1985,Top,June_2023,Control,TK_4,Diospyrosaustro-africana,1,NA,NA
+1985,Top,June_2023,Control,TK_4,Helichrysumodoratissimum,5,NA,NA
+1985,Top,June_2023,Control,TK_4,Lotononislotononoides,1,NA,NA
+1985,Top,June_2023,Control,TK_4,Feliciamuricata,1,NA,NA
+1985,Top,June_2023,Control,TK_4,Salviarepens,2,NA,NA
+1985,Top,June_2023,Control,TK_4,Hermanniadepressa,1,NA,NA
+1985,Top,June_2023,Control,TK_4,Gazaniakrebsiana,50,NA,NA
+1985,Top,June_2023,Control,TK_4,Crassuladependens,1,NA,NA
+1985,Top,June_2023,Control,TK_4,Helichrysumnudifolium,5,NA,NA
+1985,Top,June_2023,Control,TK_4,Ajugaophrydis,12,NA,NA
+1985,Top,June_2023,Control,TK_5,Feliciafilifolia,2,Oenothera rosea,25
+1985,Top,June_2023,Control,TK_5,Geum-like,5,NA,NA
+1985,Top,June_2023,Control,TK_5,Helichrysumcymosum,20,NA,NA
+1985,Top,June_2023,Control,TK_5,Helichrysumodoratissimum,11,NA,NA
+1985,Top,June_2023,Control,TK_5,Arctotisarctotoides,8,NA,NA
+1985,Top,June_2023,Control,TK_5,Helichrysumnudifolium,6,NA,NA
+1985,Top,June_2023,Control,TK_5,Berkheyamultijuga,2,NA,NA
+1985,Top,June_2023,Control,TK_5,Oxalisdepressa,1,NA,NA
+1985,Top,June_2023,Control,TK_5,Seneciomacrocephalus,1,NA,NA
+1985,Top,June_2023,Control,TK_6,Berkheyamultijuga,2,NA,NA
+1985,Top,June_2023,Control,TK_6,Arctotisarctotoides,15,NA,NA
+1985,Top,June_2023,Control,TK_6,Feliciafilifolia,4,NA,NA
+1985,Top,June_2023,Control,TK_6,Helichrysumodoratissimum,1,NA,NA
+1985,Top,June_2023,Control,TK_6,Seriphiumplumosum,1,NA,NA
+1985,Top,June_2023,Control,TK_6,Gazaniakrebsiana,20,NA,NA
+1985,Top,June_2023,Control,TK_6,Helichrysumcymosum,2,NA,NA
+1985,Top,June_2023,Control,TK_6,Hermanniageniculata,1,NA,NA
+1985,Top,June_2023,Control,TK_6,Crassuladependens,1,NA,NA
+1985,Top,June_2023,Control,TK_6,Feliciamuricata,50,NA,NA
+1985,Top,June_2023,Control,TK_6,Helichrysumrugulosum,2,NA,NA
+1985,Top,June_2023,Cleared,TC_1,Clutianatalensis,24,Oenothera rosea,10
+1985,Top,June_2023,Cleared,TC_1,Cynoglossumhispidum,8,Bidens pilosa,2
+1985,Top,June_2023,Cleared,TC_1,Salviarepens,3,Nidorella podocephala,1
+1985,Top,June_2023,Cleared,TC_1,Myrsineafricana,50,NA,NA
+1985,Top,June_2023,Cleared,TC_1,Berkheyamultijuga,6,NA,NA
+1985,Top,June_2023,Cleared,TC_1,Artemisiaafra,4,NA,NA
+1985,Top,June_2023,Cleared,TC_1,Galiumsp,3,NA,NA
+1985,Top,June_2023,Cleared,TC_1,Diclisreptans,3,NA,NA
+1985,Top,June_2023,Cleared,TC_1,Senecioinornatus,2,NA,NA
+1985,Top,June_2023,Cleared,TC_2,Clutianatalensis,2,Conyza sumatrensis,6
+1985,Top,June_2023,Cleared,TC_2,Myrsineafricana,50,Oenothera rosea,4
+1985,Top,June_2023,Cleared,TC_2,Salviarepens,4,Bidens pilosa,1
+1985,Top,June_2023,Cleared,TC_2,Rhamnusprinoides,1,NA,NA
+1985,Top,June_2023,Cleared,TC_2,Gerberapiloselloides,5,NA,NA
+1985,Top,June_2023,Cleared,TC_2,Androcymbiumstriatum,3,NA,NA
+1985,Top,June_2023,Cleared,TC_2,Helichrysumappendiculatum,3,NA,NA
+1985,Top,June_2023,Cleared,TC_2,Cynoglossumhispidum,5,NA,NA
+1985,Top,June_2023,Cleared,TC_2,Helichrysumcymosum,1,NA,NA
+1985,Top,June_2023,Cleared,TC_2,Diclisreptans,6,NA,NA
+1985,Top,June_2023,Cleared,TC_2,Oxalisdepressa,2,NA,NA
+1985,Top,June_2023,Cleared,TC_2,Galiumsp,2,NA,NA
+1985,Top,June_2023,Cleared,TC_3,Clutianatalensis,5,Oenothera rosea,50
+1985,Top,June_2023,Cleared,TC_3,Cynoglossumhispidum,50,Bidens pilosa,2
+1985,Top,June_2023,Cleared,TC_3,Jamesbritteniapristisepala,14,Conyza sumatrensis,3
+1985,Top,June_2023,Cleared,TC_3,Arctotisarctotoides,3,NA,NA
+1985,Top,June_2023,Cleared,TC_3,Cheilantheseckloniana,3,NA,NA
+1985,Top,June_2023,Cleared,TC_3,Salviarepens,50,NA,NA
+1985,Top,June_2023,Cleared,TC_3,Rhamnusprinoides,2,NA,NA
+1985,Top,June_2023,Cleared,TC_3,Myrsineafricana,50,NA,NA
+1985,Top,June_2023,Cleared,TC_3,Helichrysumcymosum,3,NA,NA
+1985,Top,June_2023,Cleared,TC_3,Diclisreptans,4,NA,NA
+1985,Top,June_2023,Cleared,TC_3,Helichrysumappendiculatum,3,NA,NA
+1985,Top,June_2023,Cleared,TC_3,Asparagusasparagoides,3,NA,NA
+1985,Top,June_2023,Cleared,TC_3,Gerberapiloselloides,11,NA,NA
+1985,Top,June_2023,Cleared,TC_3,Senecioinornatus,1,NA,NA
+1985,Top,June_2023,Cleared,TC_4,Clutianatalensis,4,Conyza sumatrensis,1
+1985,Top,June_2023,Cleared,TC_4,Berkheyamultijuga,7,NA,NA
+1985,Top,June_2023,Cleared,TC_4,Salviarepens,11,NA,NA
+1985,Top,June_2023,Cleared,TC_4,Androcymbiumstriatum,3,NA,NA
+1985,Top,June_2023,Cleared,TC_4,Gerberapiloselloides,13,NA,NA
+1985,Top,June_2023,Cleared,TC_4,Cynoglossumhispidum,3,NA,NA
+1985,Top,June_2023,Cleared,TC_4,Arctotisarctotoides,2,NA,NA
+1985,Top,June_2023,Cleared,TC_4,Diclisreptans,6,NA,NA
+1985,Top,June_2023,Cleared,TC_4,Rhamnusprinoides,4,NA,NA
+1985,Top,June_2023,Cleared,TC_4,Myrsineafricana,50,NA,NA
+1985,Top,June_2023,Cleared,TC_4,Galiumsp,15,NA,NA
+1985,Top,June_2023,Cleared,TC_5,Myrsineafricana,50,Conyza sumatrensis,2
+1985,Top,June_2023,Cleared,TC_5,Cheilantheseckloniana,5,Oenothera rosea,3
+1985,Top,June_2023,Cleared,TC_5,Clutianatalensis,10,NA,NA
+1985,Top,June_2023,Cleared,TC_5,Rhamnusprinoides,4,NA,NA
+1985,Top,June_2023,Cleared,TC_5,Rubusludwigii,3,NA,NA
+1985,Top,June_2023,Cleared,TC_5,Cheilanthesquadripinnata,1,NA,NA
+1985,Top,June_2023,Cleared,TC_5,Salviarepens,12,NA,NA
+1985,Top,June_2023,Cleared,TC_5,Arctotisarctotoides,4,NA,NA
+1985,Top,June_2023,Cleared,TC_5,Gerberapiloselloides,6,NA,NA
+1985,Top,June_2023,Cleared,TC_5,Scabiosacolumbaria,1,NA,NA
+1985,Top,June_2023,Cleared,TC_5,Senecioinornatus,1,NA,NA
+1985,Top,June_2023,Cleared,TC_5,Galiumsp,3,NA,NA
+1985,Top,June_2023,Cleared,TC_5,Helichrysumappendiculatum,1,NA,NA
+1985,Top,June_2023,Cleared,TC_5,Jamesbritteniapristisepala,1,NA,NA
+1985,Top,June_2023,Cleared,TC_5,Diclisreptans,3,NA,NA
+1985,Top,June_2023,Cleared,TC_6,Rhamnusprinoides,6,Oenothera rosea,8
+1985,Top,June_2023,Cleared,TC_6,Asparagusasparagoides,10,NA,NA
+1985,Top,June_2023,Cleared,TC_6,Rubusludwigii,6,NA,NA
+1985,Top,June_2023,Cleared,TC_6,Cynoglossumhispidum,5,NA,NA
+1985,Top,June_2023,Cleared,TC_6,Berkheyamultijuga,1,NA,NA
+1985,Top,June_2023,Cleared,TC_6,Androcymbiumstriatum,3,NA,NA
+1985,Top,June_2023,Cleared,TC_6,Arctotisarctotoides,1,NA,NA
+1985,Top,June_2023,Cleared,TC_6,Diclisreptans,4,NA,NA
+1985,Top,June_2023,Cleared,TC_6,Searsiadentata,2,NA,NA
+1985,Top,June_2023,Cleared,TC_6,Salviarepens,9,NA,NA
+1985,Top,June_2023,Cleared,TC_6,Myrsineafricana,30,NA,NA
+1985,Top,June_2023,Uncleared,TU_1,Myrsineafricana,50,NA,NA
+1985,Top,June_2023,Uncleared,TU_1,Berkheyamultijuga,3,NA,NA
+1985,Top,June_2023,Uncleared,TU_1,Salviarepens,3,NA,NA
+1985,Top,June_2023,Uncleared,TU_1,Galiumsp,2,NA,NA
+1985,Top,June_2023,Uncleared,TU_1,Cynoglossumhispidum,2,NA,NA
+1985,Top,June_2023,Uncleared,TU_1,Cheilantheseckloniana,2,NA,NA
+1985,Top,June_2023,Uncleared,TU_2,Salviarepens,6,Oenothera rosea,3
+1985,Top,June_2023,Uncleared,TU_2,Gerberapiloselloides,6,NA,NA
+1985,Top,June_2023,Uncleared,TU_2,Myrsineafricana,50,NA,NA
+1985,Top,June_2023,Uncleared,TU_3,Myrsineafricana,50,Oenothera rosea,7
+1985,Top,June_2023,Uncleared,TU_3,Galiumsp,3,NA,NA
+1985,Top,June_2023,Uncleared,TU_3,Hermanniacoccocarpa,1,NA,NA
+1985,Top,June_2023,Uncleared,TU_3,Helichrysumcymosum,2,NA,NA
+1985,Top,June_2023,Uncleared,TU_3,Geraniumdrakensbergense,2,NA,NA
+1985,Top,June_2023,Uncleared,TU_4,Geraniumdrakensbergense,1,Oenothera rosea,2
+1985,Top,June_2023,Uncleared,TU_4,Cheilantheseckloniana,1,NA,NA
+1985,Top,June_2023,Uncleared,TU_4,Myrsineafricana,50,NA,NA
+1985,Top,June_2023,Uncleared,TU_4,Rubusludwigii,1,NA,NA
+1985,Top,June_2023,Uncleared,TU_4,Gerberapiloselloides,1,NA,NA
+1985,Top,June_2023,Uncleared,TU_4,Arctotisarctotoides,2,NA,NA
+1985,Top,June_2023,Uncleared,TU_4,Salviarepens,2,NA,NA
+1985,Top,June_2023,Uncleared,TU_4,Galiumsp,50,NA,NA
+1985,Top,June_2023,Uncleared,TU_5,Helichrysumcymosum,2,Oenothera rosea,1
+1985,Top,June_2023,Uncleared,TU_5,Clutianatalensis,2,NA,NA
+1985,Top,June_2023,Uncleared,TU_5,Cynoglossumhispidum,1,NA,NA
+1985,Top,June_2023,Uncleared,TU_5,Berkheyamultijuga,1,NA,NA
+1985,Top,June_2023,Uncleared,TU_5,Rhamnusprinoides,2,NA,NA
+1985,Top,June_2023,Uncleared,TU_5,Ajugaophrydis,1,NA,NA
+1985,Top,June_2023,Uncleared,TU_5,Myrsineafricana,50,NA,NA
+1985,Top,June_2023,Uncleared,TU_6,Myrsineafricana,50,Oenothera rosea,6
+1985,Top,June_2023,Uncleared,TU_6,Geraniumdrakensbergense,4,NA,NA
+1985,Top,June_2023,Uncleared,TU_6,Galiumsp,5,NA,NA
+1842,Middle,June_2023,Control,MK_1,Helichrysumcymosum,50,Nidorella podocephala,50
+1842,Middle,June_2023,Control,MK_1,Helichrysumodoratissimum,15,Oenothera rosea,50
+1842,Middle,June_2023,Control,MK_1,Crassuladependens,15,Plantago lanceolata,6
+1842,Middle,June_2023,Control,MK_1,Salviarepens,50,Verbena bonariensis,5
+1842,Middle,June_2023,Control,MK_1,Helichrysumrugulosum,50,Cirsium vulgare,1
+1842,Middle,June_2023,Control,MK_1,Haplocarphascaposa,5,NA,NA
+1842,Middle,June_2023,Control,MK_1,Galiumsp,50,NA,NA
+1842,Middle,June_2023,Control,MK_1,Hermanniadepressa,15,NA,NA
+1842,Middle,June_2023,Control,MK_1,Senecioisatideus,3,NA,NA
+1842,Middle,June_2023,Control,MK_1,Scabiosacolumbaria,1,NA,NA
+1842,Middle,June_2023,Control,MK_2,Helichrysumodoratissimum,2,Verbena bonariensis,50
+1842,Middle,June_2023,Control,MK_2,NA,NA,Plantago lanceolata,20
+1842,Middle,June_2023,Control,MK_2,NA,NA,Oenothera rosea,12
+1842,Middle,June_2023,Control,MK_2,NA,NA,Oxalis corniculata,50
+1842,Middle,June_2023,Control,MK_2,NA,NA,Taraxacum officinale,1
+1842,Middle,June_2023,Control,MK_3,Helichrysumcymosum,3,Rumex acetosella,1
+1842,Middle,June_2023,Control,MK_3,Helichrysumodoratissimum,1,Verbena bonariensis,8
+1842,Middle,June_2023,Control,MK_3,Senecioisatideus,1,Cirsium vulgare,2
+1842,Middle,June_2023,Control,MK_3,Salviarepens,1,Plantago lanceolata,27
+1842,Middle,June_2023,Control,MK_3,NA,NA,Nidorella podocephala,6
+1842,Middle,June_2023,Control,MK_3,NA,NA,Conyza sumatrensis,2
+1842,Middle,June_2023,Control,MK_3,NA,NA,Taraxacum officinale,5
+1842,Middle,June_2023,Control,MK_3,NA,NA,Oenothera rosea,9
+1842,Middle,June_2023,Control,MK_3,NA,NA,Xanthium spinosum,3
+1842,Middle,June_2023,Control,MK_4,NA,NA,Plantago lanceolata,50
+1842,Middle,June_2023,Control,MK_4,NA,NA,Verbena bonariensis,50
+1842,Middle,June_2023,Control,MK_4,NA,NA,Cirsium vulgare,7
+1842,Middle,June_2023,Control,MK_4,NA,NA,Hypochaeris radicata,1
+1842,Middle,June_2023,Control,MK_4,NA,NA,Oenothera rosea,30
+1842,Middle,June_2023,Control,MK_4,NA,NA,Trifolium repens,50
+1842,Middle,June_2023,Control,MK_5,Helichrysumnudifolium,25,Nidorella podocephala,50
+1842,Middle,June_2023,Control,MK_5,Helichrysumodoratissimum,6,Conyza sumatrensis,13
+1842,Middle,June_2023,Control,MK_5,Helichrysumcymosum,21,Oenothera rosea,50
+1842,Middle,June_2023,Control,MK_5,Arctotisarctotoides,50,Verbena bonariensis,3
+1842,Middle,June_2023,Control,MK_5,Feliciafilifolia,1,NA,NA
+1842,Middle,June_2023,Control,MK_5,Hermanniadepressa,50,NA,NA
+1842,Middle,June_2023,Control,MK_5,Crassuladependens,1,NA,NA
+1842,Middle,June_2023,Control,MK_5,Cynoglossumhispidum,1,NA,NA
+1842,Middle,June_2023,Control,MK_6,Helichrysumcymosum,4,Cirsium vulgare,5
+1842,Middle,June_2023,Control,MK_6,Helichrysumcallicomum,2,Oenothera rosea,5
+1842,Middle,June_2023,Control,MK_6,Helichrysumodoratissimum,2,Conyza sumatrensis,50
+1842,Middle,June_2023,Control,MK_6,Helichrysumnudifolium,2,NA,NA
+1842,Middle,June_2023,Control,MK_6,Feliciamuricata,50,NA,NA
+1842,Middle,June_2023,Control,MK_6,Arctotisarctotoides,40,NA,NA
+1842,Middle,June_2023,Control,MK_6,Diospyrosaustro-africana,1,NA,NA
+1842,Middle,June_2023,Cleared,MC_1,Myrsineafricana,4,Cirsium vulgare,11
+1842,Middle,June_2023,Cleared,MC_1,Cheilantheseckloniana,1,Conyza sumatrensis,4
+1842,Middle,June_2023,Cleared,MC_1,Helichrysumcymosum,5,Oenothera rosea,50
+1842,Middle,June_2023,Cleared,MC_1,Arctotisarctotoides,50,Plantago lanceolata,4
+1842,Middle,June_2023,Cleared,MC_1,Salviarepens,4,Trifolium repens,1
+1842,Middle,June_2023,Cleared,MC_1,Asparagusasparagoides,2,NA,NA
+1842,Middle,June_2023,Cleared,MC_1,Cynoglossumhispidum,4,NA,NA
+1842,Middle,June_2023,Cleared,MC_1,Buddlejasalviifolia,1,NA,NA
+1842,Middle,June_2023,Cleared,MC_1,Oxalisdepressa,1,NA,NA
+1842,Middle,June_2023,Cleared,MC_2,Myrsineafricana,5,Verbena bonariensis,50
+1842,Middle,June_2023,Cleared,MC_2,Senecioisatideus,1,Cirsium vulgare,4
+1842,Middle,June_2023,Cleared,MC_2,Helichrysumodoratissimum,1,Oxalis corniculata,50
+1842,Middle,June_2023,Cleared,MC_2,Cynoglossumhispidum,1,Oenothera rosea,7
+1842,Middle,June_2023,Cleared,MC_2,Cinerariadieterlenii,1,Plantago lanceolata,50
+1842,Middle,June_2023,Cleared,MC_2,Rorippanudiuscula,25,Taraxacum officinale,11
+1842,Middle,June_2023,Cleared,MC_2,NA,NA,Trifolium repens,50
+1842,Middle,June_2023,Cleared,MC_2,NA,NA,Hypochaeris radicata,1
+1842,Middle,June_2023,Cleared,MC_3,Cynoglossumhispidum,3,Cirsium vulgare,50
+1842,Middle,June_2023,Cleared,MC_3,Senecioisatideus,8,Plantago lanceolata,10
+1842,Middle,June_2023,Cleared,MC_3,Salviarepens,2,Oenothera rosea,14
+1842,Middle,June_2023,Cleared,MC_3,Myrsineafricana,1,Verbena bonariensis,1
+1842,Middle,June_2023,Cleared,MC_3,Helichrysumodoratissimum,2,Trifolium repens,50
+1842,Middle,June_2023,Cleared,MC_3,NA,NA,Conyza sumatrensis,3
+1842,Middle,June_2023,Cleared,MC_4,Cynoglossumhispidum,10,Cirsium vulgare,50
+1842,Middle,June_2023,Cleared,MC_4,Myrsineafricana,6,Conyza sumatrensis,2
+1842,Middle,June_2023,Cleared,MC_4,Helichrysumcymosum,2,Verbena bonariensis,7
+1842,Middle,June_2023,Cleared,MC_4,Helichrysumodoratissimum,4,Oenothera rosea,9
+1842,Middle,June_2023,Cleared,MC_4,Helichrysumnudifolium,3,Plantago lanceolata,20
+1842,Middle,June_2023,Cleared,MC_4,Galiumsp,50,Nidorella podocephala,10
+1842,Middle,June_2023,Cleared,MC_4,Asparagusasparagoides,4,NA,NA
+1842,Middle,June_2023,Cleared,MC_4,Buddlejasalviifolia,1,NA,NA
+1842,Middle,June_2023,Cleared,MC_4,Eucleacrispa,2,NA,NA
+1842,Middle,June_2023,Cleared,MC_4,Helichrysumappendiculatum,3,NA,NA
+1842,Middle,June_2023,Cleared,MC_4,Gomphocarpusfruticosus,1,NA,NA
+1842,Middle,June_2023,Cleared,MC_4,Cinerariadieterlenii,1,NA,NA
+1842,Middle,June_2023,Cleared,MC_5,Gomphocarpusfruticosus,1,Oenothera rosea,6
+1842,Middle,June_2023,Cleared,MC_5,Arctotisarctotoides,50,Nidorella podocephala,50
+1842,Middle,June_2023,Cleared,MC_5,Salviarepens,50,Taraxacum officinale,1
+1842,Middle,June_2023,Cleared,MC_5,Helichrysumcymosum,17,Cirsium vulgare,10
+1842,Middle,June_2023,Cleared,MC_5,Helichrysumodoratissimum,1,Plantago lanceolata,10
+1842,Middle,June_2023,Cleared,MC_5,Rorippanudiuscula,1,Hypochaeris radicata,1
+1842,Middle,June_2023,Cleared,MC_5,Helichrysumnudifolium,3,Verbena bonariensis,1
+1842,Middle,June_2023,Cleared,MC_5,Cynoglossumhispidum,2,NA,NA
+1842,Middle,June_2023,Cleared,MC_5,Seneciomacrocephalus,3,NA,NA
+1842,Middle,June_2023,Cleared,MC_5,Ericaaestiva,1,NA,NA
+1842,Middle,June_2023,Cleared,MC_5,Helichrysumrugulosum,50,NA,NA
+1842,Middle,June_2023,Cleared,MC_6,Senecioisatideus,50,Cirsium vulgare,3
+1842,Middle,June_2023,Cleared,MC_6,Salviarepens,50,Conyza sumatrensis,8
+1842,Middle,June_2023,Cleared,MC_6,Lasiosiphonkraussianus,2,NA,NA
+1842,Middle,June_2023,Cleared,MC_6,Helichrysumcymosum,3,NA,NA
+1842,Middle,June_2023,Cleared,MC_6,Helichrysumodoratissimum,2,NA,NA
+1842,Middle,June_2023,Cleared,MC_6,Cynoglossumhispidum,1,NA,NA
+1842,Middle,June_2023,Uncleared,MU_1,Cynoglossumhispidum,2,Plantago lanceolata,1
+1842,Middle,June_2023,Uncleared,MU_1,Salviarepens,7,Conyza sumatrensis,2
+1842,Middle,June_2023,Uncleared,MU_1,Oxalisdepressa,50,Oenothera rosea,1
+1842,Middle,June_2023,Uncleared,MU_1,Calpurniasericea,1,NA,NA
+1842,Middle,June_2023,Uncleared,MU_1,Eucleacrispa,2,NA,NA
+1842,Middle,June_2023,Uncleared,MU_2,Cynoglossumhispidum,10,Salvia tilifolia,11
+1842,Middle,June_2023,Uncleared,MU_2,Myrsineafricana,50,Oenothera rosea,5
+1842,Middle,June_2023,Uncleared,MU_2,Buddlejasalviifolia,8,Conyza sumatrensis,1
+1842,Middle,June_2023,Uncleared,MU_2,Helichrysumcymosum,2,Verbena bonariensis,1
+1842,Middle,June_2023,Uncleared,MU_2,Searsiadentata,7,NA,NA
+1842,Middle,June_2023,Uncleared,MU_2,Eucleacrispa,14,NA,NA
+1842,Middle,June_2023,Uncleared,MU_2,Cinerariadieterlenii,1,NA,NA
+1842,Middle,June_2023,Uncleared,MU_3,Myrsineafricana,50,Plantago lanceolata,5
+1842,Middle,June_2023,Uncleared,MU_3,Eucleacrispa,50,Oenothera rosea,5
+1842,Middle,June_2023,Uncleared,MU_3,Searsiadentata,3,Hypochaeris radicata,1
+1842,Middle,June_2023,Uncleared,MU_3,Rumexsagittatus,4,NA,NA
+1842,Middle,June_2023,Uncleared,MU_3,Cynoglossumhispidum,1,NA,NA
+1842,Middle,June_2023,Uncleared,MU_3,Arctotisarctotoides,1,NA,NA
+1842,Middle,June_2023,Uncleared,MU_4,Myrsineafricana,50,Plantago lanceolata,50
+1842,Middle,June_2023,Uncleared,MU_4,Eucleacrispa,50,Salvia tilifolia,2
+1842,Middle,June_2023,Uncleared,MU_4,Helichrysumappendiculatum,1,Cirsium vulgare,6
+1842,Middle,June_2023,Uncleared,MU_4,Searsiadentata,4,Trifolium repens,50
+1842,Middle,June_2023,Uncleared,MU_4,Rhamnusprinoides,1,Oenothera rosea,5
+1842,Middle,June_2023,Uncleared,MU_4,Helichrysummundtii,22,NA,NA
+1842,Middle,June_2023,Uncleared,MU_4,Artemisiaafra,1,NA,NA
+1842,Middle,June_2023,Uncleared,MU_4,Cynoglossumhispidum,3,NA,NA
+1842,Middle,June_2023,Uncleared,MU_4,Asparagusafricanus,1,NA,NA
+1842,Middle,June_2023,Uncleared,MU_4,Geraniumdrakensbergense,1,NA,NA
+1842,Middle,June_2023,Uncleared,MU_4,Galiumsp,50,NA,NA
+1842,Middle,June_2023,Uncleared,MU_5,Helichrysumnudifolium,50,Oenothera rosea,1
+1842,Middle,June_2023,Uncleared,MU_5,Helichrysumcymosum,3,Cirsium vulgare,1
+1842,Middle,June_2023,Uncleared,MU_5,Senecioisatideus,4,NA,NA
+1842,Middle,June_2023,Uncleared,MU_5,Helichrysumodoratissimum,1,NA,NA
+1842,Middle,June_2023,Uncleared,MU_5,Searsiadentata,3,NA,NA
+1842,Middle,June_2023,Uncleared,MU_5,Oxalisdepressa,50,NA,NA
+1842,Middle,June_2023,Uncleared,MU_5,Cynoglossumhispidum,2,NA,NA
+1842,Middle,June_2023,Uncleared,MU_5,Rhamnusprinoides,1,NA,NA
+1842,Middle,June_2023,Uncleared,MU_5,Asparagusasparagoides,1,NA,NA
+1842,Middle,June_2023,Uncleared,MU_5,Eucleacrispa,11,NA,NA
+1842,Middle,June_2023,Uncleared,MU_5,Diospyrosaustro-africana,1,NA,NA
+1842,Middle,June_2023,Uncleared,MU_5,Asparagusafricanus,1,NA,NA
+1842,Middle,June_2023,Uncleared,MU_6,Lasiosiphonkraussianus,3,NA,NA
+1842,Middle,June_2023,Uncleared,MU_6,Helichrysumcymosum,2,NA,NA
+1842,Middle,June_2023,Uncleared,MU_6,Cinerariadieterlenii,1,NA,NA
+1842,Middle,June_2023,Uncleared,MU_6,Oxalisdepressa,50,NA,NA
+1730,Low,June_2023,Control,LK_4,Helichrysumcymosum,5,Equisetum hyemale,50
+1730,Low,June_2023,Control,LK_4,NA,NA,Plantago lanceolata,6
+1730,Low,October_2023,Control,LK_4,Helichrysumodoratissimum,3,Hypochaeris radicata,50
+1730,Low,October_2023,Control,LK_4,Cynoglossumhispidum,1,Plantago lanceolata,60
+1730,Low,October_2023,Control,LK_4,Helichrysumcymosum,4,Oenothera rosea,50
+1730,Low,October_2023,Control,LK_4,Lotononislaxa,1,Cirsium vulgare,1
+1730,Low,October_2023,Control,LK_4,NA,NA,Lactuca serriola,1
+1730,Low,October_2022,Control,LK_5,NA,NA,Equisetum hyemale,50
+1730,Low,October_2022,Control,LK_5,NA,NA,Hypochaeris radicata,50
+1730,Low,October_2022,Control,LK_5,NA,NA,Oenethera rosea,2
+1730,Low,October_2022,Control,LK_5,Helichrysumodoratissimum,2,Plantago lanceolata,50
+1730,Low,October_2022,Control,LK_5,NA,NA,Taraxacum officinale,50
+1730,Low,October_2022,Control,LK_5,Asparagusafricanus,1,Trifolium repens,50
+1730,Low,October_2022,Control,LK_5,Ranunculusmultifidus,2,Verbena bonariensis,2
+1730,Low,December_2022,Control,LK_5,Rumexlanceolatus,12,Plantago lanceolata,50
+1730,Low,December_2022,Control,LK_5,Cleomegynandra,1,Trifolium repens,50
+1730,Low,December_2022,Control,LK_5,Coniumcffontanum,50,Taraxacum officinale,50
+1730,Low,December_2022,Control,LK_5,Ranunculusmultifidus,2,Conyza sumatrensis,1
+1730,Low,December_2022,Control,LK_5,Helichrysumaureonitens,1,Oenothera rosea,2
+1730,Low,December_2022,Control,LK_5,Cyperusesculentus,50,Nidorella podocephala,50
+1730,Low,December_2022,Control,LK_5,NA,NA,Nidorella podocephala,50
+1730,Low,March_2023,Control,LK_5,Rumexlanceolatus,6,Trifoliumrepens,50
+1730,Low,March_2023,Control,LK_5,Melilotusalbus,1,Plantagolanceolata,50
+1730,Low,March_2023,Control,LK_5,NA,NA,Taraxacumofficinale,50
+1730,Low,March_2023,Control,LK_5,NA,NA,Equisetumhyemale,50
+1730,Low,December_2022,Cleared,LC_5,Berkheyadiscolor,2,Oenothera rosea,1
+1730,Low,December_2022,Cleared,LC_5,Rhoicissuscftridentata,50,Taraxacum officinale,50
+1730,Low,December_2022,Cleared,LC_5,Cleomegynandra,12,NA,NA
+1730,Low,December_2022,Cleared,LC_5,Delospermalavisiae,1,NA,NA
+1730,Low,December_2022,Cleared,LC_5,Feliciamuricata,1,NA,NA
+1730,Low,December_2022,Cleared,LC_5,Carexzuluensis,8,NA,NA
+1730,Low,March_2023,Cleared,LC_5,Searsiadentata,6,Trifoliumrepens,50
+1730,Low,March_2023,Cleared,LC_5,Artemisiaafra,3,Xanthiumstrumarium,1
+1730,Low,March_2023,Cleared,LC_5,Melilotusalbus,24,Tagetesminuta,7
+1730,Low,March_2023,Cleared,LC_5,Fabaceaeyellowflowers,1,Plantagolanceolata,50
+1730,Low,March_2023,Cleared,LC_5,Seneciomacrocephalus,1,Taraxacumofficinale,50
+1730,Low,March_2023,Cleared,LC_5,Helichrysumtenax,1,Robiniapseudoacacia,1
+1730,Low,March_2023,Cleared,LC_5,Feliciamuricata,1,Conyzasumatrensis,2
+1730,Low,March_2023,Cleared,LC_5,Crassuladependens,1,Cirsiumvulgare,6
+1730,Low,March_2023,Cleared,LC_5,Cyperus,50,Bidenspilosa,6
+1730,Low,March_2023,Cleared,LC_5,Berkheyadiscolor,1,Bidensbipinnata,7
+1730,Low,March_2023,Cleared,LC_5,NA,NA,Equisetumhyemale,50
+1730,Low,March_2023,Cleared,LC_5,NA,NA,Hypochaerisradicata,50
+1730,Low,June_2023,Cleared,LC_5,Artemisiaafra,3,Trifolium repens,50
+1730,Low,June_2023,Cleared,LC_5,Berkheyapinnatifida,2,Plantago lanceolata,50
+1730,Low,June_2023,Cleared,LC_5,Feliciafilifolia,1,Cirsium vulgare,12
+1730,Low,June_2023,Cleared,LC_5,Eucleacrispa,1,Oenothera rosea,50
+1730,Low,June_2023,Cleared,LC_5,NA,NA,Hypochaeris radicata,6
+1730,Low,October_2023,Cleared,LC_5,Gazaniakrebsiana,5,Plantago lanceolata,50
+1730,Low,October_2023,Cleared,LC_5,Artemisiaafra,2,Trifolium repens,50
+1730,Low,October_2023,Cleared,LC_5,Helichrysumodoratissimum,1,Cirsium vulgare,9
+1730,Low,October_2023,Cleared,LC_5,Searsiadentata,5,Hypochaeris radicata,50
+1730,Low,October_2023,Cleared,LC_5,NA,NA,Oenothera rosea,2
+1730,Low,October_2023,Cleared,LC_5,NA,NA,Equisetum hyemale,50
+1730,Low,October_2022,Cleared,LC_6,Helichrysumodoratissimum,5,Conyza sumatrensis,15
+1730,Low,October_2022,Cleared,LC_6,Searsiadentata,30,Hypochaeris radicata,3
+1730,Low,October_2022,Cleared,LC_6,Gazaniakrebsiana,6,NA,NA
+1730,Low,December_2022,Cleared,LC_6,Helichrysumsplendidum,1,Conyza sumatrensis,9
+1730,Low,December_2022,Cleared,LC_6,Helichrysumaureonitens,1,Taraxacum spp1,3
+1730,Low,December_2022,Cleared,LC_6,Bidensbipinnata,50,Medicago polymorpha,1
+1730,Low,March_2023,Uncleared,LU_4,NA,NA,Conyzasumatrensis,7
+1730,Low,June_2023,Uncleared,LU_4,NA,NA,Plantago lanceolata,50
+1730,Low,June_2023,Uncleared,LU_4,NA,NA,Oenothera rosea,50
+1730,Low,June_2023,Uncleared,LU_4,NA,NA,Cirsium vulgare,1
+1730,Low,October_2023,Uncleared,LU_4,Ranunculusmultifidus,1,Oenothera rosea,50
+1730,Low,October_2023,Uncleared,LU_4,Cynoglossumhispidum,1,Plantago lanceolata,50
+1730,Low,October_2023,Uncleared,LU_4,Helichrysumodoratissimum,1,Hypochaeris radicata,50
+1730,Low,October_2023,Uncleared,LU_4,NA,NA,Conyza sumatrensis,4
+1730,Low,October_2022,Uncleared,LU_5,Gazaniakrebsiana,4,Hypochaeris radicata,8
+1730,Low,October_2022,Uncleared,LU_5,NA,NA,Oenothera rosea,50
+1730,Low,October_2022,Uncleared,LU_5,Salviarepens,3,Taraxacum officinale,5
+1730,Low,October_2022,Uncleared,LU_5,Plantagolanceolata,20,Trifolium repens,50
+1730,Low,December_2022,Uncleared,LU_5,Artemisiaafra,2,Trifolium repens,50
+1730,Low,December_2022,Uncleared,LU_5,NA,NA,Hypochaeris radicata,50
+1730,Low,December_2022,Uncleared,LU_5,NA,NA,Oenothera rosea,1
+1730,Low,December_2022,Uncleared,LU_5,NA,NA,Plantago lanceolata,50
+1730,Low,March_2023,Uncleared,LU_5,Eucleacrispa,1,Trifoliumrepens,50
+1730,Low,March_2023,Uncleared,LU_5,Zantedeschiaalbomaculata,1,Hypochaerisradicata,15
+1730,Low,March_2023,Uncleared,LU_5,Artemisiaafra,1,Plantagolanceolata,2
+1730,Low,March_2023,Uncleared,LU_5,Fabaceaeyellowflowers,2,Conyzasumatrensis,1
+1730,Low,March_2023,Uncleared,LU_5,Gomphocarpusfruticosus,1,Bidensbipinnata,3
+1842,Middle,October_2023,Uncleared,MU_1,Cynoglossumhispidum,1,Plantago lanceolata,1
+1842,Middle,October_2023,Uncleared,MU_1,Diospyrosrubriflora,19,NA,NA
+1842,Middle,October_2023,Uncleared,MU_1,Salviarepens,2,NA,NA
+1842,Middle,October_2023,Uncleared,MU_1,Eucleacrispa,4,NA,NA
+1842,Middle,October_2023,Uncleared,MU_1,Myrsineafricana,2,NA,NA
+1842,Middle,October_2023,Uncleared,MU_2,Buddlejasalviifolia,5,Lactuca serriola,1
+1842,Middle,October_2023,Uncleared,MU_2,Myrsineafricana,50,Conyza sumatrensis,2
+1842,Middle,October_2023,Uncleared,MU_2,Eucleacrispa,50,Verbena bonariensis,2
+1842,Middle,October_2023,Uncleared,MU_2,Salviarepens,1,NA,NA
+1842,Middle,October_2023,Uncleared,MU_2,Searsiadentata,4,NA,NA
+1842,Middle,October_2023,Uncleared,MU_2,Asparagusasparagoides,1,NA,NA
+1842,Middle,October_2023,Uncleared,MU_2,Diclisreptans,3,NA,NA
+1842,Middle,October_2023,Uncleared,MU_2,Cynoglossumhispidum,3,NA,NA
+1842,Middle,October_2023,Uncleared,MU_2,Cheilanthesquadripinnata,1,NA,NA
+1842,Middle,October_2023,Uncleared,MU_3,Myrsineafricana,50,Plantago lanceolata,50
+1842,Middle,October_2023,Uncleared,MU_3,Buddlejasalviifolia,1,Cirsium vulgare,50
+1842,Middle,October_2023,Uncleared,MU_3,Diclisreptans,25,Salvia tilifolia,18
+1842,Middle,October_2023,Uncleared,MU_3,Eucleacrispa,50,Oenothera rosea,7
+1842,Middle,October_2023,Uncleared,MU_3,Helichrysumodoratissimum,1,Lactuca serriola,1
+1842,Middle,October_2023,Uncleared,MU_3,Searsiadentata,1,Trifolium repens,50
+1842,Middle,October_2023,Uncleared,MU_3,NA,NA,Taraxacum officinale,1
+1842,Middle,October_2023,Uncleared,MU_3,NA,NA,Verbena bonariensis,1
+1842,Middle,October_2023,Uncleared,MU_3,NA,NA,Xanthium spinosum,3
+1842,Middle,October_2023,Uncleared,MU_4,Eucleacrispa,50,Plantago lanceolata,50
+1842,Middle,October_2023,Uncleared,MU_4,Myrsineafricana,50,Trifolium repens,50
+1842,Middle,October_2023,Uncleared,MU_4,Helichrysummundtii,3,Verbena bonariensis,50
+1842,Middle,October_2023,Uncleared,MU_4,Cynoglossumhispidum,1,Salvia tilifolia,5
+1842,Middle,October_2023,Uncleared,MU_4,Searsiadentata,6,Cirsium vulgare,2
+1842,Middle,October_2023,Uncleared,MU_4,Clematisbrachiata,1,NA,NA
+1842,Middle,October_2023,Uncleared,MU_4,Diospyrosaustro-africana,1,NA,NA
+1842,Middle,October_2023,Uncleared,MU_4,Helichrysumcymosum,1,NA,NA
+1842,Middle,October_2023,Uncleared,MU_5,Helichrysumcymosum,8,Conyza sumatrensis,1
+1842,Middle,October_2023,Uncleared,MU_5,Helichrysumodoratissimum,1,Oenothera rosea,2
+1842,Middle,October_2023,Uncleared,MU_5,Helichrysumnudifolium,50,Amaranthus hybridus,1
+1842,Middle,October_2023,Uncleared,MU_5,Diospyrosaustro-africana,2,NA,NA
+1842,Middle,October_2023,Uncleared,MU_5,Eucleacrispa,14,NA,NA
+1842,Middle,October_2023,Uncleared,MU_5,Asparagusafricanus,1,NA,NA
+1842,Middle,October_2023,Uncleared,MU_5,Myrsineafricana,50,NA,NA
+1842,Middle,October_2023,Uncleared,MU_5,Cynoglossumhispidum,3,NA,NA
+1842,Middle,October_2023,Uncleared,MU_5,Artemisiaafra,1,NA,NA
+1842,Middle,October_2023,Uncleared,MU_5,Helichrysumrugulosum,3,NA,NA
+1842,Middle,October_2023,Uncleared,MU_6,Helichrysumcymosum,1,NA,NA
+1842,Middle,October_2023,Uncleared,MU_6,Diclisreptans,1,NA,NA
+1842,Middle,October_2023,Uncleared,MU_6,Myrsineafricana,1,NA,NA
+1842,Middle,October_2023,Cleared,MC_1,Helichrysumcymosum,5,Cirsium vulgare,50
+1842,Middle,October_2023,Cleared,MC_1,Diospyrosaustro-africana,9,Oenothera rosea,15
+1842,Middle,October_2023,Cleared,MC_1,Myrsineafricana,1,Verbena bonariensis,50
+1842,Middle,October_2023,Cleared,MC_1,Cheilantheseckloniana,1,Conyza sumatrensis,50
+1842,Middle,October_2023,Cleared,MC_1,Helichrysumodoratissimum,9,Lactuca serriola,1
+1842,Middle,October_2023,Cleared,MC_1,Arctotisarctotoides,20,Sonchus asper,3
+1842,Middle,October_2023,Cleared,MC_1,Salviarepens,10,Taraxacum officinale,2
+1842,Middle,October_2023,Cleared,MC_1,Helichrysumnudifolium,2,NA,NA
+1842,Middle,October_2023,Cleared,MC_1,Cynoglossumhispidum,5,NA,NA
+1842,Middle,October_2023,Cleared,MC_2,Helichrysumodoratissimum,2,Oenothera rosea,6
+1842,Middle,October_2023,Cleared,MC_2,Diospyrosaustro-africana,2,Cirsium vulgare,5
+1842,Middle,October_2023,Cleared,MC_2,Pelargoniumalchemilloides,1,Trifolium repens,50
+1842,Middle,October_2023,Cleared,MC_2,Myrsineafricana,1,Plantago lanceolata,50
+1842,Middle,October_2023,Cleared,MC_2,Cynoglossumhispidum,2,Lactuca serriola,1
+1842,Middle,October_2023,Cleared,MC_2,Helichrysumnudifolium,1,NA,NA
+1842,Middle,October_2023,Cleared,MC_2,Stachyshyssopoides,1,NA,NA
+1842,Middle,October_2023,Cleared,MC_3,Helichrysumodoratissimum,10,Plantago lanceolata,50
+1842,Middle,October_2023,Cleared,MC_3,Salviarepens,50,Cirsium vulgare,50
+1842,Middle,October_2023,Cleared,MC_3,Cynoglossumhispidum,20,Salvia tilifolia,18
+1842,Middle,October_2023,Cleared,MC_3,Eucleacrispa,3,Oenothera rosea,7
+1842,Middle,October_2023,Cleared,MC_3,Searsiadentata,1,Lactuca serriola,1
+1842,Middle,October_2023,Cleared,MC_3,NA,NA,Trifolium repens,50
+1842,Middle,October_2023,Cleared,MC_3,NA,NA,Taraxacum officinale,1
+1842,Middle,October_2023,Cleared,MC_3,NA,NA,Verbena bonariensis,1
+1842,Middle,October_2023,Cleared,MC_3,NA,NA,Xanthium spinosum,3
+1842,Middle,October_2023,Cleared,MC_4,Helichrysumcymosum,2,Cirsium vulgare,16
+1842,Middle,October_2023,Cleared,MC_4,Buddlejasalviifolia,1,Verbena bonariensis,50
+1842,Middle,October_2023,Cleared,MC_4,Cynoglossumhispidum,5,Oxalis corniculata,6
+1842,Middle,October_2023,Cleared,MC_4,Helichrysumodoratissimum,7,Conyza sumatrensis,1
+1842,Middle,October_2023,Cleared,MC_4,Cinerariadieterlenii,2,Plantago lanceolata,50
+1842,Middle,October_2023,Cleared,MC_4,Salviarepens,16,Taraxacum officinale,2
+1842,Middle,October_2023,Cleared,MC_4,Myrsineafricana,3,Oenothera rosea,9
+1842,Middle,October_2023,Cleared,MC_4,Helichrysumnudifolium,1,NA,NA
+1842,Middle,October_2023,Cleared,MC_4,Diospyrosaustro-africana,1,NA,NA
+1842,Middle,October_2023,Cleared,MC_4,Stachyshyssopoides,1,NA,NA
+1842,Middle,October_2023,Cleared,MC_5,Salviarepens,50,Cirsium vulgare,50
+1842,Middle,October_2023,Cleared,MC_5,Arctotisarctotoides,50,Oenothera rosea,1
+1842,Middle,October_2023,Cleared,MC_5,Helichrysumcymosum,15,Taraxacum officinale,2
+1842,Middle,October_2023,Cleared,MC_5,Cynoglossumhispidum,3,Verbena bonariensis,50
+1842,Middle,October_2023,Cleared,MC_5,Helichrysumodoratissimum,2,Conyza sumatrensis,1
+1842,Middle,October_2023,Cleared,MC_5,Helichrysumnudifolium,2,Hypochaeris radicata,2
+1842,Middle,October_2023,Cleared,MC_5,Seneciomacrocephalus,4,Oxalis corniculata,2
+1842,Middle,October_2023,Cleared,MC_5,Helichrysumrugulosum,20,NA,NA
+1842,Middle,October_2023,Cleared,MC_6,Helichrysumodoratissimum,2,Cirsium vulgare,3
+1842,Middle,October_2023,Cleared,MC_6,Salviarepens,50,Conyza sumatrensis,8
+1842,Middle,October_2023,Cleared,MC_6,Senecioisatideus,50,Taraxacum officinale,2
+1842,Middle,October_2023,Cleared,MC_6,Cynoglossumhispidum,2,NA,NA
+1842,Middle,October_2023,Cleared,MC_6,Helichrysumcymosum,2,NA,NA
+1842,Middle,October_2023,Cleared,MC_6,Lasiosiphonkraussianus,2,NA,NA
+1842,Middle,October_2023,Cleared,MC_6,Cinerariadieterlenii,1,NA,NA
+1842,Middle,October_2023,Control,MK_1,Helichrysumcymosum,50,Oenothera rosea,50
+1842,Middle,October_2023,Control,MK_1,Helichrysumodoratissimum,10,Plantago lanceolata,4
+1842,Middle,October_2023,Control,MK_1,Hermanniadepressa,7,Verbena bonariensis,50
+1842,Middle,October_2023,Control,MK_1,Helichrysumnudifolium,1,Conyza sumatrensis,4
+1842,Middle,October_2023,Control,MK_1,Helichrysumrugulosum,1,NA,NA
+1842,Middle,October_2023,Control,MK_1,Galiumspurium,10,NA,NA
+1842,Middle,October_2023,Control,MK_1,Salviarepens,50,NA,NA
+1842,Middle,October_2023,Control,MK_2,Diospyrosaustro-africana,1,Verbena bonariensis,50
+1842,Middle,October_2023,Control,MK_2,Stachyshyssopoides,2,Oenothera rosea,50
+1842,Middle,October_2023,Control,MK_2,NA,NA,Plantago lanceolata,3
+1842,Middle,October_2023,Control,MK_2,NA,NA,Trifolium repens,50
+1842,Middle,October_2023,Control,MK_3,Helichrysumcymosum,2,Plantago lanceolata,50
+1842,Middle,October_2023,Control,MK_3,Helichrysumodoratissimum,3,Cirsium vulgare,2
+1842,Middle,October_2023,Control,MK_3,Cynoglossumhispidum,1,Verbena bonariensis,50
+1842,Middle,October_2023,Control,MK_3,Diclisreptans,3,Oenothera rosea,1
+1842,Middle,October_2023,Control,MK_4,NA,NA,Plantago lanceolata,50
+1842,Middle,October_2023,Control,MK_4,NA,NA,Lactuca serriola,3
+1842,Middle,October_2023,Control,MK_4,NA,NA,Trifolium repens,50
+1842,Middle,October_2023,Control,MK_4,NA,NA,Oenothera rosea,50
+1842,Middle,October_2023,Control,MK_4,NA,NA,Cirsium vulgare,3
+1842,Middle,October_2023,Control,MK_4,NA,NA,Taraxacum officinale,1
+1842,Middle,October_2023,Control,MK_4,NA,NA,Verbena bonariensis,2
+1842,Middle,October_2023,Control,MK_5,Helichrysumnudifolium,24,Conyza sumatrensis,50
+1842,Middle,October_2023,Control,MK_5,Helichrysumodoratissimum,3,Hypochaeris radicata,4
+1842,Middle,October_2023,Control,MK_5,Helichrysumcymosum,18,Verbena bonariensis,50
+1842,Middle,October_2023,Control,MK_5,Feliciafilifolia,1,Cirsium vulgare,2
+1842,Middle,October_2023,Control,MK_5,Arctotisarctotoides,1,Plantago lanceolata,1
+1842,Middle,October_2023,Control,MK_5,Cynoglossumhispidum,10,NA,NA
+1842,Middle,October_2023,Control,MK_5,Euphobiastriata,2,NA,NA
+1842,Middle,October_2023,Control,MK_5,Hermanniadepressa,5,NA,NA
+1842,Middle,October_2023,Control,MK_5,Stachyshyssopoides,5,NA,NA
+1842,Middle,October_2023,Control,MK_5,Crassuladependens,1,NA,NA
+1842,Middle,October_2023,Control,MK_6,Helichrysumcymosum,3,Conyza sumatrensis,50
+1842,Middle,October_2023,Control,MK_6,Helichrysumnudifolium,4,Hypochaeris radicata,4
+1842,Middle,October_2023,Control,MK_6,Cynoglossumhispidum,1,Verbena bonariensis,50
+1842,Middle,October_2023,Control,MK_6,Feliciamuricata,50,Cirsium vulgare,2
+1842,Middle,October_2023,Control,MK_6,Stachyshyssopoides,50,Plantago lanceolata,1
+1842,Middle,October_2023,Control,MK_6,Arctotisarctotoides,22,NA,NA
+1842,Middle,October_2023,Control,MK_6,Helichrysumodoratissimum,1,NA,NA
+1730,Low,March_2023,Uncleared,LU_5,Agrimoniaprocera,1,Bidenspilosa,3
+1730,Low,June_2023,Uncleared,LU_5,Eucleacrispa,1,Trifolium repens,50
+1730,Low,June_2023,Uncleared,LU_5,NA,NA,Hypochaeris radicata,10
+1730,Low,October_2023,Uncleared,LU_5,NA,NA,Trifolium repens,50
+1730,Low,October_2023,Uncleared,LU_5,NA,NA,Hypochaeris radicata,50
+1730,Low,October_2023,Uncleared,LU_5,NA,NA,Plantago lanceolata,50
+1730,Low,October_2023,Uncleared,LU_5,NA,NA,Taraxacum officinale,2
+1730,Low,October_2023,Uncleared,LU_5,NA,NA,Sonchus asper,2
+1730,Low,October_2022,Uncleared,LU_6,Helichrysumodoratissimum,2,Oenethera rosea,5
+1730,Low,October_2022,Uncleared,LU_6,NA,NA,NA,NA
+1730,Low,October_2022,Uncleared,LU_6,NA,NA,NA,NA
+1730,Low,December_2022,Uncleared,LU_6,Artemisiaafra,2,Oenothera rosea,50
+1730,Low,December_2022,Uncleared,LU_6,Rumexsagittatus,2,Oenothera tetraptera,2
+1730,Low,December_2022,Uncleared,LU_6,Cinerariadieterlenii,1,NA,NA
+1730,Low,December_2022,Uncleared,LU_6,Rubusludwigii,3,NA,NA
+1730,Low,December_2022,Uncleared,LU_6,Helichrysumrugulosum,2,NA,NA
+1730,Low,March_2023,Uncleared,LU_6,Rumexsagittatus,1,Verbenarigida,1
+1730,Low,March_2023,Uncleared,LU_6,Helichrysumcymosum,1,Oenotherarosea,3
+1730,Low,March_2023,Uncleared,LU_6,Solanumretroflexum,1,Conyzasumatrensis,2
+1730,Low,March_2023,Uncleared,LU_6,Helimultipleinflo,1,Tagetesminuta,5
+1730,Low,March_2023,Uncleared,LU_6,Helichrysumrugulosum,1,Bidensbipinnata,4
+1730,Low,March_2023,Uncleared,LU_6,Artemisiaafra,1,NA,NA
+1730,Low,March_2023,Uncleared,LU_6,Rubusludwigii,1,NA,NA
+1730,Low,June_2023,Uncleared,LU_6,Rubusludwigii,1,Oenothera rosea,6
+1730,Low,June_2023,Uncleared,LU_6,Helichrysumcymosum,2,NA,NA
+1730,Low,October_2023,Uncleared,LU_6,Helichrysumcymosum,2,Oenothera rosea,8
+1730,Low,October_2023,Uncleared,LU_6,Helichrysumrugulosum,5,Conyza sumatrensis,1
+1730,Low,October_2023,Uncleared,LU_6,Artemisiaafra,2,Cirsium vulgare,1
+1730,Low,October_2023,Uncleared,LU_6,Helichrysumodoratissimum,1,NA,NA
+1730,Low,October_2023,Uncleared,LU_6,Ranunculusmultifidus,1,NA,NA
+1730,Low,December_2022,Cleared,LC_6,Bulbostylissp,4,Nidorella podocephala,50
+1730,Low,December_2022,Cleared,LC_6,Asclepiasstellifera,1,Gleditsia triacanthos,2
+1730,Low,December_2022,Cleared,LC_6,Berkheyadiscolor,4,Hypochaeris radicata,10
+1730,Low,December_2022,Cleared,LC_6,Searsiadiscolor,1,NA,NA
+1730,Low,December_2022,Cleared,LC_6,Rhoicissuscftridentata,1,NA,NA
+1730,Low,December_2022,Cleared,LC_6,Helichrysumnudifolium,3,NA,NA
+1730,Low,December_2022,Cleared,LC_6,Carexzuluensis,1,NA,NA
+1730,Low,December_2022,Cleared,LC_6,Cynoglossumhispidum,4,NA,NA
+1730,Low,December_2022,Cleared,LC_6,Searsiadentata,2,NA,NA
+1730,Low,December_2022,Cleared,LC_6,Diospyrosrubriflora,1,NA,NA
+1730,Low,December_2022,Cleared,LC_6,Gazaniakrebsiana,11,NA,NA
+1730,Low,December_2022,Cleared,LC_6,Cyperusesculentus,50,NA,NA
+1730,Low,December_2022,Cleared,LC_6,Helichrysumrugulosum,4,NA,NA
+1730,Low,December_2022,Cleared,LC_6,Cinerariadieterlenii,2,NA,NA
+1730,Low,December_2022,Cleared,LC_6,Commelinaafricana,5,NA,NA
+1730,Low,March_2023,Cleared,LC_6,Gomphocarpusfruticosus,29,Cirsiumvulgare,7
+1730,Low,March_2023,Cleared,LC_6,Helichrysumcallicomum,2,Conyzasumatrensis,24
+1730,Low,March_2023,Cleared,LC_6,Helichrysumrugulosum,2,Bidenspilosa,2
+1730,Low,March_2023,Cleared,LC_6,Feliciamuricata,13,Bidensbipinnata,22
+1730,Low,March_2023,Cleared,LC_6,Cyperus,50,Hypochaerisradicata,10
+1730,Low,March_2023,Cleared,LC_6,Helichrysumnudifolium,2,Medicagopolymorpha,1
+1730,Low,March_2023,Cleared,LC_6,Searsiadentata,1,Plantagolanceolata,1
+1730,Low,March_2023,Cleared,LC_6,Cynoglossumhispidum,4,Xanthiumstrumarium,1
+1730,Low,March_2023,Cleared,LC_6,Gazaniakrebsiana,1,NA,NA
+1730,Low,March_2023,Cleared,LC_6,Rumexsagittatus,3,NA,NA
+1730,Low,March_2023,Cleared,LC_6,Feliciawhiteflowers,1,NA,NA
+1730,Low,March_2023,Cleared,LC_6,Solanumretroflexum,1,NA,NA
+1730,Low,March_2023,Cleared,LC_6,Commelinaafricana,3,NA,NA
+1730,Low,March_2023,Cleared,LC_6,Helichrysumcymosum,7,NA,NA
+1730,Low,March_2023,Cleared,LC_6,Fabaceaeyellowflowers,1,NA,NA
+1730,Low,June_2023,Cleared,LC_6,Gomphocarpusfruticosus,18,Hypochaeris radicata,50
+1730,Low,June_2023,Cleared,LC_6,Helichrysumnudifolium,2,Conyza sumatrensis,30
+1730,Low,June_2023,Cleared,LC_6,Helichrysumcymosum,2,Cirsium vulgare,15
+1730,Low,June_2023,Cleared,LC_6,Helichrysumcallicomum,1,Plantago lanceolata,1
+1730,Low,June_2023,Cleared,LC_6,Seneciomacrocephalus,1,Agrimonia procera,1
+1730,Low,June_2023,Cleared,LC_6,Helichrysumcooperi,2,Nidorella podocephala,5
+1730,Low,October_2023,Cleared,LC_6,Gomphocarpusfruticosus,38,Conyza sumatrensis,50
+1730,Low,October_2023,Cleared,LC_6,Helichrysumodoratissimum,4,Hypochaeris radicata,50
+1730,Low,October_2023,Cleared,LC_6,Cynoglossumhispidum,9,Sonchus asper,1
+1730,Low,October_2023,Cleared,LC_6,Cinerariadieterlenii,3,Lactuca serriola,2
+1730,Low,October_2023,Cleared,LC_6,Diospyrosaustro-africana,1,Taraxacum officinale,2
+1730,Low,October_2023,Cleared,LC_6,Gazaniakrebsiana,1,Cirsium vulgare,17
+1730,Low,October_2023,Cleared,LC_6,Feliciamuricata,2,Oenothera rosea,4
+1730,Low,October_2023,Cleared,LC_6,Anthospermumherbaceum,1,Plantago lanceolata,3
+1730,Low,October_2023,Cleared,LC_6,Seneciomacrocephalus,1,Medicago polymorpha,3
+1730,Low,October_2023,Cleared,LC_6,NA,NA,Verbena bonariensis,23
+1730,Low,June_2023,Control,LK_5,NA,NA,Trifolium repens,50
+1730,Low,June_2023,Control,LK_5,NA,NA,Plantago lanceolata,50
+1730,Low,June_2023,Control,LK_5,NA,NA,Taraxacum officinale,50
+1730,Low,October_2023,Control,LK_5,NA,NA,Hypochaeris radicata,50
+1730,Low,October_2023,Control,LK_5,NA,NA,Trifolium repens,50
+1730,Low,October_2023,Control,LK_5,NA,NA,Plantago lanceolata,50
+1730,Low,October_2022,Control,LK_6,NA,NA,Equisetum hyemale,50
+1730,Low,October_2022,Control,LK_6,NA,NA,Hypochaeris radicata,4
+1730,Low,October_2022,Control,LK_6,Rorippanudiuscula,1,Plantago lanceolata,50
+1730,Low,October_2022,Control,LK_6,NA,NA,Taraxacum officinale,4
+1730,Low,October_2022,Control,LK_6,NA,NA,Trifolium repens,50
+1730,Low,December_2022,Control,LK_6,NA,NA,Plantago lanceolata,50
+1730,Low,December_2022,Control,LK_6,NA,NA,Trifolium repens,50
+1730,Low,December_2022,Control,LK_6,NA,NA,Taraxacum officinale,50
+1730,Low,December_2022,Control,LK_6,NA,NA,Equisetum hyemale,50
+1730,Low,March_2023,Control,LK_6,Melilotusalbus,1,Equisetumhyemale,50
+1730,Low,March_2023,Control,LK_6,NA,NA,Plantagolanceolata,50
+1730,Low,March_2023,Control,LK_6,NA,NA,Trifoliumrepens,50
+1730,Low,March_2023,Control,LK_6,NA,NA,Taraxacumofficinale,50
+1730,Low,June_2023,Control,LK_6,NA,NA,Trifolium repens,50
+1730,Low,June_2023,Control,LK_6,NA,NA,Plantago lanceolata,50
+1730,Low,June_2023,Control,LK_6,NA,NA,Taraxacum officinale,50
+1730,Low,October_2023,Control,LK_6,NA,NA,Plantago lanceolata,50
+1730,Low,October_2023,Control,LK_6,NA,NA,Trifolium repens,50
+1985,Top,October_2023,Uncleared,TU_1,Berkheyafilifolia,1,NA,NA
+1985,Top,October_2023,Uncleared,TU_1,Myrsineafricana,50,NA,NA
+1985,Top,October_2023,Uncleared,TU_2,Myrsineafricana,50,NA,NA
+1985,Top,October_2023,Uncleared,TU_2,Helichrysumcymosum,1,NA,NA
+1985,Top,October_2023,Uncleared,TU_2,Gerberapiloselloides,3,NA,NA
+1985,Top,October_2023,Uncleared,TU_2,Rhamnusprinoides,2,NA,NA
+1985,Top,October_2023,Uncleared,TU_2,Diospyrosaustro-africana,1,NA,NA
+1985,Top,October_2023,Uncleared,TU_3,Myrsineafricana,50,NA,NA
+1985,Top,October_2023,Uncleared,TU_3,Rhamnusprinoides,7,NA,NA
+1985,Top,October_2023,Uncleared,TU_4,Myrsineafricana,50,NA,NA
+1985,Top,October_2023,Uncleared,TU_4,Rubusludwigii,1,NA,NA
+1985,Top,October_2023,Uncleared,TU_5,Myrsineafricana,50,NA,NA
+1985,Top,October_2023,Uncleared,TU_5,Diospyrosaustro-africana,5,NA,NA
+1985,Top,October_2023,Uncleared,TU_5,Helichrysumodoratissimum,2,NA,NA
+1985,Top,October_2023,Uncleared,TU_5,Clutianatalensis,1,NA,NA
+1985,Top,October_2023,Uncleared,TU_5,Rhamnusprinoides,1,NA,NA
+1985,Top,October_2023,Uncleared,TU_5,Asparagusasparagoides,4,NA,NA
+1985,Top,October_2023,Uncleared,TU_5,Helichrysumcymosum,1,NA,NA
+1985,Top,October_2023,Uncleared,TU_5,Salviarepens,50,NA,NA
+1985,Top,October_2023,Uncleared,TU_6,Myrsineafricana,50,Oenothera rosea,16
+1985,Top,October_2023,Uncleared,TU_6,Salviarepens,2,NA,NA
+1985,Top,October_2023,Uncleared,TU_6,Rhamnusprinoides,8,NA,NA
+1985,Top,October_2023,Uncleared,TU_6,Buddlejasalviifolia,1,NA,NA
+1985,Top,October_2023,Cleared,TC_1,Myrsineafricana,50,Oenothera rosea,2
+1985,Top,October_2023,Cleared,TC_1,Clutianatalensis,33,Verbena bonariensis,3
+1985,Top,October_2023,Cleared,TC_1,Cynoglossumhispidum,6,NA,NA
+1985,Top,October_2023,Cleared,TC_1,Gomphocarpusfruticosus,2,NA,NA
+1985,Top,October_2023,Cleared,TC_1,Clematisbrachiata,1,NA,NA
+1985,Top,October_2023,Cleared,TC_1,Berkheyafilifolia,1,NA,NA
+1985,Top,October_2023,Cleared,TC_2,Myrsineafricana,50,Oenothera rosea,6
+1985,Top,October_2023,Cleared,TC_2,Rhamnusprinoides,2,Conyza sumatrensis,3
+1985,Top,October_2023,Cleared,TC_2,Gerberapiloselloides,3,NA,NA
+1985,Top,October_2023,Cleared,TC_2,Clutianatalensis,2,NA,NA
+1985,Top,October_2023,Cleared,TC_2,Cynoglossumhispidum,2,NA,NA
+1985,Top,October_2023,Cleared,TC_2,Diospyrosaustro-africana,1,NA,NA
+1985,Top,October_2023,Cleared,TC_3,Jamesbritteniapristisepala,10,Oenothera rosea,50
+1985,Top,October_2023,Cleared,TC_3,Cynoglossumhispidum,35,Conyza sumatrensis,3
+1985,Top,October_2023,Cleared,TC_3,Clutianatalensis,4,Verbena bonariensis,1
+1985,Top,October_2023,Cleared,TC_3,Gomphocarpusfruticosus,2,Salvia tilifolia,1
+1985,Top,October_2023,Cleared,TC_3,Myrsineafricana,50,NA,NA
+1985,Top,October_2023,Cleared,TC_3,Arctotisarctotoides,12,NA,NA
+1985,Top,October_2023,Cleared,TC_3,Helichrysumodoratissimum,4,NA,NA
+1985,Top,October_2023,Cleared,TC_3,Salviarepens,38,NA,NA
+1985,Top,October_2023,Cleared,TC_3,Berkheyafilifolia,3,NA,NA
+1985,Top,October_2023,Cleared,TC_3,Rhamnusprinoides,1,NA,NA
+1985,Top,October_2023,Cleared,TC_3,Lotononislotononoides,1,NA,NA
+1985,Top,October_2023,Cleared,TC_3,Searsiadentata,8,NA,NA
+1985,Top,October_2023,Cleared,TC_3,Feliciafilifolia,1,NA,NA
+1985,Top,October_2023,Cleared,TC_4,Gerberapiloselloides,15,Conyza sumatrensis,3
+1985,Top,October_2023,Cleared,TC_4,Clutianatalensis,5,Oenothera rosea,4
+1985,Top,October_2023,Cleared,TC_4,Berkheyafilifolia,7,NA,NA
+1985,Top,October_2023,Cleared,TC_4,Rhamnusprinoides,6,NA,NA
+1985,Top,October_2023,Cleared,TC_4,Salviarepens,50,NA,NA
+1985,Top,October_2023,Cleared,TC_4,Myrsineafricana,50,NA,NA
+1985,Top,October_2023,Cleared,TC_4,Arctotisarctotoides,6,NA,NA
+1985,Top,October_2023,Cleared,TC_4,Cynoglossumhispidum,2,NA,NA
+1985,Top,October_2023,Cleared,TC_4,Senecioasperulus,1,NA,NA
+1985,Top,October_2023,Cleared,TC_5,Myrsineafricana,50,Conyza sumatrensis,1
+1985,Top,October_2023,Cleared,TC_5,Rhamnusprinoides,9,NA,NA
+1985,Top,October_2023,Cleared,TC_5,Cynoglossumhispidum,1,NA,NA
+1985,Top,October_2023,Cleared,TC_5,Scabiosacolumbaria,1,NA,NA
+1985,Top,October_2023,Cleared,TC_5,Salviarepens,50,NA,NA
+1985,Top,October_2023,Cleared,TC_5,Jamesbritteniapristisepala,5,NA,NA
+1985,Top,October_2023,Cleared,TC_5,Clutianatalensis,6,NA,NA
+1985,Top,October_2023,Cleared,TC_5,Cheilanthesquadripinnata,1,NA,NA
+1985,Top,October_2023,Cleared,TC_5,Clematisbrachiata,3,NA,NA
+1985,Top,October_2023,Cleared,TC_5,Gerberapiloselloides,3,NA,NA
+1985,Top,October_2023,Cleared,TC_5,Arctotisarctotoides,2,NA,NA
+1985,Top,October_2023,Cleared,TC_5,Helichrysumodoratissimum,2,NA,NA
+1985,Top,October_2023,Cleared,TC_5,Mohriavestitata,1,NA,NA
+1985,Top,October_2023,Cleared,TC_5,Searsiadentata,2,NA,NA
+1985,Top,October_2023,Cleared,TC_6,Albucarupestris,1,Oenothera rosea,1
+1985,Top,October_2023,Cleared,TC_6,Rubusludwigii,3,Conyza sumatrensis,4
+1985,Top,October_2023,Cleared,TC_6,Asparagusasparagoides,10,NA,NA
+1985,Top,October_2023,Cleared,TC_6,Salviarepens,13,NA,NA
+1985,Top,October_2023,Cleared,TC_6,Rhamnusprinoides,11,NA,NA
+1985,Top,October_2023,Cleared,TC_6,Cynoglossumhispidum,4,NA,NA
+1985,Top,October_2023,Cleared,TC_6,Clutianatalensis,15,NA,NA
+1985,Top,October_2023,Cleared,TC_6,Diclisreptans,17,NA,NA
+1985,Top,October_2023,Cleared,TC_6,Arctotisarctotoides,3,NA,NA
+1985,Top,October_2023,Cleared,TC_6,Myrsineafricana,50,NA,NA
+1985,Top,October_2023,Cleared,TC_6,Berkheyafilifolia,2,NA,NA
+1985,Top,October_2023,Cleared,TC_6,Eucleacrispa,1,NA,NA
+1985,Top,October_2023,Control,TK_1,Feliciafilifolia,2,Oenothera rosea,8
+1985,Top,October_2023,Control,TK_1,Scabiosacolumbaria,2,NA,NA
+1985,Top,October_2023,Control,TK_1,Helichrysumcymosum,18,NA,NA
+1985,Top,October_2023,Control,TK_1,Helichrysumnudifolium,15,NA,NA
+1985,Top,October_2023,Control,TK_1,Helichrysumodoratissimum,2,NA,NA
+1985,Top,October_2023,Control,TK_1,Hibiscusaethiopicus,7,NA,NA
+1985,Top,October_2023,Control,TK_1,Lotononislotononoides,4,NA,NA
+1985,Top,October_2023,Control,TK_1,Gerberapiloselloides,8,NA,NA
+1985,Top,October_2023,Control,TK_1,Feliciamuricata,3,NA,NA
+1985,Top,October_2023,Control,TK_1,Gazaniakrebsiana,14,NA,NA
+1985,Top,October_2023,Control,TK_1,Albucahumilis,2,NA,NA
+1985,Top,October_2023,Control,TK_1,Helichrysumrugulosum,2,NA,NA
+1985,Top,October_2023,Control,TK_2,Feliciafilifolia,11,Verbena bonariensis,8
+1985,Top,October_2023,Control,TK_2,Hibiscusaethiopicus,4,NA,NA
+1985,Top,October_2023,Control,TK_2,Senecioasperulus,3,NA,NA
+1985,Top,October_2023,Control,TK_2,Helichrysumcymosum,2,NA,NA
+1985,Top,October_2023,Control,TK_2,Gazaniakrebsiana,5,NA,NA
+1985,Top,October_2023,Control,TK_2,Seriphiumplumosum,2,NA,NA
+1985,Top,October_2023,Control,TK_2,Helichrysumodoratissimum,1,NA,NA
+1985,Top,October_2023,Control,TK_2,Asclepiasstellifera,1,NA,NA
+1985,Top,October_2023,Control,TK_2,Feliciamuricata,1,NA,NA
+1985,Top,October_2023,Control,TK_2,Lotononislaxa,1,NA,NA
+1985,Top,October_2023,Control,TK_3,Feliciafilifolia,4,NA,NA
+1985,Top,October_2023,Control,TK_3,Helichrysumcymosum,3,NA,NA
+1985,Top,October_2023,Control,TK_3,Helichrysumodoratissimum,3,NA,NA
+1985,Top,October_2023,Control,TK_3,Gerberapiloselloides,2,NA,NA
+1985,Top,October_2023,Control,TK_3,Crassuladependens,1,NA,NA
+1985,Top,October_2023,Control,TK_3,Lotononislaxa,1,NA,NA
+1985,Top,October_2023,Control,TK_3,Helichrysumrugulosum,1,NA,NA
+1985,Top,October_2023,Control,TK_3,Helichrysumnudifolium,1,NA,NA
+1985,Top,October_2023,Control,TK_4,Feliciafilifolia,16,NA,NA
+1985,Top,October_2023,Control,TK_4,Helichrysumcymosum,7,NA,NA
+1985,Top,October_2023,Control,TK_4,Diospyrosaustro-africana,1,NA,NA
+1985,Top,October_2023,Control,TK_4,Feliciamuricata,2,NA,NA
+1985,Top,October_2023,Control,TK_4,Helichrysumodoratissimum,12,NA,NA
+1985,Top,October_2023,Control,TK_4,Gazaniakrebsiana,30,NA,NA
+1985,Top,October_2023,Control,TK_4,Helichrysumnudifolium,3,NA,NA
+1985,Top,October_2023,Control,TK_4,Gerberapiloselloides,8,NA,NA
+1985,Top,October_2023,Control,TK_4,Chrysocomaciliata,1,NA,NA
+1985,Top,October_2023,Control,TK_4,Lotononislotononoides,3,NA,NA
+1985,Top,October_2023,Control,TK_4,Ajugaophrydis,7,NA,NA
+1985,Top,October_2023,Control,TK_4,Lotononislaxa,2,NA,NA
+1985,Top,October_2023,Control,TK_4,Hermanniacoccocarpa,1,NA,NA
+1985,Top,October_2023,Control,TK_4,Anthospermumherbaceum,1,NA,NA
+1985,Top,October_2023,Control,TK_5,Feliciafilifolia,2,Oenothera rosea,5
+1985,Top,October_2023,Control,TK_5,Feliciamuricata,2,NA,NA
+1985,Top,October_2023,Control,TK_5,Helichrysumcymosum,21,NA,NA
+1985,Top,October_2023,Control,TK_5,Helichrysumodoratissimum,11,NA,NA
+1985,Top,October_2023,Control,TK_5,Crassuladependens,1,NA,NA
+1985,Top,October_2023,Control,TK_5,Helichrysumnudifolium,1,NA,NA
+1985,Top,October_2023,Control,TK_5,Berkheyafilifolia,2,NA,NA
+1985,Top,October_2023,Control,TK_5,Euphobiastriata,1,NA,NA
+1985,Top,October_2023,Control,TK_5,Helichrysumrugulosum,1,NA,NA
+1985,Top,October_2023,Control,TK_6,Feliciafilifolia,5,NA,NA
+1985,Top,October_2023,Control,TK_6,Euphobiastriata,1,NA,NA
+1985,Top,October_2023,Control,TK_6,Helichrysumcymosum,4,NA,NA
+1985,Top,October_2023,Control,TK_6,Helichrysumodoratissimum,2,NA,NA
+1985,Top,October_2023,Control,TK_6,Lotononislaxa,7,NA,NA
+1985,Top,October_2023,Control,TK_6,Berkheyafilifolia,1,NA,NA
+1985,Top,October_2023,Control,TK_6,Arctotisarctotoides,10,NA,NA
+1985,Top,October_2023,Control,TK_6,Hibiscusaethiopicus,3,NA,NA
+1985,Top,October_2023,Control,TK_6,Gazaniakrebsiana,13,NA,NA
+1985,Top,October_2023,Control,TK_6,Ajugaophrydis,3,NA,NA
+1985,Top,October_2023,Control,TK_6,Feliciamuricata,8,NA,NA
+1985,Top,October_2023,Control,TK_6,Seriphiumplumosum,1,NA,NA
+1985,Top,October_2023,Control,TK_6,Ledebouriacooperi,1,NA,NA
+1985,Top,October_2023,Control,TK_6,Helichrysumnudifolium,1,NA,NA
+1985,Top,October_2023,Control,TK_6,Seneciomacrocephalus,1,NA,NA
+1985,Top,October_2023,Control,TK_6,Crassuladependens,1,NA,NA
+1985,Top,October_2023,Control,TK_6,Seneciodissimulans,1,NA,NA
